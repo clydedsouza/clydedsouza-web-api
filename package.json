@@ -1,0 +1,8 @@
+{
+  "name": "clydedsouza-projects",
+  "version": "0.0.1",
+  "author": "Clyde D'Souza",
+  "devDependencies": {
+    "markdown-to-json": "^0.5.1"
+  }
+}
