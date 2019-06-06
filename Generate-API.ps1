@@ -18,31 +18,10 @@ Param
     $IncludeSubfolders = $true
 )
 
-# List of helper functions
+# Import helper
 
-function printConsoleMessage {
-    param 
-    (
-        [string]$Message
-    )
-    return Write-Host "[INFO]" $Message -ForegroundColor Yellow
-}
+. .\Generate-API-Helper.ps1
 
-function getRelativeDirectoryName {
-    param 
-    (
-        [string]$FullDirectoryPath
-    )
-    return ".\" + $FullDirectoryPath.Substring($FullDirectoryPath.LastIndexOf($BaseDirectoryName)) + "\"
-}
-
-function getFilesFromCSV {
-    param 
-    (
-        [string]$filesCSV
-    )  
-    return $filesCSV.split(",") 
-}  
 
 # Main starts here
 
@@ -55,8 +34,8 @@ Try {
     # comma separated list of file name along with their relative path to 
     # the base directory supplied 
     Get-ChildItem $BaseDirectoryName -Filter *.md -Recurse:$IncludeSubfolders | Foreach-Object {  
-        $fullDirectoryPath = getRelativeDirectoryName -FullDirectoryPath $_.DirectoryName 
-        $mdFilesCSV += $fullDirectoryPath + $_.Name + ","
+        $fullDirectoryPath = getRelativeDirectoryName -FullDirectoryPath $_.DirectoryName  -BaseDirectoryName $BaseDirectoryName
+        $mdFilesCSV += appendFilename -FullDirectoryPath $fullDirectoryPath -Filename $_.Name
     }
     
     $mdFiles = getFilesFromCSV -filesCSV $mdFilesCSV   
