@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "author": "Clyde D'Souza",
   "devDependencies": {
+    "jsonlint": "^1.6.3",
     "markdown-to-json": "^0.5.1"
   }
 }
