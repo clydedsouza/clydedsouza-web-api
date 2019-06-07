@@ -1,0 +1,203 @@
+{
+  "A1pdWeb": {
+    "title": "A1 Professional Designs",
+    "date": "2016-02-01",
+    "description": "This is the official website for A1 Professional Designs owned by Roshini Daruwala. The aim was to redesign and give a whole new look to the website.",
+    "hasWebsite": true,
+    "website": "http://a1pd.co.nz/",
+    "onGithub": true,
+    "github": "https://github.com/a1pd/a1pd.github.io",
+    "languages": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Angular JS"
+    ],
+    "category": "Website",
+    "icon": "https://static.clydedsouza.net/images/icons/a1pd-icon.png",
+    "image": "https://static.clydedsouza.net/images/projects/a1pd.jpg",
+    "imageDescription": "Clyde developed a website for A1 Professional Designs owned by Roshini Daruwala",
+    "preview": "Clyde developed a website for A1 Professional Designs owned by …",
+    "iso8601Date": "2016-02-01T00:00:00+00:00",
+    "basename": "A1pdWeb"
+  },
+  "AngularJSWorkshop": {
+    "title": "Angular JS Workshop",
+    "date": "2016-02-01",
+    "description": "Workshop material on Angular JS 1.x. Easy to understand the basics of Angular JS and will give you a good kickstart in to developing your first Angular JS web app.",
+    "hasWebsite": false,
+    "website": "",
+    "onGithub": true,
+    "github": "https://github.com/ngClyde/",
+    "languages": [
+      "Angular JS"
+    ],
+    "category": "Workshop",
+    "icon": "https://static.clydedsouza.net/images/icons/angular-icon.png",
+    "image": "https://static.clydedsouza.net/images/projects/ngclyde.jpg",
+    "imageDescription": "Clyde has created an easy to understand resource/ knowledge base for Angular JS",
+    "preview": "Clyde has created an easy to understand resource/ knowledge base for …",
+    "iso8601Date": "2016-02-01T00:00:00+00:00",
+    "basename": "AngularJSWorkshop"
+  },
+  "Clymate": {
+    "title": "Clymate",
+    "date": "2016-01-01",
+    "description": "Clymate is a weather app that displays the current weather as well as the UV index for any given location in a beautiful interface.",
+    "hasWebsite": true,
+    "website": "https://clymate.azurewebsites.net/",
+    "onGithub": true,
+    "github": "https://github.com/ClydeDz/clymate",
+    "languages": [
+      "HTML",
+      "SCSS",
+      "CSS",
+      "Bootstrap",
+      "JavaScript",
+      "jQuery"
+    ],
+    "category": "Web App",
+    "icon": "https://static.clydedsouza.net/images/icons/clymate-icon.png",
+    "image": "https://static.clydedsouza.net/images/projects/clymate.jpg",
+    "imageDescription": "Clymate is a weather plus UV forecast app made using a colourful and brilliant UI",
+    "preview": "Clymate is a weather plus UV forecast app made using a colourful and …",
+    "iso8601Date": "2016-01-01T00:00:00+00:00",
+    "basename": "Clymate"
+  },
+  "Gitly": {
+    "title": "Gitly",
+    "date": "2016-02-01",
+    "description": "Gitly is a GitHub user lookup app that displays a GitHub user's basic public information in a beautiful interface. This app makes use of the GitHub API and is also an experiment with Angular Material.",
+    "hasWebsite": true,
+    "website": "https://gitly.azurewebsites.net/",
+    "onGithub": true,
+    "github": "https://github.com/ClydeDz/gitly",
+    "languages": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Angular JS",
+      "Angular JS Material"
+    ],
+    "category": "Web App",
+    "icon": "https://static.clydedsouza.net/images/icons/gitly-icon.png",
+    "image": "https://static.clydedsouza.net/images/projects/gitly.jpg",
+    "imageDescription": "Gitly is a GitHub user lookup app created by Clyde D'Souza",
+    "preview": "Gitly is a GitHub user lookup app created by Clyde D'Souza",
+    "iso8601Date": "2016-02-01T00:00:00+00:00",
+    "basename": "Gitly"
+  },
+  "Marcdown": {
+    "title": "Marcdown",
+    "date": "2016-01-01",
+    "description": "Marcdown is an online Markdown editor built with emphasis on simplicity. It also allows you to save your text content as a text file, Markdown file or a pdf file.",
+    "hasWebsite": true,
+    "website": "https://marcdown.azurewebsites.net/",
+    "onGithub": true,
+    "github": "https://github.com/ClydeDz/marcdown",
+    "languages": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Bootstrap",
+      "Angular JS",
+      "Angular Marked"
+    ],
+    "category": "Web App",
+    "icon": "https://static.clydedsouza.net/images/icons/marcdown-icon.png",
+    "image": "https://static.clydedsouza.net/images/projects/marcdown-snap.jpg",
+    "imageDescription": "Marcdown is a simple but powerful web app completely based on helping a user to understand Markdown better",
+    "preview": "Marcdown is a simple but powerful web app completely based on …",
+    "iso8601Date": "2016-01-01T00:00:00+00:00",
+    "basename": "Marcdown"
+  },
+  "NobsRatings": {
+    "title": "NOBS Ratings",
+    "date": "2016-02-26",
+    "description": "Lead developer at yet another Impact NPO charity weekend. This time our 6 member team developed a WordPress website from scratch for NOBS Ratings NZ.",
+    "hasWebsite": true,
+    "website": "http://nobsratings.org/",
+    "onGithub": false,
+    "github": "",
+    "languages": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Php",
+      "Angular JS"
+    ],
+    "category": "WordPress",
+    "icon": "https://static.clydedsouza.net/images/icons/nobsratings-icon.png",
+    "image": "https://static.clydedsouza.net/images/projects/nobsratings.jpg",
+    "imageDescription": "Another awesome website created by Clyde and team at Impact NPO for NOBS Ratings",
+    "preview": "Another awesome website created by Clyde and team at Impact NPO for …",
+    "iso8601Date": "2016-02-26T00:00:00+00:00",
+    "basename": "NobsRatings"
+  },
+  "ProjectRestore": {
+    "title": "Project Restore NZ",
+    "date": "2016-09-30",
+    "description": "With a team of 3 developers, 1 tester and 1 designer, we developed a website for Project Restore NZ using the very intuitive WordPress platform.",
+    "hasWebsite": true,
+    "website": "http://projectrestore.nz/",
+    "onGithub": false,
+    "github": "",
+    "languages": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Php"
+    ],
+    "category": "WordPress",
+    "icon": "https://static.clydedsouza.net/images/icons/projectrestore-icon.jpeg",
+    "image": "https://static.clydedsouza.net/images/projects/project-restore.jpg",
+    "imageDescription": "Simple and elegant website for Project Restore NZ developed at an Impact NPO event",
+    "preview": "Simple and elegant website for Project Restore NZ developed at an …",
+    "iso8601Date": "2016-09-30T00:00:00+00:00",
+    "basename": "ProjectRestore"
+  },
+  "PwpInc.ex": {
+    "title": "People with Parkinson's Inc",
+    "date": "2016-05-27",
+    "description": "Developer at Impact NPO charity weekend. This time our 8 member team developed a WordPress website for People with Parkinson's Inc, NZ.",
+    "hasWebsite": true,
+    "website": "http://pwpinc.nz/",
+    "onGithub": false,
+    "github": "",
+    "languages": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Php"
+    ],
+    "category": "WordPress",
+    "icon": "https://static.clydedsouza.net/images/icons/pwpinc-icon.png",
+    "image": "https://static.clydedsouza.net/images/projects/pwpinc.jpg",
+    "imageDescription": "Helping People with Parkinson's Inc with their website at Impact NPO",
+    "preview": "Helping People with Parkinson's Inc with their website at Impact NPO …",
+    "iso8601Date": "2016-05-27T00:00:00+00:00",
+    "basename": "PwpInc.ex"
+  },
+  "RainbowYouth": {
+    "title": "Rainbow Youth",
+    "date": "2016-08-12",
+    "description": "Developed a learning management system over the weekend with a team of 7 members for Rainbow Youth.",
+    "hasWebsite": true,
+    "website": "http://learn.ry.org.nz/",
+    "onGithub": false,
+    "github": "",
+    "languages": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Php"
+    ],
+    "category": "WordPress",
+    "icon": "https://static.clydedsouza.net/images/icons/ry-icon.jpeg",
+    "image": "https://static.clydedsouza.net/images/projects/rainbow-youth.jpg",
+    "imageDescription": "Developed a learning management system using WordPress and Sensei at Impact NPO",
+    "preview": "Developed a learning management system using WordPress and Sensei at …",
+    "iso8601Date": "2016-08-12T00:00:00+00:00",
+    "basename": "RainbowYouth"
+  }
+}
