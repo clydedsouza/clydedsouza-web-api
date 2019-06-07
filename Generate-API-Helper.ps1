@@ -1,9 +1,10 @@
 function printConsoleMessage {
+    [CmdletBinding()]
     param 
     (
         [string]$Message
     )
-    return Write-Host "[INFO]" $Message -ForegroundColor Yellow
+    return Write-Verbose ("[INFO]" + $Message)  
 }
 
 function getRelativeDirectoryName {
@@ -30,5 +31,13 @@ function appendFilename {
         [string]$Filename
     )
     return $FullDirectoryPath + $Filename + ","
+}  
+
+function getFileFilter {
+    param 
+    (
+        [string]$FileFilter
+    )
+    return "*" + $FileFilter + ".md" 
 }  
 

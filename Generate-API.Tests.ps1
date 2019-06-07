@@ -39,3 +39,22 @@ Describe 'appendFilename()' {
         $output | Should Be ".\projects\pinned\,"
     } 
 }
+
+Describe 'getFileFilter()' { 
+    it 'handles when no filter is applied' {  
+        $output = getFileFilter -FileFilter ""  
+        $output | Should Be "*.md"
+    }  
+    it 'handles when pinned filter is applied' {  
+        $output = getFileFilter -FileFilter ".pinned"  
+        $output | Should Be "*.pinned.md"
+    } 
+    it 'handles when unmaintained filter is applied' {  
+        $output = getFileFilter -FileFilter ".unmaintained"  
+        $output | Should Be "*.unmaintained.md"
+    } 
+    it 'handles when star filter is applied' {  
+        $output = getFileFilter -FileFilter ".star"  
+        $output | Should Be "*.star.md"
+    } 
+}

@@ -16,6 +16,3 @@ To convert the front matter part of each markdown file into API, I'm using the [
 
 ### Azure DevOps
 When I commit and push to `master`, a build is triggered that executes the PowerShell script in different ways (to generate various versions of the API based on the same data set) and make an artifact available. The release pipeline then picks up the contents made available by the build pipeline and deploys them to the `gh-pages` branch of this repository. I've used [this](https://marketplace.visualstudio.com/items?itemName=AccidentalFish.githubpages-publish) Azure DevOps task in my release pipeline to publish. 
-
-
-
