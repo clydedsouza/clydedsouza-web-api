@@ -2,12 +2,12 @@
   "Inspira": {
     "title": "Inspira",
     "date": "2012-08-01",
-    "description": "Designed and developed a website for the BMS Departments'' annual festival INSPIRA. Responsibilities included - ensuring that the website is up and running as per the given schedule, developing the website and meeting the expectations of the people concerned. This includes designing and developing the website, deploying the website, solving any issues with regard to the website itself or any issues with the hosting and deploying of the website and maintaining the website",
+    "description": "Designed and developed a website for the BMS Departments annual festival INSPIRA. Responsibilities included - ensuring that the website is up and running as per the given schedule, developing the website and meeting the expectations of the people concerned. This includes designing and developing the website, deploying the website, solving any issues with regard to the website itself or any issues with the hosting and deploying of the website and maintaining the website",
     "hasWebsite": false,
     "website": "",
     "onGithub": false,
     "github": "",
-    "languages": [
+    "madeUsing": [
       "HTML",
       "CSS",
       "JavaScript",
@@ -17,6 +17,7 @@
     "icon": "https://static.clydedsouza.net/images/icons/inspira-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/inspira-html.jpg",
     "imageDescription": "Inspira 2012 website was developed by Clyde D'Souza and Sagar Lone",
+    "status": "inactive",
     "preview": "Inspira 2012 website was developed by Clyde D'Souza and Sagar Lone",
     "iso8601Date": "2012-08-01T00:00:00+00:00",
     "basename": "Inspira"
@@ -29,13 +30,14 @@
     "website": "",
     "onGithub": false,
     "github": "",
-    "languages": [
+    "madeUsing": [
       "Photoshop"
     ],
     "category": "Graphic Design",
     "icon": "https://static.clydedsouza.net/images/icons/tulips-icon.jpe",
     "image": "https://static.clydedsouza.net/images/projects/tulips-collage.jpg",
     "imageDescription": "Church magazine cover designs by Clyde D'Souza",
+    "status": "active",
     "preview": "Church magazine cover designs by Clyde D'Souza December 2012 - …",
     "iso8601Date": "2012-12-01T00:00:00+00:00",
     "basename": "TulipsCover"
@@ -48,7 +50,7 @@
     "website": "",
     "onGithub": false,
     "github": "",
-    "languages": [
+    "madeUsing": [
       "HTML",
       "CSS",
       "JavaScript",
@@ -58,6 +60,7 @@
     "icon": "https://static.clydedsouza.net/images/icons/omg-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/omg-team.jpg",
     "imageDescription": "Project OMG is an interesting HTML-based game developed in 2013",
+    "status": "inactive",
     "preview": "Project OMG is an interesting HTML-based game developed in 2013",
     "iso8601Date": "2013-03-01T00:00:00+00:00",
     "basename": "ProjectOMG"
@@ -65,12 +68,12 @@
   "Bashell": {
     "title": "Bashell",
     "date": "2015-12-01",
-    "description": "Bashell is a browser-based terminal window with a difference. The aim was to experiment with the basics of web development to render the feel of a true terminal window. Bashell, like true terminal windows, has a set of predefined commands for you to have fun with.",
+    "description": "Bashell is a browser-based terminal window with a difference. The aim was to experiment with the basics of web development to render the feel of a true terminal window. Bashell, like a true terminal window, has a set of predefined commands for you to have fun with.",
     "hasWebsite": true,
     "website": "https://bashell.azurewebsites.net/",
     "onGithub": true,
     "github": "https://github.com/ClydeDz/bashell",
-    "languages": [
+    "madeUsing": [
       "HTML",
       "CSS",
       "Boostrap",
@@ -81,6 +84,7 @@
     "icon": "https://static.clydedsouza.net/images/icons/bashell-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/bashell.jpg",
     "imageDescription": "Bashell is a browser-based terminal window running on JavaScript",
+    "status": "active",
     "preview": "-\r\n\r\nBashell is a browser-based terminal window running on JavaScript",
     "iso8601Date": "2015-12-01T00:00:00+00:00",
     "basename": "Bashell"
@@ -88,12 +92,12 @@
   "Huntington": {
     "title": "Huntington's Disease Association Auckland",
     "date": "2015-11-06",
-    "description": "Developed a WordPress website over the weekend for Huntington's Disease Association Auckland in a team of 9 memebers. Primarily, I was the lead developer but my responsility also included to make 'how-to' video tutorials for the charity so that they could maintain the website thereafter. This hackathon was hosted by impactNPO.",
+    "description": "Developed a WordPress website over the weekend for Huntington's Disease Association Auckland in a team of 9 memebers. Primarily, I was the lead developer but my responsility also included making 'how-to' video tutorials for the charity so that they could maintain the website thereafter. This hackathon was hosted by impactNPO.",
     "hasWebsite": true,
     "website": "http://www.hdauckland.com",
     "onGithub": false,
     "github": "",
-    "languages": [
+    "madeUsing": [
       "HTML",
       "CSS",
       "JavaScript",
@@ -103,6 +107,7 @@
     "icon": "https://static.clydedsouza.net/images/icons/hdaakl-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/hdaakl-team.jpg",
     "imageDescription": "The dream team at Impact NPO re-unites to make another website for Huntington's Disease Association Auckland",
+    "status": "inactive",
     "preview": "The dream team at Impact NPO re-unites to make another website for\r\n …",
     "iso8601Date": "2015-11-06T00:00:00+00:00",
     "basename": "Huntington"
@@ -115,7 +120,7 @@
     "website": "",
     "onGithub": true,
     "github": "https://github.com/ClydeDz/KiwiSports",
-    "languages": [
+    "madeUsing": [
       "XAML",
       "C#"
     ],
@@ -123,6 +128,7 @@
     "icon": "https://static.clydedsouza.net/images/icons/kiwisports-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/kiwi-sports.jpg",
     "imageDescription": "Clyde developed his first Windows Store PC app called Kiwi Sports which is an all-in-one app for the All Blacks, Black Caps and Silver Ferns.",
+    "status": "inactive",
     "preview": "Clyde developed his first Windows Store PC app called Kiwi Sports …",
     "iso8601Date": "2015-09-01T00:00:00+00:00",
     "basename": "KiwiSports"
@@ -130,12 +136,12 @@
   "LuckVenue": {
     "title": "Luck Venue",
     "date": "2015-08-21",
-    "description": "Along with a team of 8, we developed a WordPress website for 'Luck Venue' a non-profit organisation during the hackathon weekend hosted by impactNPO.",
+    "description": "Along with a team of 8, we developed a WordPress website for Luck Venue - a non-profit organisation during the hackathon weekend hosted by impactNPO.",
     "hasWebsite": true,
     "website": "https://www.luckvenue.nz",
     "onGithub": false,
     "github": "",
-    "languages": [
+    "madeUsing": [
       "HTML",
       "CSS",
       "JavaScript",
@@ -145,6 +151,7 @@
     "icon": "https://static.clydedsouza.net/images/icons/luckvenue-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/luckvenue-website.jpg",
     "imageDescription": "Luck Venue is a WordPress website developed by an awesome dream team at an Impact NPO event in August",
+    "status": "inactive",
     "preview": "Luck Venue is a WordPress website developed by an awesome dream\r\n  …",
     "iso8601Date": "2015-08-21T00:00:00+00:00",
     "basename": "LuckVenue"
@@ -157,7 +164,7 @@
     "website": "https://clydedsouza-nandoso.azurewebsites.net/",
     "onGithub": true,
     "github": "https://github.com/ClydeDz/clydedsouza-nandoso",
-    "languages": [
+    "madeUsing": [
       "HTML",
       "CSS",
       "JavaScript",
@@ -169,6 +176,7 @@
     "icon": "https://static.clydedsouza.net/images/icons/nandoso-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/nandoso.jpg",
     "imageDescription": "Nadoso is an intuitive website for a fictional restaurant developed by Clyde D'Souza which includes Web Api, facebook authentication, disqus forum and not to forget, a delicious menu",
+    "status": "inactive",
     "preview": "Nadoso is an intuitive website for a fictional restaurant developed\r …",
     "iso8601Date": "2015-11-01T00:00:00+00:00",
     "basename": "Nandoso"
@@ -181,7 +189,7 @@
     "website": "https://www.sflp.org.nz",
     "onGithub": false,
     "github": "",
-    "languages": [
+    "madeUsing": [
       "HTML",
       "CSS",
       "JavaScript",
@@ -191,6 +199,7 @@
     "icon": "https://static.clydedsouza.net/images/icons/wordpress-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/sflp-website.jpg",
     "imageDescription": "We developed a website for Success for Little People using WordPress",
+    "status": "inactive",
     "preview": "We developed a website for Success for Little People using WordPress …",
     "iso8601Date": "2015-07-17T00:00:00+00:00",
     "basename": "Sflp"
@@ -203,7 +212,7 @@
     "website": "http://a1pd.co.nz/",
     "onGithub": true,
     "github": "https://github.com/a1pd/a1pd.github.io",
-    "languages": [
+    "madeUsing": [
       "HTML",
       "CSS",
       "JavaScript",
@@ -213,28 +222,10 @@
     "icon": "https://static.clydedsouza.net/images/icons/a1pd-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/a1pd.jpg",
     "imageDescription": "Clyde developed a website for A1 Professional Designs owned by Roshini Daruwala",
+    "status": "inactive",
     "preview": "Clyde developed a website for A1 Professional Designs owned by …",
     "iso8601Date": "2016-02-01T00:00:00+00:00",
     "basename": "A1pdWeb"
-  },
-  "AngularJSWorkshop": {
-    "title": "Angular JS Workshop",
-    "date": "2016-02-01",
-    "description": "Workshop material on Angular JS 1.x. Easy to understand the basics of Angular JS and will give you a good kickstart in to developing your first Angular JS web app.",
-    "hasWebsite": false,
-    "website": "",
-    "onGithub": true,
-    "github": "https://github.com/ngClyde/",
-    "languages": [
-      "Angular JS"
-    ],
-    "category": "Workshop",
-    "icon": "https://static.clydedsouza.net/images/icons/angular-icon.png",
-    "image": "https://static.clydedsouza.net/images/projects/ngclyde.jpg",
-    "imageDescription": "Clyde has created an easy to understand resource/ knowledge base for Angular JS",
-    "preview": "Clyde has created an easy to understand resource/ knowledge base for …",
-    "iso8601Date": "2016-02-01T00:00:00+00:00",
-    "basename": "AngularJSWorkshop"
   },
   "Clymate": {
     "title": "Clymate",
@@ -244,7 +235,7 @@
     "website": "https://clymate.azurewebsites.net/",
     "onGithub": true,
     "github": "https://github.com/ClydeDz/clymate",
-    "languages": [
+    "madeUsing": [
       "HTML",
       "SCSS",
       "CSS",
@@ -256,6 +247,7 @@
     "icon": "https://static.clydedsouza.net/images/icons/clymate-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/clymate.jpg",
     "imageDescription": "Clymate is a weather plus UV forecast app made using a colourful and brilliant UI",
+    "status": "inactive",
     "preview": "Clymate is a weather plus UV forecast app made using a colourful and …",
     "iso8601Date": "2016-01-01T00:00:00+00:00",
     "basename": "Clymate"
@@ -268,7 +260,7 @@
     "website": "https://gitly.azurewebsites.net/",
     "onGithub": true,
     "github": "https://github.com/ClydeDz/gitly",
-    "languages": [
+    "madeUsing": [
       "HTML",
       "CSS",
       "JavaScript",
@@ -279,6 +271,7 @@
     "icon": "https://static.clydedsouza.net/images/icons/gitly-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/gitly.jpg",
     "imageDescription": "Gitly is a GitHub user lookup app created by Clyde D'Souza",
+    "status": "inactive",
     "preview": "Gitly is a GitHub user lookup app created by Clyde D'Souza",
     "iso8601Date": "2016-02-01T00:00:00+00:00",
     "basename": "Gitly"
@@ -291,7 +284,7 @@
     "website": "https://marcdown.azurewebsites.net/",
     "onGithub": true,
     "github": "https://github.com/ClydeDz/marcdown",
-    "languages": [
+    "madeUsing": [
       "HTML",
       "CSS",
       "JavaScript",
@@ -303,6 +296,7 @@
     "icon": "https://static.clydedsouza.net/images/icons/marcdown-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/marcdown-snap.jpg",
     "imageDescription": "Marcdown is a simple but powerful web app completely based on helping a user to understand Markdown better",
+    "status": "active",
     "preview": "Marcdown is a simple but powerful web app completely based on …",
     "iso8601Date": "2016-01-01T00:00:00+00:00",
     "basename": "Marcdown"
@@ -315,7 +309,7 @@
     "website": "http://nobsratings.org/",
     "onGithub": false,
     "github": "",
-    "languages": [
+    "madeUsing": [
       "HTML",
       "CSS",
       "JavaScript",
@@ -326,6 +320,7 @@
     "icon": "https://static.clydedsouza.net/images/icons/nobsratings-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/nobsratings.jpg",
     "imageDescription": "Another awesome website created by Clyde and team at Impact NPO for NOBS Ratings",
+    "status": "inactive",
     "preview": "Another awesome website created by Clyde and team at Impact NPO for …",
     "iso8601Date": "2016-02-26T00:00:00+00:00",
     "basename": "NobsRatings"
@@ -338,7 +333,7 @@
     "website": "http://projectrestore.nz/",
     "onGithub": false,
     "github": "",
-    "languages": [
+    "madeUsing": [
       "HTML",
       "CSS",
       "JavaScript",
@@ -348,11 +343,12 @@
     "icon": "https://static.clydedsouza.net/images/icons/projectrestore-icon.jpeg",
     "image": "https://static.clydedsouza.net/images/projects/project-restore.jpg",
     "imageDescription": "Simple and elegant website for Project Restore NZ developed at an Impact NPO event",
+    "status": "inactive",
     "preview": "Simple and elegant website for Project Restore NZ developed at an …",
     "iso8601Date": "2016-09-30T00:00:00+00:00",
     "basename": "ProjectRestore"
   },
-  "PwpInc.ex": {
+  "PwpInc": {
     "title": "People with Parkinson's Inc",
     "date": "2016-05-27",
     "description": "Developer at Impact NPO charity weekend. This time our 8 member team developed a WordPress website for People with Parkinson's Inc, NZ.",
@@ -360,7 +356,7 @@
     "website": "http://pwpinc.nz/",
     "onGithub": false,
     "github": "",
-    "languages": [
+    "madeUsing": [
       "HTML",
       "CSS",
       "JavaScript",
@@ -370,9 +366,10 @@
     "icon": "https://static.clydedsouza.net/images/icons/pwpinc-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/pwpinc.jpg",
     "imageDescription": "Helping People with Parkinson's Inc with their website at Impact NPO",
+    "status": "inactive",
     "preview": "Helping People with Parkinson's Inc with their website at Impact NPO …",
     "iso8601Date": "2016-05-27T00:00:00+00:00",
-    "basename": "PwpInc.ex"
+    "basename": "PwpInc"
   },
   "RainbowYouth": {
     "title": "Rainbow Youth",
@@ -382,7 +379,7 @@
     "website": "http://learn.ry.org.nz/",
     "onGithub": false,
     "github": "",
-    "languages": [
+    "madeUsing": [
       "HTML",
       "CSS",
       "JavaScript",
@@ -392,6 +389,7 @@
     "icon": "https://static.clydedsouza.net/images/icons/ry-icon.jpeg",
     "image": "https://static.clydedsouza.net/images/projects/rainbow-youth.jpg",
     "imageDescription": "Developed a learning management system using WordPress and Sensei at Impact NPO",
+    "status": "inactive",
     "preview": "Developed a learning management system using WordPress and Sensei at …",
     "iso8601Date": "2016-08-12T00:00:00+00:00",
     "basename": "RainbowYouth"
@@ -404,7 +402,7 @@
     "website": "https://profilesticker.net",
     "onGithub": true,
     "github": "https://github.com/profilesticker/profilesticker.github.io/",
-    "languages": [
+    "madeUsing": [
       "HTML",
       "CSS",
       "SCSS",
@@ -415,6 +413,7 @@
     "icon": "https://static.clydedsouza.net/images/icons/profilesticker-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/profilesticker-website.png",
     "imageDescription": "Add a sticker to your profile picture using Profile Sticker in just 4 easy steps.",
+    "status": "active",
     "preview": "Add a sticker to your profile picture using Profile Sticker in just …",
     "iso8601Date": "2017-07-01T00:00:00+00:00",
     "basename": "ProfileSticker"
@@ -427,7 +426,7 @@
     "website": "https://recipybot.azurewebsites.net/",
     "onGithub": true,
     "github": "https://github.com/clydedz/RecipyBot",
-    "languages": [
+    "madeUsing": [
       "Microsoft Bot Framework",
       "Dialogflow (API.AI)",
       "C#",
@@ -440,6 +439,7 @@
     "icon": "https://static.clydedsouza.net/images/icons/therecipybot-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/therecipybot.jpg",
     "imageDescription": "The Recipy Bot helps you cook delicious meals by picking the best recipie for you.",
+    "status": "inactive",
     "preview": "The Recipy Bot helps you cook delicious meals by picking the best …",
     "iso8601Date": "2017-10-15T00:00:00+00:00",
     "basename": "RecipyBot"
@@ -452,7 +452,7 @@
     "website": "https://marketplace.visualstudio.com/items?itemName=clydedsouza.SassSnippetVsixExtension",
     "onGithub": true,
     "github": "https://github.com/ClydeDz/sass-snippet-pack",
-    "languages": [
+    "madeUsing": [
       "XML",
       "SCSS",
       "Visual C#",
@@ -464,6 +464,7 @@
     "icon": "https://static.clydedsouza.net/images/icons/sasssnippack-vsix-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/sass-vsix-ext-siteteaser.png",
     "imageDescription": "A snippet pack to help you write scss code. This adds a code snippet pack in the code snippet manager of Visual Studio.",
+    "status": "active",
     "preview": "A snippet pack to help you write scss code. This adds a code snippet …",
     "iso8601Date": "2017-12-17T00:00:00+00:00",
     "basename": "SassSnippetPackVS"
@@ -476,7 +477,7 @@
     "website": "https://thechameleon-web.azurewebsites.net",
     "onGithub": true,
     "github": "https://github.com/ClydeDz/TheChameleon",
-    "languages": [
+    "madeUsing": [
       "ASP.NET",
       "HTML",
       "SCSS",
@@ -489,6 +490,7 @@
     "icon": "https://static.clydedsouza.net/images/icons/thechameleon-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/thechameleon.jpg",
     "imageDescription": "Just like a chameleon, this website can change colour. Use the theme picker to see it in action.",
+    "status": "active",
     "preview": "Just like a chameleon, this website can change colour.",
     "iso8601Date": "2017-11-01T00:00:00+00:00",
     "basename": "TheChameleon"
@@ -501,7 +503,7 @@
     "website": "https://bit.ly/cicd-docs",
     "onGithub": true,
     "github": "https://github.com/ClydeDz/cicd-docs",
-    "languages": [
+    "madeUsing": [
       "HTML",
       "SCSS",
       "JavaScript",
@@ -514,6 +516,7 @@
     "icon": "https://static.clydedsouza.net/images/icons/cicd-docs-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/cicd-docs.png",
     "imageDescription": "Documenting your Azure DevOps pipeline was never easier - export, upload and go.",
+    "status": "active",
     "preview": "Documenting your Azure DevOps pipeline was never easier - export, …",
     "iso8601Date": "2018-09-22T00:00:00+00:00",
     "basename": "CicdDocs.pin"
@@ -521,12 +524,12 @@
   "FancyComments": {
     "title": "Fancy Comments",
     "date": "2018-02-06",
-    "description": "A snippet pack for use-case specific comments, supported for HTML, CSS, JavaScript, C#, SQL and XML. Available for Visual Studio 2015 & 2017 (All editions).",
+    "description": "A snippet pack for use-case specific comments, supported for HTML, CSS, JavaScript, C#, SQL and XML. Available for Visual Studio 2015, 2017 & 2019 (All editions).",
     "hasWebsite": true,
     "website": "https://marketplace.visualstudio.com/items?itemName=clydedsouza.FancyComments",
     "onGithub": true,
     "github": "https://github.com/ClydeDz/fancy-comments",
-    "languages": [
+    "madeUsing": [
       "XML",
       "Visual C#",
       "HTML",
@@ -538,6 +541,7 @@
     "icon": "https://static.clydedsouza.net/images/icons/fancycomments-vsix-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/fancycomments-vsix-siteteaser.png",
     "imageDescription": "A snippet pack for use-case specific comments, supported for HTML, CSS, JavaScript, C#, SQL and XML.",
+    "status": "active",
     "preview": "A snippet pack for use-case specific comments, supported for HTML, …",
     "iso8601Date": "2018-02-06T00:00:00+00:00",
     "basename": "FancyComments"
@@ -550,7 +554,7 @@
     "website": "https://marketplace.visualstudio.com/items?itemName=clydedsouza.GoogleAnalyticsSnippetPack",
     "onGithub": true,
     "github": "https://github.com/ClydeDz/google-analytics-snippet-pack",
-    "languages": [
+    "madeUsing": [
       "XML",
       "HTML",
       "JavaScript",
@@ -560,6 +564,7 @@
     "icon": "https://static.clydedsouza.net/images/icons/gasp-vsix-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/gasp-vsix.png",
     "imageDescription": "A snippet pack for working with Google Analytics global site tag (gtag.js).",
+    "status": "active",
     "preview": "A snippet pack for working with Google Analytics global site tag …",
     "iso8601Date": "2018-10-07T00:00:00+00:00",
     "basename": "GaspVS"
@@ -572,7 +577,7 @@
     "website": "https://www.nuget.org/packages/Horoscope/",
     "onGithub": true,
     "github": "https://github.com/ClydeDz/horoscope-nuget",
-    "languages": [
+    "madeUsing": [
       "C#",
       "xUnit",
       "Azure DevOps",
@@ -582,6 +587,7 @@
     "icon": "https://static.clydedsouza.net/images/icons/horoscope-nuget-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/horoscope-nuget.jpg",
     "imageDescription": "A NuGet package for zodiac signs.",
+    "status": "active",
     "preview": "A NuGet package for zodiac signs.",
     "iso8601Date": "2018-11-24T00:00:00+00:00",
     "basename": "HoroscopeNuGet"
@@ -594,7 +600,7 @@
     "website": "https://www.nuget.org/packages/Clymate.Themes.Chameleon/",
     "onGithub": true,
     "github": "https://github.com/ClydeDz/clymate-themes-chameleon-nuget",
-    "languages": [
+    "madeUsing": [
       "SCSS",
       "JS",
       "HTML",
@@ -605,6 +611,7 @@
     "icon": "https://static.clydedsouza.net/images/icons/clymatenuget-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/clymate-chameleon-theme.png",
     "imageDescription": "NuGet package that adds a themeable website called Chameleon to your project.",
+    "status": "active",
     "preview": "NuGet package that adds a themeable website called Chameleon to your …",
     "iso8601Date": "2019-04-22T00:00:00+00:00",
     "basename": "ChameleonNuGet"
@@ -617,7 +624,7 @@
     "website": "https://www.nuget.org/packages/Clymate.Scaffolding.Sass/",
     "onGithub": true,
     "github": "https://github.com/ClydeDz/clymate-scaffolding-sass-nuget/",
-    "languages": [
+    "madeUsing": [
       "SCSS",
       "Azure DevOps",
       "Azure Artifacts"
@@ -626,6 +633,7 @@
     "icon": "https://static.clydedsouza.net/images/icons/clymatenuget-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/clymate-scaf-sass.png",
     "imageDescription": "NuGet package that adds basic Sass scaffolding to your project. Use this scaffolding along with a sass compiler of your choice.",
+    "status": "active",
     "preview": "NuGet package that adds basic Sass scaffolding to your project. Use …",
     "iso8601Date": "2019-04-05T00:00:00+00:00",
     "basename": "ClymateScaffoldingNuGet"
@@ -638,7 +646,7 @@
     "website": "https://marketplace.visualstudio.com/items?itemName=clydedsouza.clymate-themes-vscode",
     "onGithub": true,
     "github": "https://github.com/ClydeDz/clymate-vscode-theme",
-    "languages": [
+    "madeUsing": [
       "JSON",
       "Node.js",
       "Mocha"
@@ -647,6 +655,7 @@
     "icon": "https://static.clydedsouza.net/images/icons/clymatenuget-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/clymatethemesvscode-siteteaser.png",
     "imageDescription": "A collection of themes for VS Code under the Clymate themes hood.",
+    "status": "active",
     "preview": "A collection of themes for VS Code under the Clymate themes hood.",
     "iso8601Date": "2019-05-11T00:00:00+00:00",
     "basename": "ClymateThemesVSCode"
@@ -659,7 +668,7 @@
     "website": "http://bit.ly/emoji-badges",
     "onGithub": true,
     "github": "https://github.com/ClydeDz/emoji-badges-vscode",
-    "languages": [
+    "madeUsing": [
       "JSON",
       "Node.js",
       "Mocha",
@@ -669,6 +678,7 @@
     "icon": "https://static.clydedsouza.net/images/icons/emojibadges-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/emojibadgesvscode-siteteaser.png",
     "imageDescription": "Snippets to insert emoji badges to your markdown file. These are shields.io badges boosted with emojis.",
+    "status": "active",
     "preview": "Snippets to insert emoji badges to your markdown file. These are …",
     "iso8601Date": "2019-05-19T00:00:00+00:00",
     "basename": "EmojiBadges"
@@ -681,16 +691,17 @@
     "website": "https://www.nuget.org/packages/FolderInspector/",
     "onGithub": true,
     "github": "https://github.com/ClydeDz/folder-inspector",
-    "languages": [
+    "madeUsing": [
       "C#",
       "xUnit",
       "Azure DevOps",
       "Azure Artifacts"
     ],
     "category": "NuGet",
-    "icon": "/images/icons/folderinspector-icon.png",
+    "icon": "https://static.clydedsouza.net/images/icons/folderinspector-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/folder-inspector.jpg",
     "imageDescription": "Folder Inspector to edit Word and Excel files developed by Clyde D'Souza",
+    "status": "active",
     "preview": "Folder Inspector to edit Word and Excel files developed by Clyde …",
     "iso8601Date": "2019-04-21T00:00:00+00:00",
     "basename": "FolderInspector"
@@ -703,7 +714,7 @@
     "website": "http://bit.ly/gaspvscode",
     "onGithub": true,
     "github": "https://github.com/ClydeDz/google-analytics-snippets-vscode",
-    "languages": [
+    "madeUsing": [
       "JSON",
       "Node.js",
       "Mocha"
@@ -712,6 +723,7 @@
     "icon": "https://static.clydedsouza.net/images/icons/gaspvscode-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/gaspvscode-siteteaser.png",
     "imageDescription": "Google Analytics Snippets for VS Code helps you write global site tag (gtag.js) code with ease.",
+    "status": "active",
     "preview": "Google Analytics Snippets for VS Code helps you write global site …",
     "iso8601Date": "2019-05-13T00:00:00+00:00",
     "basename": "GaspVSCode"
@@ -724,7 +736,7 @@
     "website": "https://marketplace.visualstudio.com/items?itemName=clydedsouza.meta-tag-analyzer",
     "onGithub": true,
     "github": "https://github.com/ClydeDz/meta-tag-analyzer",
-    "languages": [
+    "madeUsing": [
       "TypeScript",
       "Node.js",
       "Mocha"
@@ -733,6 +745,7 @@
     "icon": "https://static.clydedsouza.net/images/icons/metataganalyzer-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/metataganalyzer.png",
     "imageDescription": "An Azure DevOps task that generates a report after analysing the meta tags of each page on your website.",
+    "status": "active",
     "preview": "An Azure DevOps task that generates a report after analysing the …",
     "iso8601Date": "2019-05-01T00:00:00+00:00",
     "basename": "MetaTagAnalyzer.pin"
@@ -745,7 +758,7 @@
     "website": "http://bit.ly/robohash-avatars",
     "onGithub": true,
     "github": "https://github.com/ClydeDz/robohash-avatars-npm",
-    "languages": [
+    "madeUsing": [
       "TypeScript",
       "JavaScript",
       "Node.js",
@@ -756,6 +769,7 @@
     "icon": "https://static.clydedsouza.net/images/icons/robohashavatars-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/robohashavatars-siteteaser.png",
     "imageDescription": "Generate robot-based avatar images based on any text",
+    "status": "active",
     "preview": "Generate robot-based avatar images based on any text.",
     "iso8601Date": "2019-06-01T00:00:00+00:00",
     "basename": "RoboHashAvatars"
@@ -768,7 +782,7 @@
     "website": "http://bit.ly/ui-avatars",
     "onGithub": true,
     "github": "https://github.com/ClydeDz/uiavatars-npm",
-    "languages": [
+    "madeUsing": [
       "TypeScript",
       "JavaScript",
       "Node.js",
@@ -779,6 +793,7 @@
     "icon": "https://static.clydedsouza.net/images/icons/uiavatars-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/uiavatars-siteteaser.png",
     "imageDescription": "Generate avatar images based on user initials.",
+    "status": "active",
     "preview": "Generate avatar images based on user initials.",
     "iso8601Date": "2019-05-26T00:00:00+00:00",
     "basename": "UIAvatars"
@@ -791,7 +806,7 @@
     "website": "https://www.instagram.com/p/BwULmZKD5Az/",
     "onGithub": false,
     "github": "",
-    "languages": [],
+    "madeUsing": [],
     "category": "Offline workshop",
     "icon": "https://static.clydedsouza.net/images/icons/lightandsparknpo-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/lightandsparknpo-siteteaser.png",
@@ -808,7 +823,7 @@
     "website": "https://www.instagram.com/p/BwULmZKD5Az/",
     "onGithub": false,
     "github": "",
-    "languages": [],
+    "madeUsing": [],
     "category": "Offline workshop",
     "icon": "https://static.clydedsouza.net/images/icons/lightandsparknpo-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/lightandsparknpo-siteteaser.png",
@@ -825,7 +840,7 @@
     "website": "https://www.instagram.com/p/BwULmZKD5Az/",
     "onGithub": false,
     "github": "",
-    "languages": [],
+    "madeUsing": [],
     "category": "Offline workshop",
     "icon": "https://static.clydedsouza.net/images/icons/lightandsparknpo-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/lightandsparknpo-siteteaser.png",
@@ -842,7 +857,7 @@
     "website": "https://www.instagram.com/p/BwULmZKD5Az/",
     "onGithub": false,
     "github": "",
-    "languages": [],
+    "madeUsing": [],
     "category": "Offline workshop",
     "icon": "https://static.clydedsouza.net/images/icons/lightandsparknpo-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/lightandsparknpo-siteteaser.png",
@@ -859,7 +874,7 @@
     "website": "https://www.instagram.com/p/BwULmZKD5Az/",
     "onGithub": false,
     "github": "",
-    "languages": [],
+    "madeUsing": [],
     "category": "Offline workshop",
     "icon": "https://static.clydedsouza.net/images/icons/lightandsparknpo-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/lightandsparknpo-siteteaser.png",
@@ -876,7 +891,7 @@
     "website": "https://skl.sh/2W5AA5w",
     "onGithub": false,
     "github": "",
-    "languages": [],
+    "madeUsing": [],
     "category": "Skillshare online class",
     "icon": "https://static.clydedsouza.net/images/icons/skillshare-logo.jpg",
     "image": "https://static.clydedsouza.net/images/projects/ddnp.png",
@@ -893,7 +908,7 @@
     "website": "https://lightandsparknpo-web-prod.azurewebsites.net/mumbai-2018/",
     "onGithub": false,
     "github": "",
-    "languages": [],
+    "madeUsing": [],
     "category": "Offline workshop",
     "icon": "https://static.clydedsouza.net/images/icons/lightandsparknpo-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/lightandsparknpo-siteteaser.png",
@@ -910,7 +925,7 @@
     "website": "https://skl.sh/2QtxWrV",
     "onGithub": false,
     "github": "",
-    "languages": [],
+    "madeUsing": [],
     "category": "Skillshare online class",
     "icon": "https://static.clydedsouza.net/images/icons/skillshare-logo.jpg",
     "image": "https://static.clydedsouza.net/images/projects/skillshare-markdown.png",

@@ -7,7 +7,7 @@
     "website": "https://www.nuget.org/packages/Clymate.Themes.Chameleon/",
     "onGithub": true,
     "github": "https://github.com/ClydeDz/clymate-themes-chameleon-nuget",
-    "languages": [
+    "madeUsing": [
       "SCSS",
       "JS",
       "HTML",
@@ -18,6 +18,7 @@
     "icon": "https://static.clydedsouza.net/images/icons/clymatenuget-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/clymate-chameleon-theme.png",
     "imageDescription": "NuGet package that adds a themeable website called Chameleon to your project.",
+    "status": "active",
     "preview": "NuGet package that adds a themeable website called Chameleon to your …",
     "iso8601Date": "2019-04-22T00:00:00+00:00",
     "basename": "ChameleonNuGet"
@@ -30,7 +31,7 @@
     "website": "https://www.nuget.org/packages/Clymate.Scaffolding.Sass/",
     "onGithub": true,
     "github": "https://github.com/ClydeDz/clymate-scaffolding-sass-nuget/",
-    "languages": [
+    "madeUsing": [
       "SCSS",
       "Azure DevOps",
       "Azure Artifacts"
@@ -39,6 +40,7 @@
     "icon": "https://static.clydedsouza.net/images/icons/clymatenuget-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/clymate-scaf-sass.png",
     "imageDescription": "NuGet package that adds basic Sass scaffolding to your project. Use this scaffolding along with a sass compiler of your choice.",
+    "status": "active",
     "preview": "NuGet package that adds basic Sass scaffolding to your project. Use …",
     "iso8601Date": "2019-04-05T00:00:00+00:00",
     "basename": "ClymateScaffoldingNuGet"
@@ -51,7 +53,7 @@
     "website": "https://marketplace.visualstudio.com/items?itemName=clydedsouza.clymate-themes-vscode",
     "onGithub": true,
     "github": "https://github.com/ClydeDz/clymate-vscode-theme",
-    "languages": [
+    "madeUsing": [
       "JSON",
       "Node.js",
       "Mocha"
@@ -60,6 +62,7 @@
     "icon": "https://static.clydedsouza.net/images/icons/clymatenuget-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/clymatethemesvscode-siteteaser.png",
     "imageDescription": "A collection of themes for VS Code under the Clymate themes hood.",
+    "status": "active",
     "preview": "A collection of themes for VS Code under the Clymate themes hood.",
     "iso8601Date": "2019-05-11T00:00:00+00:00",
     "basename": "ClymateThemesVSCode"
@@ -72,7 +75,7 @@
     "website": "http://bit.ly/emoji-badges",
     "onGithub": true,
     "github": "https://github.com/ClydeDz/emoji-badges-vscode",
-    "languages": [
+    "madeUsing": [
       "JSON",
       "Node.js",
       "Mocha",
@@ -82,6 +85,7 @@
     "icon": "https://static.clydedsouza.net/images/icons/emojibadges-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/emojibadgesvscode-siteteaser.png",
     "imageDescription": "Snippets to insert emoji badges to your markdown file. These are shields.io badges boosted with emojis.",
+    "status": "active",
     "preview": "Snippets to insert emoji badges to your markdown file. These are …",
     "iso8601Date": "2019-05-19T00:00:00+00:00",
     "basename": "EmojiBadges"
@@ -94,16 +98,17 @@
     "website": "https://www.nuget.org/packages/FolderInspector/",
     "onGithub": true,
     "github": "https://github.com/ClydeDz/folder-inspector",
-    "languages": [
+    "madeUsing": [
       "C#",
       "xUnit",
       "Azure DevOps",
       "Azure Artifacts"
     ],
     "category": "NuGet",
-    "icon": "/images/icons/folderinspector-icon.png",
+    "icon": "https://static.clydedsouza.net/images/icons/folderinspector-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/folder-inspector.jpg",
     "imageDescription": "Folder Inspector to edit Word and Excel files developed by Clyde D'Souza",
+    "status": "active",
     "preview": "Folder Inspector to edit Word and Excel files developed by Clyde …",
     "iso8601Date": "2019-04-21T00:00:00+00:00",
     "basename": "FolderInspector"
@@ -116,7 +121,7 @@
     "website": "http://bit.ly/gaspvscode",
     "onGithub": true,
     "github": "https://github.com/ClydeDz/google-analytics-snippets-vscode",
-    "languages": [
+    "madeUsing": [
       "JSON",
       "Node.js",
       "Mocha"
@@ -125,6 +130,7 @@
     "icon": "https://static.clydedsouza.net/images/icons/gaspvscode-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/gaspvscode-siteteaser.png",
     "imageDescription": "Google Analytics Snippets for VS Code helps you write global site tag (gtag.js) code with ease.",
+    "status": "active",
     "preview": "Google Analytics Snippets for VS Code helps you write global site …",
     "iso8601Date": "2019-05-13T00:00:00+00:00",
     "basename": "GaspVSCode"
@@ -137,7 +143,7 @@
     "website": "https://marketplace.visualstudio.com/items?itemName=clydedsouza.meta-tag-analyzer",
     "onGithub": true,
     "github": "https://github.com/ClydeDz/meta-tag-analyzer",
-    "languages": [
+    "madeUsing": [
       "TypeScript",
       "Node.js",
       "Mocha"
@@ -146,6 +152,7 @@
     "icon": "https://static.clydedsouza.net/images/icons/metataganalyzer-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/metataganalyzer.png",
     "imageDescription": "An Azure DevOps task that generates a report after analysing the meta tags of each page on your website.",
+    "status": "active",
     "preview": "An Azure DevOps task that generates a report after analysing the …",
     "iso8601Date": "2019-05-01T00:00:00+00:00",
     "basename": "MetaTagAnalyzer.pin"
@@ -158,7 +165,7 @@
     "website": "http://bit.ly/robohash-avatars",
     "onGithub": true,
     "github": "https://github.com/ClydeDz/robohash-avatars-npm",
-    "languages": [
+    "madeUsing": [
       "TypeScript",
       "JavaScript",
       "Node.js",
@@ -169,6 +176,7 @@
     "icon": "https://static.clydedsouza.net/images/icons/robohashavatars-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/robohashavatars-siteteaser.png",
     "imageDescription": "Generate robot-based avatar images based on any text",
+    "status": "active",
     "preview": "Generate robot-based avatar images based on any text.",
     "iso8601Date": "2019-06-01T00:00:00+00:00",
     "basename": "RoboHashAvatars"
@@ -181,7 +189,7 @@
     "website": "http://bit.ly/ui-avatars",
     "onGithub": true,
     "github": "https://github.com/ClydeDz/uiavatars-npm",
-    "languages": [
+    "madeUsing": [
       "TypeScript",
       "JavaScript",
       "Node.js",
@@ -192,6 +200,7 @@
     "icon": "https://static.clydedsouza.net/images/icons/uiavatars-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/uiavatars-siteteaser.png",
     "imageDescription": "Generate avatar images based on user initials.",
+    "status": "active",
     "preview": "Generate avatar images based on user initials.",
     "iso8601Date": "2019-05-26T00:00:00+00:00",
     "basename": "UIAvatars"

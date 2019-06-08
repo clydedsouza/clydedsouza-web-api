@@ -7,7 +7,7 @@
     "website": "https://bit.ly/cicd-docs",
     "onGithub": true,
     "github": "https://github.com/ClydeDz/cicd-docs",
-    "languages": [
+    "madeUsing": [
       "HTML",
       "SCSS",
       "JavaScript",
@@ -20,6 +20,7 @@
     "icon": "https://static.clydedsouza.net/images/icons/cicd-docs-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/cicd-docs.png",
     "imageDescription": "Documenting your Azure DevOps pipeline was never easier - export, upload and go.",
+    "status": "active",
     "preview": "Documenting your Azure DevOps pipeline was never easier - export, …",
     "iso8601Date": "2018-09-22T00:00:00+00:00",
     "basename": "CicdDocs.pin"
@@ -27,12 +28,12 @@
   "FancyComments": {
     "title": "Fancy Comments",
     "date": "2018-02-06",
-    "description": "A snippet pack for use-case specific comments, supported for HTML, CSS, JavaScript, C#, SQL and XML. Available for Visual Studio 2015 & 2017 (All editions).",
+    "description": "A snippet pack for use-case specific comments, supported for HTML, CSS, JavaScript, C#, SQL and XML. Available for Visual Studio 2015, 2017 & 2019 (All editions).",
     "hasWebsite": true,
     "website": "https://marketplace.visualstudio.com/items?itemName=clydedsouza.FancyComments",
     "onGithub": true,
     "github": "https://github.com/ClydeDz/fancy-comments",
-    "languages": [
+    "madeUsing": [
       "XML",
       "Visual C#",
       "HTML",
@@ -44,6 +45,7 @@
     "icon": "https://static.clydedsouza.net/images/icons/fancycomments-vsix-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/fancycomments-vsix-siteteaser.png",
     "imageDescription": "A snippet pack for use-case specific comments, supported for HTML, CSS, JavaScript, C#, SQL and XML.",
+    "status": "active",
     "preview": "A snippet pack for use-case specific comments, supported for HTML, …",
     "iso8601Date": "2018-02-06T00:00:00+00:00",
     "basename": "FancyComments"
@@ -56,7 +58,7 @@
     "website": "https://marketplace.visualstudio.com/items?itemName=clydedsouza.GoogleAnalyticsSnippetPack",
     "onGithub": true,
     "github": "https://github.com/ClydeDz/google-analytics-snippet-pack",
-    "languages": [
+    "madeUsing": [
       "XML",
       "HTML",
       "JavaScript",
@@ -66,6 +68,7 @@
     "icon": "https://static.clydedsouza.net/images/icons/gasp-vsix-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/gasp-vsix.png",
     "imageDescription": "A snippet pack for working with Google Analytics global site tag (gtag.js).",
+    "status": "active",
     "preview": "A snippet pack for working with Google Analytics global site tag …",
     "iso8601Date": "2018-10-07T00:00:00+00:00",
     "basename": "GaspVS"
@@ -78,7 +81,7 @@
     "website": "https://www.nuget.org/packages/Horoscope/",
     "onGithub": true,
     "github": "https://github.com/ClydeDz/horoscope-nuget",
-    "languages": [
+    "madeUsing": [
       "C#",
       "xUnit",
       "Azure DevOps",
@@ -88,6 +91,7 @@
     "icon": "https://static.clydedsouza.net/images/icons/horoscope-nuget-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/horoscope-nuget.jpg",
     "imageDescription": "A NuGet package for zodiac signs.",
+    "status": "active",
     "preview": "A NuGet package for zodiac signs.",
     "iso8601Date": "2018-11-24T00:00:00+00:00",
     "basename": "HoroscopeNuGet"

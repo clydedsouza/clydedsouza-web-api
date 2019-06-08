@@ -7,7 +7,7 @@
     "website": "https://profilesticker.net",
     "onGithub": true,
     "github": "https://github.com/profilesticker/profilesticker.github.io/",
-    "languages": [
+    "madeUsing": [
       "HTML",
       "CSS",
       "SCSS",
@@ -18,6 +18,7 @@
     "icon": "https://static.clydedsouza.net/images/icons/profilesticker-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/profilesticker-website.png",
     "imageDescription": "Add a sticker to your profile picture using Profile Sticker in just 4 easy steps.",
+    "status": "active",
     "preview": "Add a sticker to your profile picture using Profile Sticker in just …",
     "iso8601Date": "2017-07-01T00:00:00+00:00",
     "basename": "ProfileSticker"
@@ -30,7 +31,7 @@
     "website": "https://recipybot.azurewebsites.net/",
     "onGithub": true,
     "github": "https://github.com/clydedz/RecipyBot",
-    "languages": [
+    "madeUsing": [
       "Microsoft Bot Framework",
       "Dialogflow (API.AI)",
       "C#",
@@ -43,6 +44,7 @@
     "icon": "https://static.clydedsouza.net/images/icons/therecipybot-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/therecipybot.jpg",
     "imageDescription": "The Recipy Bot helps you cook delicious meals by picking the best recipie for you.",
+    "status": "inactive",
     "preview": "The Recipy Bot helps you cook delicious meals by picking the best …",
     "iso8601Date": "2017-10-15T00:00:00+00:00",
     "basename": "RecipyBot"
@@ -55,7 +57,7 @@
     "website": "https://marketplace.visualstudio.com/items?itemName=clydedsouza.SassSnippetVsixExtension",
     "onGithub": true,
     "github": "https://github.com/ClydeDz/sass-snippet-pack",
-    "languages": [
+    "madeUsing": [
       "XML",
       "SCSS",
       "Visual C#",
@@ -67,6 +69,7 @@
     "icon": "https://static.clydedsouza.net/images/icons/sasssnippack-vsix-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/sass-vsix-ext-siteteaser.png",
     "imageDescription": "A snippet pack to help you write scss code. This adds a code snippet pack in the code snippet manager of Visual Studio.",
+    "status": "active",
     "preview": "A snippet pack to help you write scss code. This adds a code snippet …",
     "iso8601Date": "2017-12-17T00:00:00+00:00",
     "basename": "SassSnippetPackVS"
@@ -79,7 +82,7 @@
     "website": "https://thechameleon-web.azurewebsites.net",
     "onGithub": true,
     "github": "https://github.com/ClydeDz/TheChameleon",
-    "languages": [
+    "madeUsing": [
       "ASP.NET",
       "HTML",
       "SCSS",
@@ -92,6 +95,7 @@
     "icon": "https://static.clydedsouza.net/images/icons/thechameleon-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/thechameleon.jpg",
     "imageDescription": "Just like a chameleon, this website can change colour. Use the theme picker to see it in action.",
+    "status": "active",
     "preview": "Just like a chameleon, this website can change colour.",
     "iso8601Date": "2017-11-01T00:00:00+00:00",
     "basename": "TheChameleon"

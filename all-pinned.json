@@ -7,7 +7,7 @@
     "website": "https://bit.ly/cicd-docs",
     "onGithub": true,
     "github": "https://github.com/ClydeDz/cicd-docs",
-    "languages": [
+    "madeUsing": [
       "HTML",
       "SCSS",
       "JavaScript",
@@ -20,6 +20,7 @@
     "icon": "https://static.clydedsouza.net/images/icons/cicd-docs-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/cicd-docs.png",
     "imageDescription": "Documenting your Azure DevOps pipeline was never easier - export, upload and go.",
+    "status": "active",
     "preview": "Documenting your Azure DevOps pipeline was never easier - export, …",
     "iso8601Date": "2018-09-22T00:00:00+00:00",
     "basename": "CicdDocs.pin"
@@ -32,7 +33,7 @@
     "website": "https://marketplace.visualstudio.com/items?itemName=clydedsouza.meta-tag-analyzer",
     "onGithub": true,
     "github": "https://github.com/ClydeDz/meta-tag-analyzer",
-    "languages": [
+    "madeUsing": [
       "TypeScript",
       "Node.js",
       "Mocha"
@@ -41,6 +42,7 @@
     "icon": "https://static.clydedsouza.net/images/icons/metataganalyzer-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/metataganalyzer.png",
     "imageDescription": "An Azure DevOps task that generates a report after analysing the meta tags of each page on your website.",
+    "status": "active",
     "preview": "An Azure DevOps task that generates a report after analysing the …",
     "iso8601Date": "2019-05-01T00:00:00+00:00",
     "basename": "MetaTagAnalyzer.pin"
@@ -53,7 +55,7 @@
     "website": "https://skl.sh/2W5AA5w",
     "onGithub": false,
     "github": "",
-    "languages": [],
+    "madeUsing": [],
     "category": "Skillshare online class",
     "icon": "https://static.clydedsouza.net/images/icons/skillshare-logo.jpg",
     "image": "https://static.clydedsouza.net/images/projects/ddnp.png",
@@ -70,7 +72,7 @@
     "website": "https://lightandsparknpo-web-prod.azurewebsites.net/mumbai-2018/",
     "onGithub": false,
     "github": "",
-    "languages": [],
+    "madeUsing": [],
     "category": "Offline workshop",
     "icon": "https://static.clydedsouza.net/images/icons/lightandsparknpo-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/lightandsparknpo-siteteaser.png",
