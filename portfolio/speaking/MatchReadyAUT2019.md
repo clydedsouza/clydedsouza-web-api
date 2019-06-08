@@ -1,11 +1,9 @@
 ---
-title: AUT
-date: "2018-01-13"
-description: A 2-day workshop where we taught industry-relevant technologies to students
-  and helped an NGO with their online requirements. This event was conducted at Ruia
-  College, Mumbai.
+title: AUT Match Ready
+date: "2019-03-29"
+description: Placeholder
 hasWebsite: true
-website: https://lightandsparknpo-web-prod.azurewebsites.net/mumbai-2018/
+website: https://www.instagram.com/p/BwULmZKD5Az/
 onGithub: false
 github: ''
 languages: []
