@@ -14,6 +14,7 @@ category: Graphic Design
 icon: https://static.clydedsouza.net/images/icons/tulips-icon.jpe
 image: https://static.clydedsouza.net/images/projects/tulips-collage.jpg
 imageDescription: Church magazine cover designs by Clyde D'Souza
+status: active
 
 ---
 

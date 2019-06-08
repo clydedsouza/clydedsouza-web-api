@@ -17,6 +17,7 @@ icon: https://static.clydedsouza.net/images/icons/ry-icon.jpeg
 image: https://static.clydedsouza.net/images/projects/rainbow-youth.jpg
 imageDescription: Developed a learning management system using WordPress and Sensei
   at Impact NPO
+status: inactive
 
 ---
 

@@ -20,6 +20,7 @@ icon: https://static.clydedsouza.net/images/icons/cicd-docs-icon.png
 image: https://static.clydedsouza.net/images/projects/cicd-docs.png
 imageDescription: Documenting your Azure DevOps pipeline was never easier - export,
   upload and go.
+status: active
 
 ---
 

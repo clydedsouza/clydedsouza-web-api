@@ -21,6 +21,7 @@ icon: https://static.clydedsouza.net/images/icons/therecipybot-icon.png
 image: https://static.clydedsouza.net/images/projects/therecipybot.jpg
 imageDescription: The Recipy Bot helps you cook delicious meals by picking the best
   recipie for you.
+status: inactive
 
 ---
 

@@ -20,6 +20,7 @@ category: Website
 icon: https://static.clydedsouza.net/images/icons/inspira-icon.png
 image: https://static.clydedsouza.net/images/projects/inspira-html.jpg
 imageDescription: Inspira 2012 website was developed by Clyde D'Souza and Sagar Lone
+status: inactive
 
 ---
 

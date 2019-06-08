@@ -19,6 +19,7 @@ icon: https://static.clydedsouza.net/images/icons/profilesticker-icon.png
 image: https://static.clydedsouza.net/images/projects/profilesticker-website.png
 imageDescription: Add a sticker to your profile picture using Profile Sticker in just
   4 easy steps.
+status: active
 
 ---
 

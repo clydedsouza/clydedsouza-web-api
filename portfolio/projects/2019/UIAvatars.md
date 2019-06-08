@@ -16,6 +16,7 @@ category: npm
 icon: https://static.clydedsouza.net/images/icons/uiavatars-icon.png
 image: https://static.clydedsouza.net/images/projects/uiavatars-siteteaser.png
 imageDescription: Generate avatar images based on user initials.
+status: active
 
 ---
 

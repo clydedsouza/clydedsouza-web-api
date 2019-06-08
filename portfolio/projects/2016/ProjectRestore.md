@@ -17,6 +17,7 @@ icon: https://static.clydedsouza.net/images/icons/projectrestore-icon.jpeg
 image: https://static.clydedsouza.net/images/projects/project-restore.jpg
 imageDescription: Simple and elegant website for Project Restore NZ developed at an
   Impact NPO event
+status: inactive
 
 ---
 

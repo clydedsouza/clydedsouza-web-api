@@ -17,6 +17,7 @@ icon: https://static.clydedsouza.net/images/icons/kiwisports-icon.png
 image: https://static.clydedsouza.net/images/projects/kiwi-sports.jpg
 imageDescription: Clyde developed his first Windows Store PC app called Kiwi Sports
   which is an all-in-one app for the All Blacks, Black Caps and Silver Ferns.
+status: inactive
 
 ---
 
