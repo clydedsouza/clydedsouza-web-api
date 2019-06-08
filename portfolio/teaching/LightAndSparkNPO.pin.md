@@ -8,7 +8,7 @@ hasWebsite: true
 website: https://lightandsparknpo-web-prod.azurewebsites.net/mumbai-2018/
 onGithub: false
 github: ''
-languages: []
+madeUsing: []
 category: Offline workshop
 icon: https://static.clydedsouza.net/images/icons/lightandsparknpo-icon.png
 image: https://static.clydedsouza.net/images/projects/lightandsparknpo-siteteaser.png

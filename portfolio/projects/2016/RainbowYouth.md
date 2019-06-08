@@ -7,7 +7,7 @@ hasWebsite: true
 website: http://learn.ry.org.nz/
 onGithub: false
 github: ''
-languages:
+madeUsing:
 - HTML
 - CSS
 - JavaScript

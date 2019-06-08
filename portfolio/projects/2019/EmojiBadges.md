@@ -7,7 +7,7 @@ hasWebsite: true
 website: http://bit.ly/emoji-badges
 onGithub: true
 github: https://github.com/ClydeDz/emoji-badges-vscode
-languages:
+madeUsing:
 - JSON
 - Node.js
 - Mocha

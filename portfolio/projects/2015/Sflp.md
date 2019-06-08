@@ -9,7 +9,7 @@ hasWebsite: true
 website: https://www.sflp.org.nz
 onGithub: false
 github: ''
-languages:
+madeUsing:
 - HTML
 - CSS
 - JavaScript

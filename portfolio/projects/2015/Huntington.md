@@ -10,7 +10,7 @@ hasWebsite: true
 website: http://www.hdauckland.com
 onGithub: false
 github: ''
-languages:
+madeUsing:
 - HTML
 - CSS
 - JavaScript

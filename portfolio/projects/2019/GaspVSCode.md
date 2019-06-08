@@ -7,7 +7,7 @@ hasWebsite: true
 website: http://bit.ly/gaspvscode
 onGithub: true
 github: https://github.com/ClydeDz/google-analytics-snippets-vscode
-languages:
+madeUsing:
 - JSON
 - Node.js
 - Mocha

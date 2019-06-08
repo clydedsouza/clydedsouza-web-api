@@ -7,7 +7,7 @@ hasWebsite: true
 website: https://bit.ly/cicd-docs
 onGithub: true
 github: https://github.com/ClydeDz/cicd-docs
-languages:
+madeUsing:
 - HTML
 - SCSS
 - JavaScript

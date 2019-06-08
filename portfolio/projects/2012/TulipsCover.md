@@ -8,7 +8,7 @@ hasWebsite: false
 website: ''
 onGithub: false
 github: ''
-languages:
+madeUsing:
 - Photoshop
 category: Graphic Design
 icon: https://static.clydedsouza.net/images/icons/tulips-icon.jpe

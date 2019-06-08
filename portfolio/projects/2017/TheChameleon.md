@@ -7,7 +7,7 @@ hasWebsite: true
 website: https://thechameleon-web.azurewebsites.net
 onGithub: true
 github: https://github.com/ClydeDz/TheChameleon
-languages:
+madeUsing:
 - ASP.NET
 - HTML
 - SCSS

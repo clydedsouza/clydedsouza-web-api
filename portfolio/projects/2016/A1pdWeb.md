@@ -7,7 +7,7 @@ hasWebsite: true
 website: http://a1pd.co.nz/
 onGithub: true
 github: https://github.com/a1pd/a1pd.github.io
-languages:
+madeUsing:
 - HTML
 - CSS
 - JavaScript

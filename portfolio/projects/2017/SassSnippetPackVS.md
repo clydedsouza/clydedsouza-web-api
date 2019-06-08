@@ -7,7 +7,7 @@ hasWebsite: true
 website: https://marketplace.visualstudio.com/items?itemName=clydedsouza.SassSnippetVsixExtension
 onGithub: true
 github: https://github.com/ClydeDz/sass-snippet-pack
-languages:
+madeUsing:
 - XML
 - SCSS
 - Visual C#

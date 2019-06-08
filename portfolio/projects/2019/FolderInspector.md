@@ -8,7 +8,7 @@ hasWebsite: true
 website: https://www.nuget.org/packages/FolderInspector/
 onGithub: true
 github: https://github.com/ClydeDz/folder-inspector
-languages:
+madeUsing:
 - C#
 - xUnit
 - Azure DevOps

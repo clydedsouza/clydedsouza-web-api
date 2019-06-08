@@ -7,7 +7,7 @@ hasWebsite: true
 website: http://pwpinc.nz/
 onGithub: false
 github: ''
-languages:
+madeUsing:
 - HTML
 - CSS
 - JavaScript

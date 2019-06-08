@@ -7,7 +7,7 @@ hasWebsite: true
 website: http://projectrestore.nz/
 onGithub: false
 github: ''
-languages:
+madeUsing:
 - HTML
 - CSS
 - JavaScript

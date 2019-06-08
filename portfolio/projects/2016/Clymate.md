@@ -7,7 +7,7 @@ hasWebsite: true
 website: https://clymate.azurewebsites.net/
 onGithub: true
 github: https://github.com/ClydeDz/clymate
-languages:
+madeUsing:
 - HTML
 - SCSS
 - CSS

@@ -6,7 +6,7 @@ hasWebsite: true
 website: http://bit.ly/robohash-avatars
 onGithub: true
 github: https://github.com/ClydeDz/robohash-avatars-npm
-languages:
+madeUsing:
 - TypeScript
 - JavaScript
 - Node.js

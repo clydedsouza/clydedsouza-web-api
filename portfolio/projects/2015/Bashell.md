@@ -9,7 +9,7 @@ hasWebsite: true
 website: https://bashell.azurewebsites.net/
 onGithub: true
 github: https://github.com/ClydeDz/bashell
-languages:
+madeUsing:
 - HTML
 - CSS
 - Boostrap

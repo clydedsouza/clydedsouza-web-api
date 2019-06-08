@@ -8,7 +8,7 @@ hasWebsite: true
 website: https://gitly.azurewebsites.net/
 onGithub: true
 github: https://github.com/ClydeDz/gitly
-languages:
+madeUsing:
 - HTML
 - CSS
 - JavaScript

@@ -10,7 +10,7 @@ hasWebsite: true
 website: https://clydedsouza-nandoso.azurewebsites.net/
 onGithub: true
 github: https://github.com/ClydeDz/clydedsouza-nandoso
-languages:
+madeUsing:
 - HTML
 - CSS
 - JavaScript

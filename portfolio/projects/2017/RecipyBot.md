@@ -8,7 +8,7 @@ hasWebsite: true
 website: https://recipybot.azurewebsites.net/
 onGithub: true
 github: https://github.com/clydedz/RecipyBot
-languages:
+madeUsing:
 - Microsoft Bot Framework
 - Dialogflow (API.AI)
 - C#

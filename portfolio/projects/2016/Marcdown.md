@@ -8,7 +8,7 @@ hasWebsite: true
 website: https://marcdown.azurewebsites.net/
 onGithub: true
 github: https://github.com/ClydeDz/marcdown
-languages:
+madeUsing:
 - HTML
 - CSS
 - JavaScript

@@ -7,7 +7,7 @@ hasWebsite: true
 website: https://www.nuget.org/packages/Clymate.Scaffolding.Sass/
 onGithub: true
 github: https://github.com/ClydeDz/clymate-scaffolding-sass-nuget/
-languages:
+madeUsing:
 - SCSS
 - Azure DevOps
 - Azure Artifacts

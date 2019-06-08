@@ -8,7 +8,7 @@ hasWebsite: true
 website: https://profilesticker.net
 onGithub: true
 github: https://github.com/profilesticker/profilesticker.github.io/
-languages:
+madeUsing:
 - HTML
 - CSS
 - SCSS

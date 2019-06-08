@@ -6,7 +6,7 @@ hasWebsite: true
 website: https://marketplace.visualstudio.com/items?itemName=clydedsouza.clymate-themes-vscode
 onGithub: true
 github: https://github.com/ClydeDz/clymate-vscode-theme
-languages:
+madeUsing:
 - JSON
 - Node.js
 - Mocha

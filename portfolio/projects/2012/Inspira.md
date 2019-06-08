@@ -11,7 +11,7 @@ hasWebsite: false
 website: ''
 onGithub: false
 github: ''
-languages:
+madeUsing:
 - HTML
 - CSS
 - JavaScript

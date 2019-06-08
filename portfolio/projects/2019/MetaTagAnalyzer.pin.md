@@ -7,7 +7,7 @@ hasWebsite: true
 website: https://marketplace.visualstudio.com/items?itemName=clydedsouza.meta-tag-analyzer
 onGithub: true
 github: https://github.com/ClydeDz/meta-tag-analyzer
-languages:
+madeUsing:
 - TypeScript
 - Node.js
 - Mocha

@@ -7,7 +7,7 @@ hasWebsite: true
 website: https://marketplace.visualstudio.com/items?itemName=clydedsouza.FancyComments
 onGithub: true
 github: https://github.com/ClydeDz/fancy-comments
-languages:
+madeUsing:
 - XML
 - Visual C#
 - HTML

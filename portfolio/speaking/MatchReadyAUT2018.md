@@ -6,7 +6,7 @@ hasWebsite: true
 website: https://www.instagram.com/p/BwULmZKD5Az/
 onGithub: false
 github: ''
-languages: []
+madeUsing: []
 category: Offline workshop
 icon: https://static.clydedsouza.net/images/icons/lightandsparknpo-icon.png
 image: https://static.clydedsouza.net/images/projects/lightandsparknpo-siteteaser.png

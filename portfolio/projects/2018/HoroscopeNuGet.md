@@ -8,7 +8,7 @@ hasWebsite: true
 website: https://www.nuget.org/packages/Horoscope/
 onGithub: true
 github: https://github.com/ClydeDz/horoscope-nuget
-languages:
+madeUsing:
 - C#
 - xUnit
 - Azure DevOps

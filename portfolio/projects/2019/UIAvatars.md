@@ -6,7 +6,7 @@ hasWebsite: true
 website: http://bit.ly/ui-avatars
 onGithub: true
 github: https://github.com/ClydeDz/uiavatars-npm
-languages:
+madeUsing:
 - TypeScript
 - JavaScript
 - Node.js

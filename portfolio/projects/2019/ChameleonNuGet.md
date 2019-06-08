@@ -6,7 +6,7 @@ hasWebsite: true
 website: https://www.nuget.org/packages/Clymate.Themes.Chameleon/
 onGithub: true
 github: https://github.com/ClydeDz/clymate-themes-chameleon-nuget
-languages:
+madeUsing:
 - SCSS
 - JS
 - HTML

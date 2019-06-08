@@ -9,7 +9,7 @@ hasWebsite: false
 website: ''
 onGithub: true
 github: https://github.com/ClydeDz/KiwiSports
-languages:
+madeUsing:
 - XAML
 - C#
 category: Windows Store App (PC)

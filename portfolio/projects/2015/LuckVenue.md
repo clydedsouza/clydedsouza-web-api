@@ -7,7 +7,7 @@ hasWebsite: true
 website: https://www.luckvenue.nz
 onGithub: false
 github: ''
-languages:
+madeUsing:
 - HTML
 - CSS
 - JavaScript

@@ -8,7 +8,7 @@ hasWebsite: false
 website: ''
 onGithub: true
 github: https://github.com/ngClyde/
-languages:
+madeUsing:
 - Angular JS
 category: Workshop
 icon: https://static.clydedsouza.net/images/icons/angular-icon.png

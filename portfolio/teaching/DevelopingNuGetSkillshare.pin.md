@@ -7,7 +7,7 @@ hasWebsite: true
 website: https://skl.sh/2W5AA5w
 onGithub: false
 github: ''
-languages: []
+madeUsing: []
 category: Skillshare online class
 icon: https://static.clydedsouza.net/images/icons/skillshare-logo.jpg
 image: https://static.clydedsouza.net/images/projects/ddnp.png

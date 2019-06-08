@@ -7,7 +7,7 @@ hasWebsite: true
 website: https://marketplace.visualstudio.com/items?itemName=clydedsouza.GoogleAnalyticsSnippetPack
 onGithub: true
 github: https://github.com/ClydeDz/google-analytics-snippet-pack
-languages:
+madeUsing:
 - XML
 - HTML
 - JavaScript
