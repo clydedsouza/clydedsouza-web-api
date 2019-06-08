@@ -1,5 +1,5 @@
 ---
-title: 'Nandoso: A fictional restaurant'
+title: "Nandoso: A fictional restaurant"
 date: "2015-11-01"
 description: Nandoso is a web app that was made as a part of the Microsoft Student
   Accelerator programme and highlights the use of ASP.NET Web API framework, Facebook

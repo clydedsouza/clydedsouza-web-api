@@ -3,7 +3,7 @@ title: Huntington's Disease Association Auckland
 date: "2015-11-06"
 description: Developed a WordPress website over the weekend for Huntington's Disease
   Association Auckland in a team of 9 memebers. Primarily, I was the lead developer
-  but my responsility also included to make 'how-to' video tutorials for the charity
+  but my responsility also included making 'how-to' video tutorials for the charity
   so that they could maintain the website thereafter. This hackathon was hosted by
   impactNPO.
 hasWebsite: true

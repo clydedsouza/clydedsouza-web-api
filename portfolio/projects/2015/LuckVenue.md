@@ -1,7 +1,7 @@
 ---
 title: Luck Venue
 date: "2015-08-21"
-description: Along with a team of 8, we developed a WordPress website for 'Luck Venue'
+description: Along with a team of 8, we developed a WordPress website for Luck Venue - 
   a non-profit organisation during the hackathon weekend hosted by impactNPO.
 hasWebsite: true
 website: https://www.luckvenue.nz

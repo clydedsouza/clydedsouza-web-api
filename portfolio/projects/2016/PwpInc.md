@@ -15,8 +15,7 @@ languages:
 category: WordPress
 icon: https://static.clydedsouza.net/images/icons/pwpinc-icon.png
 image: https://static.clydedsouza.net/images/projects/pwpinc.jpg
-imageDescription: Helping People with Parkinson's Inc with their website at Impact
-  NPO
+imageDescription: Helping People with Parkinson's Inc with their website at Impact NPO
 
 ---
 

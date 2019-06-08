@@ -3,7 +3,7 @@ title: Bashell
 date: "2015-12-01"
 description: Bashell is a browser-based terminal window with a difference. The aim
   was to experiment with the basics of web development to render the feel of a true
-  terminal window. Bashell, like true terminal windows, has a set of predefined commands
+  terminal window. Bashell, like a true terminal window, has a set of predefined commands
   for you to have fun with.
 hasWebsite: true
 website: https://bashell.azurewebsites.net/

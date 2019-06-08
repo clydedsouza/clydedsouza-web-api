@@ -1,7 +1,7 @@
 ---
 title: Project OMG
 date: "2013-03-01"
-description:  "This was an interesting project as we put together an HTML-based game for our multimedia project. My primary responsibilities included conceptualising the game, creating graphics and developing the game. We used HTML, CSS, JavaScript and VML to develop this game. (In picture: Team members Sagar Lone and Biswajit Mishra and myself). Game can be viewed on request as it is not available online."
+description: "This was an interesting project as we put together an HTML-based game for our multimedia project. My primary responsibilities included conceptualising the game, creating graphics and developing the game. We used HTML, CSS, JavaScript and VML to develop this game. (In picture: Team members Sagar Lone and Biswajit Mishra and myself). Game can be viewed on request as it is not available online."
 hasWebsite: false
 website: ''
 onGithub: false
