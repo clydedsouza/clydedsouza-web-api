@@ -1,4 +1,4 @@
-# Projects API
+# Web API
 This repository contains all project information developed by Clyde.
 
 [![Build status](https://clydedsouza.visualstudio.com/Personal%20website/_apis/build/status/Projects%20Master)](https://clydedsouza.visualstudio.com/Personal%20website/_build/latest?definitionId=28) 
@@ -7,7 +7,7 @@ This repository contains all project information developed by Clyde.
 ![Development status](https://img.shields.io/static/v1.svg?label=status&message=under%20development&color=informational)
 
 ## Technical process
-I'm using the concept of a [static API generator](https://css-tricks.com/creating-static-api-repository/) to generate `JSON` files from my static data, in this case, markdown files located in the `projects` folder.
+I'm using the concept of a [static API generator](https://css-tricks.com/creating-static-api-repository/) to generate `JSON` files from my static data, in this case, markdown files located in the `portfolio` folder.
 
 ### Markdown files
 Each markdown file corresponds to a single project. The front matter part of the markdown file contains the meta data for the project that will be processed into the API file and optionally, some project write-up below it. At this stage, I'm not planning to use the write-up section but in future I'd probably have a 'project details' page on my site where I can display the markdown content (probably use a JS plugin to convert markdown to HTML) straight into my partial view.
