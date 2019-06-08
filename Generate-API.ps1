@@ -41,7 +41,11 @@ Try {
     # the base directory supplied 
     Get-ChildItem $BaseDirectoryName -Filter $fileFilter  -Recurse:$IncludeSubfolders | Foreach-Object {  
         $fullDirectoryPath = getRelativeDirectoryName -FullDirectoryPath $_.DirectoryName  -BaseDirectoryName $BaseDirectoryName
-        $mdFilesCSV += appendFilename -FullDirectoryPath $fullDirectoryPath -Filename $_.Name
+        $isProjectPrivate = $_.Name.StartsWith("_")
+        
+        if(!$isProjectPrivate){
+          $mdFilesCSV += appendFilename -FullDirectoryPath $fullDirectoryPath -Filename $_.Name
+        }        
     }
     
     $mdFiles = getFilesFromCSV -filesCSV $mdFilesCSV  
