@@ -1,5 +1,5 @@
 {
-  "DevelopingNuGetSkillshare.pinned": {
+  "DevelopingNuGetSkillshare.pin": {
     "title": "Developing and distributing NuGet packages",
     "date": "2019-03-07",
     "description": "Learn how to develop your very own NuGet package and then publish it to nuget.org. Use the link in this card to get 2 free months of Skillshare subscription.",
@@ -14,7 +14,7 @@
     "imageDescription": "Developing and distributing NuGet packages – Skillshare class",
     "preview": "Developing and distributing NuGet packages – Skillshare class",
     "iso8601Date": "2019-03-07T00:00:00+00:00",
-    "basename": "DevelopingNuGetSkillshare.pinned"
+    "basename": "DevelopingNuGetSkillshare.pin"
   },
   "LightAndSparkNPO.pin": {
     "title": "Light & Spark NPO - Ruia Jan 2018 Event",

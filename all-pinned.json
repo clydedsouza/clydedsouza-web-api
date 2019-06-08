@@ -45,6 +45,23 @@
     "iso8601Date": "2019-05-01T00:00:00+00:00",
     "basename": "MetaTagAnalyzer.pin"
   },
+  "DevelopingNuGetSkillshare.pin": {
+    "title": "Developing and distributing NuGet packages",
+    "date": "2019-03-07",
+    "description": "Learn how to develop your very own NuGet package and then publish it to nuget.org. Use the link in this card to get 2 free months of Skillshare subscription.",
+    "hasWebsite": true,
+    "website": "https://skl.sh/2W5AA5w",
+    "onGithub": false,
+    "github": "",
+    "languages": [],
+    "category": "Skillshare online class",
+    "icon": "https://static.clydedsouza.net/images/icons/skillshare-logo.jpg",
+    "image": "https://static.clydedsouza.net/images/projects/ddnp.png",
+    "imageDescription": "Developing and distributing NuGet packages – Skillshare class",
+    "preview": "Developing and distributing NuGet packages – Skillshare class",
+    "iso8601Date": "2019-03-07T00:00:00+00:00",
+    "basename": "DevelopingNuGetSkillshare.pin"
+  },
   "LightAndSparkNPO.pin": {
     "title": "Light & Spark NPO - Ruia Jan 2018 Event",
     "date": "2018-01-13",
