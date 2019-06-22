@@ -1,18 +1,18 @@
 ---
-title: AUT Match Ready
+title: AUT Match Ready 2018
 date: "2018-07-26"
-description: Placeholder
+description: I was invited to speak at the AUT Match Ready event along with other alumni. 
 hasWebsite: true
 website: https://www.instagram.com/p/BwULmZKD5Az/
 onGithub: false
 github: ''
 madeUsing: []
-category: Offline workshop
+category: Panelist speaker
 icon: https://static.clydedsouza.net/images/icons/lightandsparknpo-icon.png
-image: https://static.clydedsouza.net/images/projects/lightandsparknpo-siteteaser.png
-imageDescription: Light & Spark NPO - Ruia Jan 2018 Event
+image: https://static.clydedsouza.net/images/projects/aut-match-ready-2018.jpg
+imageDescription: I was invited to speak at the AUT Match Ready event along with other alumni. 
 relativeURL: 
 
 ---
 
-Light & Spark NPO - Ruia Jan 2018 Event 13th-14th January 2018
+I was invited to speak at the AUT Match Ready event along with other alumni. 
