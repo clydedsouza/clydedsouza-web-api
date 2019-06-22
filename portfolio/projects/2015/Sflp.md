@@ -19,7 +19,10 @@ icon: https://static.clydedsouza.net/images/icons/wordpress-icon.png
 image: https://static.clydedsouza.net/images/projects/sflp-website.jpg
 imageDescription: We developed a website for Success for Little People using WordPress
 status: inactive
+relativeURL: 
 
 ---
 
 We developed a website for Success for Little People using WordPress 17th - 19th July, 2015
+
+

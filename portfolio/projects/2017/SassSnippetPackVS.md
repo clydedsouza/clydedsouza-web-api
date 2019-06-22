@@ -20,7 +20,10 @@ image: https://static.clydedsouza.net/images/projects/sass-vsix-ext-siteteaser.p
 imageDescription: A snippet pack to help you write scss code. This adds a code snippet
   pack in the code snippet manager of Visual Studio.
 status: active
+relativeURL: 
 
 ---
 
 A snippet pack to help you write scss code. This adds a code snippet pack in the code snippet manager of Visual Studio.
+
+

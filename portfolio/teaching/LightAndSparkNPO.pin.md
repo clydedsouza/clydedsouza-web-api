@@ -13,6 +13,7 @@ category: Offline workshop
 icon: https://static.clydedsouza.net/images/icons/lightandsparknpo-icon.png
 image: https://static.clydedsouza.net/images/projects/lightandsparknpo-siteteaser.png
 imageDescription: Light & Spark NPO - Ruia Jan 2018 Event
+relativeURL: 
 
 ---
 

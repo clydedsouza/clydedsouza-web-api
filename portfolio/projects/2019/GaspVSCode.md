@@ -17,7 +17,9 @@ image: https://static.clydedsouza.net/images/projects/gaspvscode-siteteaser.png
 imageDescription: Google Analytics Snippets for VS Code helps you write global site
   tag (gtag.js) code with ease.
 status: active
+relativeURL: 
 
 ---
 
 Google Analytics Snippets for VS Code helps you write global site tag (gtag.js) code with ease.
+

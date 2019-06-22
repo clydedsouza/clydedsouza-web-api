@@ -18,7 +18,10 @@ icon: https://static.clydedsouza.net/images/icons/horoscope-nuget-icon.png
 image: https://static.clydedsouza.net/images/projects/horoscope-nuget.jpg
 imageDescription: A NuGet package for zodiac signs.
 status: active
+relativeURL: 
 
 ---
 
 A NuGet package for zodiac signs.
+
+

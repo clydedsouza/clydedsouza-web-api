@@ -20,7 +20,10 @@ image: https://static.clydedsouza.net/images/projects/clymate.jpg
 imageDescription: Clymate is a weather plus UV forecast app made using a colourful
   and brilliant UI
 status: inactive
+relativeURL: 
 
 ---
 
 Clymate is a weather plus UV forecast app made using a colourful and brilliant UI
+
+

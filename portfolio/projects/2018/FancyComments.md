@@ -20,7 +20,9 @@ image: https://static.clydedsouza.net/images/projects/fancycomments-vsix-sitetea
 imageDescription: A snippet pack for use-case specific comments, supported for HTML,
   CSS, JavaScript, C#, SQL and XML.
 status: active
+relativeURL: 
 
 ---
 
 A snippet pack for use-case specific comments, supported for HTML, CSS, JavaScript, C#, SQL and XML.
+

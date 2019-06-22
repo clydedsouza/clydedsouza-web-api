@@ -19,7 +19,10 @@ icon: https://static.clydedsouza.net/images/icons/gitly-icon.png
 image: https://static.clydedsouza.net/images/projects/gitly.jpg
 imageDescription: Gitly is a GitHub user lookup app created by Clyde D'Souza
 status: inactive
+relativeURL: 
 
 ---
 
 Gitly is a GitHub user lookup app created by Clyde D'Souza
+
+

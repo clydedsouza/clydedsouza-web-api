@@ -17,7 +17,9 @@ image: https://static.clydedsouza.net/images/projects/clymate-scaf-sass.png
 imageDescription: NuGet package that adds basic Sass scaffolding to your project.
   Use this scaffolding along with a sass compiler of your choice.
 status: active
+relativeURL: 
 
 ---
 
 NuGet package that adds basic Sass scaffolding to your project. Use this scaffolding along with a sass compiler of your choice.
+

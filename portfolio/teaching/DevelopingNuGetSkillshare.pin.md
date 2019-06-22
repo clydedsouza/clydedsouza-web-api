@@ -12,6 +12,7 @@ category: Skillshare online class
 icon: https://static.clydedsouza.net/images/icons/skillshare-logo.jpg
 image: https://static.clydedsouza.net/images/projects/ddnp.png
 imageDescription: Developing and distributing NuGet packages – Skillshare class
+relativeURL: 
 
 ---
 

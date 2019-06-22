@@ -18,7 +18,10 @@ image: https://static.clydedsouza.net/images/projects/project-restore.jpg
 imageDescription: Simple and elegant website for Project Restore NZ developed at an
   Impact NPO event
 status: inactive
+relativeURL: 
 
 ---
 
 Simple and elegant website for Project Restore NZ developed at an Impact NPO event 30th September - 2nd October, 2016
+
+

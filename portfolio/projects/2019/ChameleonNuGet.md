@@ -18,7 +18,9 @@ image: https://static.clydedsouza.net/images/projects/clymate-chameleon-theme.pn
 imageDescription: NuGet package that adds a themeable website called Chameleon to
   your project.
 status: active
+relativeURL: 
 
 ---
 
 NuGet package that adds a themeable website called Chameleon to your project.
+

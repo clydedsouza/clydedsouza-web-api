@@ -17,8 +17,10 @@ icon: https://static.clydedsouza.net/images/icons/robohashavatars-icon.png
 image: https://static.clydedsouza.net/images/projects/robohashavatars-siteteaser.png
 imageDescription: Generate robot-based avatar images based on any text
 status: active
+relativeURL: 
 
 ---
  
 Generate robot-based avatar images based on any text. 
  
+

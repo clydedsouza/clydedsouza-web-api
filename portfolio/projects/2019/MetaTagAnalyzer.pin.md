@@ -17,7 +17,9 @@ image: https://static.clydedsouza.net/images/projects/metataganalyzer.png
 imageDescription: An Azure DevOps task that generates a report after analysing the
   meta tags of each page on your website.
 status: active
+relativeURL: 
 
 ---
  
 An Azure DevOps task that generates a report after analysing the meta tags of each page on your website.
+

@@ -16,7 +16,9 @@ image: https://static.clydedsouza.net/images/projects/ngclyde.jpg
 imageDescription: Clyde has created an easy to understand resource/ knowledge base
   for Angular JS
 status: inactive
+relativeURL: 
 
 ---
 
 Clyde has created an easy to understand resource/ knowledge base for Angular JS
+

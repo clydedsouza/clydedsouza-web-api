@@ -18,8 +18,10 @@ image: https://static.clydedsouza.net/images/projects/emojibadgesvscode-siteteas
 imageDescription: Snippets to insert emoji badges to your markdown file. These are
   shields.io badges boosted with emojis.
 status: active
+relativeURL: 
 
 ---
  
 Snippets to insert emoji badges to your markdown file. These are shields.io badges boosted with emojis.
  
+
