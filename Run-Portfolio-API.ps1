@@ -43,6 +43,8 @@ ForEach ($projectYear in $projectYears) {
 
 
 # Move the 'modified' portfolio folder from temp to output where it can get published
+# Clean up working directory
 #--------------------------------------------------------
 
 Move-Item -Path "temp\portfolio" -Destination "output" 
+Remove-Item -LiteralPath "temp" -Force -Recurse
