@@ -19,7 +19,7 @@ Param
 
 # Import helper
 
-. .\Generate-API-Helper.ps1
+. .\scripts\Generate-API-Helper.ps1
 
 # Main starts here
 
@@ -40,8 +40,8 @@ Try {
         $fullFileName = $fullDirectoryPath + $_.Name
         $fullRelativeFileName = $fullFileName -replace '.\\temp\\','\'
         $fullRelativeFileName = $fullRelativeFileName -replace '\\','/'
-        
-        $replacedText = 'relativeURL: ' + $fullRelativeFileName
+       
+        $replacedText = 'relativeURL: ' + $fullRelativeFileName 
 
         ((Get-Content -path $fullFileName -Raw) -replace 'relativeURL:',$replacedText) | Set-Content -Path $fullFileName
     }

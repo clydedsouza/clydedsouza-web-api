@@ -22,7 +22,7 @@ Param
 
 # Import helper
 
-. .\Generate-API-Helper.ps1
+. .\scripts\Generate-API-Helper.ps1
 
 # Main starts here
 

@@ -1,15 +1,24 @@
+# Copy the portfolio folder into a temporary working directory
+# We'll run some updates on the portfolio items before generating an API out of it
+#-----------------------------------------------------------------------------------
+
+.\scripts\Copy-Folder.ps1 -SourceFolder "portfolio" -DestinationFolder "temp"
+
+.\scripts\Update-Portfolio.ps1 -BaseDirectoryName temp\portfolio 
+
+
 # Generate API files for different basic scenarios
 #--------------------------------------------------------
 
-.\Generate-API.ps1 -BaseDirectoryName portfolio -OutputFileName complete-portfolio 
+.\scripts\Generate-API.ps1 -BaseDirectoryName temp\portfolio -OutputFileName complete-portfolio 
 
-.\Generate-API.ps1 -BaseDirectoryName portfolio\projects -OutputFileName all-projects 
+.\scripts\Generate-API.ps1 -BaseDirectoryName temp\portfolio\projects -OutputFileName all-projects 
 
-.\Generate-API.ps1 -BaseDirectoryName portfolio\speaking -OutputFileName all-speaking 
+.\scripts\Generate-API.ps1 -BaseDirectoryName temp\portfolio\speaking -OutputFileName all-speaking 
 
-.\Generate-API.ps1 -BaseDirectoryName portfolio\teaching -OutputFileName all-teaching 
+.\scripts\Generate-API.ps1 -BaseDirectoryName temp\portfolio\teaching -OutputFileName all-teaching 
 
-.\Generate-API.ps1 -BaseDirectoryName portfolio -OutputFileName all-pinned -FilterTagForFiles .pin
+.\scripts\Generate-API.ps1 -BaseDirectoryName temp\portfolio -OutputFileName all-pinned -FilterTagForFiles .pin
 
 
 # Generate API files for slightly complex scenarios
@@ -28,6 +37,12 @@ ForEach ($projectYear in $projectYears) {
     continue
   }
 
-  $baseDirectory = "portfolio\projects\"+$projectYear
-  .\Generate-API.ps1 -BaseDirectoryName $baseDirectory -OutputFileName $projectYear 
+  $baseDirectory = "temp\portfolio\projects\"+$projectYear
+  .\scripts\Generate-API.ps1 -BaseDirectoryName $baseDirectory -OutputFileName $projectYear 
 }
+
+
+# Move the 'modified' portfolio folder from temp to output where it can get published
+#--------------------------------------------------------
+
+Move-Item -Path "temp\portfolio" -Destination "output" 

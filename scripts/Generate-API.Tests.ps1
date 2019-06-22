@@ -1,4 +1,4 @@
-. .\Generate-API-Helper.ps1
+. .\scripts\Generate-API-Helper.ps1
 
 Describe 'getRelativeDirectoryName()' { 
     it 'handles a 1 level directory' {  
