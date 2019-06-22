@@ -19,6 +19,7 @@
     "image": "https://static.clydedsouza.net/images/projects/clymate-chameleon-theme.png",
     "imageDescription": "NuGet package that adds a themeable website called Chameleon to your project.",
     "status": "active",
+    "relativeURL": "/portfolio/projects/2019/ChameleonNuGet.md",
     "preview": "NuGet package that adds a themeable website called Chameleon to your …",
     "iso8601Date": "2019-04-22T00:00:00+00:00",
     "basename": "ChameleonNuGet"
@@ -41,6 +42,7 @@
     "image": "https://static.clydedsouza.net/images/projects/clymate-scaf-sass.png",
     "imageDescription": "NuGet package that adds basic Sass scaffolding to your project. Use this scaffolding along with a sass compiler of your choice.",
     "status": "active",
+    "relativeURL": "/portfolio/projects/2019/ClymateScaffoldingNuGet.md",
     "preview": "NuGet package that adds basic Sass scaffolding to your project. Use …",
     "iso8601Date": "2019-04-05T00:00:00+00:00",
     "basename": "ClymateScaffoldingNuGet"
@@ -63,6 +65,7 @@
     "image": "https://static.clydedsouza.net/images/projects/clymatethemesvscode-siteteaser.png",
     "imageDescription": "A collection of themes for VS Code under the Clymate themes hood.",
     "status": "active",
+    "relativeURL": "/portfolio/projects/2019/ClymateThemesVSCode.md",
     "preview": "A collection of themes for VS Code under the Clymate themes hood.",
     "iso8601Date": "2019-05-11T00:00:00+00:00",
     "basename": "ClymateThemesVSCode"
@@ -86,6 +89,7 @@
     "image": "https://static.clydedsouza.net/images/projects/emojibadgesvscode-siteteaser.png",
     "imageDescription": "Snippets to insert emoji badges to your markdown file. These are shields.io badges boosted with emojis.",
     "status": "active",
+    "relativeURL": "/portfolio/projects/2019/EmojiBadges.md",
     "preview": "Snippets to insert emoji badges to your markdown file. These are …",
     "iso8601Date": "2019-05-19T00:00:00+00:00",
     "basename": "EmojiBadges"
@@ -109,6 +113,7 @@
     "image": "https://static.clydedsouza.net/images/projects/folder-inspector.jpg",
     "imageDescription": "Folder Inspector to edit Word and Excel files developed by Clyde D'Souza",
     "status": "active",
+    "relativeURL": "/portfolio/projects/2019/FolderInspector.md",
     "preview": "Folder Inspector to edit Word and Excel files developed by Clyde …",
     "iso8601Date": "2019-04-21T00:00:00+00:00",
     "basename": "FolderInspector"
@@ -131,6 +136,7 @@
     "image": "https://static.clydedsouza.net/images/projects/gaspvscode-siteteaser.png",
     "imageDescription": "Google Analytics Snippets for VS Code helps you write global site tag (gtag.js) code with ease.",
     "status": "active",
+    "relativeURL": "/portfolio/projects/2019/GaspVSCode.md",
     "preview": "Google Analytics Snippets for VS Code helps you write global site …",
     "iso8601Date": "2019-05-13T00:00:00+00:00",
     "basename": "GaspVSCode"
@@ -153,6 +159,7 @@
     "image": "https://static.clydedsouza.net/images/projects/metataganalyzer.png",
     "imageDescription": "An Azure DevOps task that generates a report after analysing the meta tags of each page on your website.",
     "status": "active",
+    "relativeURL": "/portfolio/projects/2019/MetaTagAnalyzer.pin.md",
     "preview": "An Azure DevOps task that generates a report after analysing the …",
     "iso8601Date": "2019-05-01T00:00:00+00:00",
     "basename": "MetaTagAnalyzer.pin"
@@ -177,6 +184,7 @@
     "image": "https://static.clydedsouza.net/images/projects/robohashavatars-siteteaser.png",
     "imageDescription": "Generate robot-based avatar images based on any text",
     "status": "active",
+    "relativeURL": "/portfolio/projects/2019/RoboHashAvatars.md",
     "preview": "Generate robot-based avatar images based on any text.",
     "iso8601Date": "2019-06-01T00:00:00+00:00",
     "basename": "RoboHashAvatars"
@@ -201,6 +209,7 @@
     "image": "https://static.clydedsouza.net/images/projects/uiavatars-siteteaser.png",
     "imageDescription": "Generate avatar images based on user initials.",
     "status": "active",
+    "relativeURL": "/portfolio/projects/2019/UIAvatars.md",
     "preview": "Generate avatar images based on user initials.",
     "iso8601Date": "2019-05-26T00:00:00+00:00",
     "basename": "UIAvatars"

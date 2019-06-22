@@ -21,6 +21,7 @@
     "image": "https://static.clydedsouza.net/images/projects/cicd-docs.png",
     "imageDescription": "Documenting your Azure DevOps pipeline was never easier - export, upload and go.",
     "status": "active",
+    "relativeURL": "/portfolio/projects/2018/CicdDocs.pin.md",
     "preview": "Documenting your Azure DevOps pipeline was never easier - export, …",
     "iso8601Date": "2018-09-22T00:00:00+00:00",
     "basename": "CicdDocs.pin"
@@ -43,6 +44,7 @@
     "image": "https://static.clydedsouza.net/images/projects/metataganalyzer.png",
     "imageDescription": "An Azure DevOps task that generates a report after analysing the meta tags of each page on your website.",
     "status": "active",
+    "relativeURL": "/portfolio/projects/2019/MetaTagAnalyzer.pin.md",
     "preview": "An Azure DevOps task that generates a report after analysing the …",
     "iso8601Date": "2019-05-01T00:00:00+00:00",
     "basename": "MetaTagAnalyzer.pin"
@@ -60,6 +62,7 @@
     "icon": "https://static.clydedsouza.net/images/icons/skillshare-logo.jpg",
     "image": "https://static.clydedsouza.net/images/projects/ddnp.png",
     "imageDescription": "Developing and distributing NuGet packages – Skillshare class",
+    "relativeURL": "/portfolio/teaching/DevelopingNuGetSkillshare.pin.md",
     "preview": "Developing and distributing NuGet packages – Skillshare class",
     "iso8601Date": "2019-03-07T00:00:00+00:00",
     "basename": "DevelopingNuGetSkillshare.pin"
@@ -77,6 +80,7 @@
     "icon": "https://static.clydedsouza.net/images/icons/lightandsparknpo-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/lightandsparknpo-siteteaser.png",
     "imageDescription": "Light & Spark NPO - Ruia Jan 2018 Event",
+    "relativeURL": "/portfolio/teaching/LightAndSparkNPO.pin.md",
     "preview": "Light & Spark NPO - Ruia Jan 2018 Event 13th-14th January 2018",
     "iso8601Date": "2018-01-13T00:00:00+00:00",
     "basename": "LightAndSparkNPO.pin"

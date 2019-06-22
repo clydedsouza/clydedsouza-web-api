@@ -19,6 +19,7 @@
     "image": "https://static.clydedsouza.net/images/projects/bashell.jpg",
     "imageDescription": "Bashell is a browser-based terminal window running on JavaScript",
     "status": "active",
+    "relativeURL": "/portfolio/projects/2015/Bashell.md",
     "preview": "-\r\n\r\nBashell is a browser-based terminal window running on JavaScript",
     "iso8601Date": "2015-12-01T00:00:00+00:00",
     "basename": "Bashell"
@@ -42,6 +43,7 @@
     "image": "https://static.clydedsouza.net/images/projects/hdaakl-team.jpg",
     "imageDescription": "The dream team at Impact NPO re-unites to make another website for Huntington's Disease Association Auckland",
     "status": "inactive",
+    "relativeURL": "/portfolio/projects/2015/Huntington.md",
     "preview": "The dream team at Impact NPO re-unites to make another website for\r\n …",
     "iso8601Date": "2015-11-06T00:00:00+00:00",
     "basename": "Huntington"
@@ -63,6 +65,7 @@
     "image": "https://static.clydedsouza.net/images/projects/kiwi-sports.jpg",
     "imageDescription": "Clyde developed his first Windows Store PC app called Kiwi Sports which is an all-in-one app for the All Blacks, Black Caps and Silver Ferns.",
     "status": "inactive",
+    "relativeURL": "/portfolio/projects/2015/KiwiSports.md",
     "preview": "Clyde developed his first Windows Store PC app called Kiwi Sports …",
     "iso8601Date": "2015-09-01T00:00:00+00:00",
     "basename": "KiwiSports"
@@ -86,6 +89,7 @@
     "image": "https://static.clydedsouza.net/images/projects/luckvenue-website.jpg",
     "imageDescription": "Luck Venue is a WordPress website developed by an awesome dream team at an Impact NPO event in August",
     "status": "inactive",
+    "relativeURL": "/portfolio/projects/2015/LuckVenue.md",
     "preview": "Luck Venue is a WordPress website developed by an awesome dream\r\n  …",
     "iso8601Date": "2015-08-21T00:00:00+00:00",
     "basename": "LuckVenue"
@@ -111,6 +115,7 @@
     "image": "https://static.clydedsouza.net/images/projects/nandoso.jpg",
     "imageDescription": "Nadoso is an intuitive website for a fictional restaurant developed by Clyde D'Souza which includes Web Api, facebook authentication, disqus forum and not to forget, a delicious menu",
     "status": "inactive",
+    "relativeURL": "/portfolio/projects/2015/Nandoso.md",
     "preview": "Nadoso is an intuitive website for a fictional restaurant developed\r …",
     "iso8601Date": "2015-11-01T00:00:00+00:00",
     "basename": "Nandoso"
@@ -134,6 +139,7 @@
     "image": "https://static.clydedsouza.net/images/projects/sflp-website.jpg",
     "imageDescription": "We developed a website for Success for Little People using WordPress",
     "status": "inactive",
+    "relativeURL": "/portfolio/projects/2015/Sflp.md",
     "preview": "We developed a website for Success for Little People using WordPress …",
     "iso8601Date": "2015-07-17T00:00:00+00:00",
     "basename": "Sflp"

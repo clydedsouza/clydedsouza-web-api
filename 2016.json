@@ -18,6 +18,7 @@
     "image": "https://static.clydedsouza.net/images/projects/a1pd.jpg",
     "imageDescription": "Clyde developed a website for A1 Professional Designs owned by Roshini Daruwala",
     "status": "inactive",
+    "relativeURL": "/portfolio/projects/2016/A1pdWeb.md",
     "preview": "Clyde developed a website for A1 Professional Designs owned by …",
     "iso8601Date": "2016-02-01T00:00:00+00:00",
     "basename": "A1pdWeb"
@@ -43,6 +44,7 @@
     "image": "https://static.clydedsouza.net/images/projects/clymate.jpg",
     "imageDescription": "Clymate is a weather plus UV forecast app made using a colourful and brilliant UI",
     "status": "inactive",
+    "relativeURL": "/portfolio/projects/2016/Clymate.md",
     "preview": "Clymate is a weather plus UV forecast app made using a colourful and …",
     "iso8601Date": "2016-01-01T00:00:00+00:00",
     "basename": "Clymate"
@@ -67,6 +69,7 @@
     "image": "https://static.clydedsouza.net/images/projects/gitly.jpg",
     "imageDescription": "Gitly is a GitHub user lookup app created by Clyde D'Souza",
     "status": "inactive",
+    "relativeURL": "/portfolio/projects/2016/Gitly.md",
     "preview": "Gitly is a GitHub user lookup app created by Clyde D'Souza",
     "iso8601Date": "2016-02-01T00:00:00+00:00",
     "basename": "Gitly"
@@ -92,6 +95,7 @@
     "image": "https://static.clydedsouza.net/images/projects/marcdown-snap.jpg",
     "imageDescription": "Marcdown is a simple but powerful web app completely based on helping a user to understand Markdown better",
     "status": "active",
+    "relativeURL": "/portfolio/projects/2016/Marcdown.md",
     "preview": "Marcdown is a simple but powerful web app completely based on …",
     "iso8601Date": "2016-01-01T00:00:00+00:00",
     "basename": "Marcdown"
@@ -116,6 +120,7 @@
     "image": "https://static.clydedsouza.net/images/projects/nobsratings.jpg",
     "imageDescription": "Another awesome website created by Clyde and team at Impact NPO for NOBS Ratings",
     "status": "inactive",
+    "relativeURL": "/portfolio/projects/2016/NobsRatings.md",
     "preview": "Another awesome website created by Clyde and team at Impact NPO for …",
     "iso8601Date": "2016-02-26T00:00:00+00:00",
     "basename": "NobsRatings"
@@ -139,6 +144,7 @@
     "image": "https://static.clydedsouza.net/images/projects/project-restore.jpg",
     "imageDescription": "Simple and elegant website for Project Restore NZ developed at an Impact NPO event",
     "status": "inactive",
+    "relativeURL": "/portfolio/projects/2016/ProjectRestore.md",
     "preview": "Simple and elegant website for Project Restore NZ developed at an …",
     "iso8601Date": "2016-09-30T00:00:00+00:00",
     "basename": "ProjectRestore"
@@ -162,6 +168,7 @@
     "image": "https://static.clydedsouza.net/images/projects/pwpinc.jpg",
     "imageDescription": "Helping People with Parkinson's Inc with their website at Impact NPO",
     "status": "inactive",
+    "relativeURL": "/portfolio/projects/2016/PwpInc.md",
     "preview": "Helping People with Parkinson's Inc with their website at Impact NPO …",
     "iso8601Date": "2016-05-27T00:00:00+00:00",
     "basename": "PwpInc"
@@ -185,6 +192,7 @@
     "image": "https://static.clydedsouza.net/images/projects/rainbow-youth.jpg",
     "imageDescription": "Developed a learning management system using WordPress and Sensei at Impact NPO",
     "status": "inactive",
+    "relativeURL": "/portfolio/projects/2016/RainbowYouth.md",
     "preview": "Developed a learning management system using WordPress and Sensei at …",
     "iso8601Date": "2016-08-12T00:00:00+00:00",
     "basename": "RainbowYouth"

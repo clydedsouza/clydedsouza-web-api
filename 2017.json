@@ -19,6 +19,7 @@
     "image": "https://static.clydedsouza.net/images/projects/profilesticker-website.png",
     "imageDescription": "Add a sticker to your profile picture using Profile Sticker in just 4 easy steps.",
     "status": "active",
+    "relativeURL": "/portfolio/projects/2017/ProfileSticker.md",
     "preview": "Add a sticker to your profile picture using Profile Sticker in just …",
     "iso8601Date": "2017-07-01T00:00:00+00:00",
     "basename": "ProfileSticker"
@@ -45,6 +46,7 @@
     "image": "https://static.clydedsouza.net/images/projects/therecipybot.jpg",
     "imageDescription": "The Recipy Bot helps you cook delicious meals by picking the best recipie for you.",
     "status": "inactive",
+    "relativeURL": "/portfolio/projects/2017/RecipyBot.md",
     "preview": "The Recipy Bot helps you cook delicious meals by picking the best …",
     "iso8601Date": "2017-10-15T00:00:00+00:00",
     "basename": "RecipyBot"
@@ -70,6 +72,7 @@
     "image": "https://static.clydedsouza.net/images/projects/sass-vsix-ext-siteteaser.png",
     "imageDescription": "A snippet pack to help you write scss code. This adds a code snippet pack in the code snippet manager of Visual Studio.",
     "status": "active",
+    "relativeURL": "/portfolio/projects/2017/SassSnippetPackVS.md",
     "preview": "A snippet pack to help you write scss code. This adds a code snippet …",
     "iso8601Date": "2017-12-17T00:00:00+00:00",
     "basename": "SassSnippetPackVS"
@@ -96,6 +99,7 @@
     "image": "https://static.clydedsouza.net/images/projects/thechameleon.jpg",
     "imageDescription": "Just like a chameleon, this website can change colour. Use the theme picker to see it in action.",
     "status": "active",
+    "relativeURL": "/portfolio/projects/2017/TheChameleon.md",
     "preview": "Just like a chameleon, this website can change colour.",
     "iso8601Date": "2017-11-01T00:00:00+00:00",
     "basename": "TheChameleon"

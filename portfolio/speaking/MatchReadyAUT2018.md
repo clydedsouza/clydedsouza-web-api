@@ -1,0 +1,18 @@
+---
+title: AUT Match Ready 2018
+date: "2018-07-26"
+description: I was invited to speak at the AUT Match Ready event along with other alumni. 
+hasWebsite: true
+website: https://www.instagram.com/p/BwULmZKD5Az/
+onGithub: false
+github: ''
+madeUsing: []
+category: Panelist speaker
+icon: https://static.clydedsouza.net/images/icons/lightandsparknpo-icon.png
+image: https://static.clydedsouza.net/images/projects/aut-match-ready-2018.jpg
+imageDescription: I was invited to speak at the AUT Match Ready event along with other alumni. 
+relativeURL: /portfolio/speaking/MatchReadyAUT2018.md 
+
+---
+
+I was invited to speak at the AUT Match Ready event along with other alumni. 

@@ -21,6 +21,7 @@
     "image": "https://static.clydedsouza.net/images/projects/cicd-docs.png",
     "imageDescription": "Documenting your Azure DevOps pipeline was never easier - export, upload and go.",
     "status": "active",
+    "relativeURL": "/portfolio/projects/2018/CicdDocs.pin.md",
     "preview": "Documenting your Azure DevOps pipeline was never easier - export, …",
     "iso8601Date": "2018-09-22T00:00:00+00:00",
     "basename": "CicdDocs.pin"
@@ -46,6 +47,7 @@
     "image": "https://static.clydedsouza.net/images/projects/fancycomments-vsix-siteteaser.png",
     "imageDescription": "A snippet pack for use-case specific comments, supported for HTML, CSS, JavaScript, C#, SQL and XML.",
     "status": "active",
+    "relativeURL": "/portfolio/projects/2018/FancyComments.md",
     "preview": "A snippet pack for use-case specific comments, supported for HTML, …",
     "iso8601Date": "2018-02-06T00:00:00+00:00",
     "basename": "FancyComments"
@@ -69,6 +71,7 @@
     "image": "https://static.clydedsouza.net/images/projects/gasp-vsix.png",
     "imageDescription": "A snippet pack for working with Google Analytics global site tag (gtag.js).",
     "status": "active",
+    "relativeURL": "/portfolio/projects/2018/GaspVS.md",
     "preview": "A snippet pack for working with Google Analytics global site tag …",
     "iso8601Date": "2018-10-07T00:00:00+00:00",
     "basename": "GaspVS"
@@ -92,6 +95,7 @@
     "image": "https://static.clydedsouza.net/images/projects/horoscope-nuget.jpg",
     "imageDescription": "A NuGet package for zodiac signs.",
     "status": "active",
+    "relativeURL": "/portfolio/projects/2018/HoroscopeNuGet.md",
     "preview": "A NuGet package for zodiac signs.",
     "iso8601Date": "2018-11-24T00:00:00+00:00",
     "basename": "HoroscopeNuGet"

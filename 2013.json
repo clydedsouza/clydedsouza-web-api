@@ -18,6 +18,7 @@
     "image": "https://static.clydedsouza.net/images/projects/omg-team.jpg",
     "imageDescription": "Project OMG is an interesting HTML-based game developed in 2013",
     "status": "inactive",
+    "relativeURL": "/portfolio/projects/2013/ProjectOMG.md",
     "preview": "Project OMG is an interesting HTML-based game developed in 2013",
     "iso8601Date": "2013-03-01T00:00:00+00:00",
     "basename": "ProjectOMG"
