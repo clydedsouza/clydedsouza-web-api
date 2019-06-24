@@ -18,7 +18,7 @@ icon: https://static.clydedsouza.net/images/icons/folderinspector-icon.png
 image: https://static.clydedsouza.net/images/projects/folder-inspector.jpg
 imageDescription: Folder Inspector to edit Word and Excel files developed by Clyde
   D'Souza
-status: active
+isActive: true
 relativeURL: 
 
 ---

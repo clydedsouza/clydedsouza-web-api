@@ -20,7 +20,7 @@ icon: https://static.clydedsouza.net/images/icons/marcdown-icon.png
 image: https://static.clydedsouza.net/images/projects/marcdown-snap.jpg
 imageDescription: Marcdown is a simple but powerful web app completely based on helping
   a user to understand Markdown better
-status: active
+isActive: true
 relativeURL: 
 
 ---

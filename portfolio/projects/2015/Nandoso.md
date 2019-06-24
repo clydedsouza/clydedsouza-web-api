@@ -23,7 +23,7 @@ image: https://static.clydedsouza.net/images/projects/nandoso.jpg
 imageDescription: Nadoso is an intuitive website for a fictional restaurant developed
   by Clyde D'Souza which includes Web Api, facebook authentication, disqus forum and
   not to forget, a delicious menu
-status: inactive
+isActive: false
 relativeURL: 
 
 ---

@@ -18,7 +18,7 @@ category: WordPress
 icon: https://static.clydedsouza.net/images/icons/wordpress-icon.png
 image: https://static.clydedsouza.net/images/projects/sflp-website.jpg
 imageDescription: We developed a website for Success for Little People using WordPress
-status: inactive
+isActive: false
 relativeURL: 
 
 ---

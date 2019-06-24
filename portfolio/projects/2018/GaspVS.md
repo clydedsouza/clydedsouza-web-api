@@ -17,7 +17,7 @@ icon: https://static.clydedsouza.net/images/icons/gasp-vsix-icon.png
 image: https://static.clydedsouza.net/images/projects/gasp-vsix.png
 imageDescription: A snippet pack for working with Google Analytics global site tag
   (gtag.js).
-status: active
+isActive: true
 relativeURL: 
 
 ---

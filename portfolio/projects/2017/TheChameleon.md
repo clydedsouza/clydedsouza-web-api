@@ -20,7 +20,7 @@ icon: https://static.clydedsouza.net/images/icons/thechameleon-icon.png
 image: https://static.clydedsouza.net/images/projects/thechameleon.jpg
 imageDescription: Just like a chameleon, this website can change colour. Use the theme
   picker to see it in action.
-status: active
+isActive: true
 relativeURL: 
 
 ---

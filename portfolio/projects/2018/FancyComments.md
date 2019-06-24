@@ -19,7 +19,7 @@ icon: https://static.clydedsouza.net/images/icons/fancycomments-vsix-icon.png
 image: https://static.clydedsouza.net/images/projects/fancycomments-vsix-siteteaser.png
 imageDescription: A snippet pack for use-case specific comments, supported for HTML,
   CSS, JavaScript, C#, SQL and XML.
-status: active
+isActive: true
 relativeURL: 
 
 ---
