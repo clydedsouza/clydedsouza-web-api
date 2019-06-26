@@ -1,6 +1,6 @@
 ---
 title: Developing and distributing NuGet packages
-date: "2019-03-29"
+date: "2019-03-21"
 description: Placeholder
 hasWebsite: true
 website: https://www.instagram.com/p/BwULmZKD5Az/

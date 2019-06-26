@@ -1,6 +1,6 @@
 ---
 title: Shaping the future of tech and helping the community
-date: "2019-03-29"
+date: "2018-03-29"
 description: Placeholder
 hasWebsite: true
 website: https://www.instagram.com/p/BwULmZKD5Az/
