@@ -1,5 +1,23 @@
 {
-  "MatchReadyAUT2018": {
+  "light-and-spark-presentation-datacom": {
+    "title": "Shaping the future of tech and helping the community",
+    "date": "2018-03-29",
+    "description": "Placeholder",
+    "hasWebsite": true,
+    "website": "https://www.instagram.com/p/BwULmZKD5Az/",
+    "onGithub": false,
+    "github": "",
+    "madeUsing": [],
+    "category": "Presentation",
+    "icon": "https://static.clydedsouza.net/images/icons/lightandsparknpo-icon.png",
+    "image": "https://static.clydedsouza.net/images/projects/presso-lightandsparknpo-datacom.jpg",
+    "imageDescription": "Light & Spark NPO - Ruia Jan 2018 Event",
+    "relativeURL": "/portfolio/speaking/light-and-spark-presentation-datacom.md",
+    "preview": "Light & Spark NPO - Ruia Jan 2018 Event 13th-14th January 2018",
+    "iso8601Date": "2018-03-29T00:00:00+00:00",
+    "basename": "light-and-spark-presentation-datacom"
+  },
+  "match-ready-aut-2018": {
     "title": "AUT Match Ready 2018",
     "date": "2018-07-26",
     "description": "I was invited to speak at the AUT Match Ready event along with other alumni.",
@@ -12,12 +30,12 @@
     "icon": "https://static.clydedsouza.net/images/icons/lightandsparknpo-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/aut-match-ready-2018.jpg",
     "imageDescription": "I was invited to speak at the AUT Match Ready event along with other alumni.",
-    "relativeURL": "/portfolio/speaking/MatchReadyAUT2018.md",
+    "relativeURL": "/portfolio/speaking/match-ready-aut-2018.md",
     "preview": "I was invited to speak at the AUT Match Ready event along with other …",
     "iso8601Date": "2018-07-26T00:00:00+00:00",
-    "basename": "MatchReadyAUT2018"
+    "basename": "match-ready-aut-2018"
   },
-  "MatchReadyAUT2019": {
+  "match-ready-aut-2019": {
     "title": "AUT Match Ready 2019",
     "date": "2019-03-29",
     "description": "I was invited to speak at the AUT Match Ready event along with other alumni.",
@@ -30,32 +48,14 @@
     "icon": "https://static.clydedsouza.net/images/icons/lightandsparknpo-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/aut-match-ready-2019.jpg",
     "imageDescription": "I was invited to speak at the AUT Match Ready event along with other alumni.",
-    "relativeURL": "/portfolio/speaking/MatchReadyAUT2019.md",
+    "relativeURL": "/portfolio/speaking/match-ready-aut-2019.md",
     "preview": "I was invited to speak at the AUT Match Ready event along with other …",
     "iso8601Date": "2019-03-29T00:00:00+00:00",
-    "basename": "MatchReadyAUT2019"
+    "basename": "match-ready-aut-2019"
   },
-  "PresoLightAndSparkDatacom": {
-    "title": "Shaping the future of tech and helping the community",
-    "date": "2019-03-29",
-    "description": "Placeholder",
-    "hasWebsite": true,
-    "website": "https://www.instagram.com/p/BwULmZKD5Az/",
-    "onGithub": false,
-    "github": "",
-    "madeUsing": [],
-    "category": "Presentation",
-    "icon": "https://static.clydedsouza.net/images/icons/lightandsparknpo-icon.png",
-    "image": "https://static.clydedsouza.net/images/projects/presso-lightandsparknpo-datacom.jpg",
-    "imageDescription": "Light & Spark NPO - Ruia Jan 2018 Event",
-    "relativeURL": "/portfolio/speaking/PresoLightAndSparkDatacom.md",
-    "preview": "Light & Spark NPO - Ruia Jan 2018 Event 13th-14th January 2018",
-    "iso8601Date": "2019-03-29T00:00:00+00:00",
-    "basename": "PresoLightAndSparkDatacom"
-  },
-  "PresoNuGetDatacom": {
+  "nuget-presentation-datacom": {
     "title": "Developing and distributing NuGet packages",
-    "date": "2019-03-29",
+    "date": "2019-03-21",
     "description": "Placeholder",
     "hasWebsite": true,
     "website": "https://www.instagram.com/p/BwULmZKD5Az/",
@@ -66,14 +66,14 @@
     "icon": "https://static.clydedsouza.net/images/icons/lightandsparknpo-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/presso-nuget-datacom.jpg",
     "imageDescription": "Light & Spark NPO - Ruia Jan 2018 Event",
-    "relativeURL": "/portfolio/speaking/PresoNuGetDatacom.md",
+    "relativeURL": "/portfolio/speaking/nuget-presentation-datacom.md",
     "preview": "Light & Spark NPO - Ruia Jan 2018 Event 13th-14th January 2018",
-    "iso8601Date": "2019-03-29T00:00:00+00:00",
-    "basename": "PresoNuGetDatacom"
+    "iso8601Date": "2019-03-21T00:00:00+00:00",
+    "basename": "nuget-presentation-datacom"
   },
-  "PresoSassDatacom": {
+  "sass-presentation-datacom": {
     "title": "Write awesome CSS using Sass",
-    "date": "2019-03-29",
+    "date": "2017-11-29",
     "description": "Placeholder",
     "hasWebsite": true,
     "website": "https://www.instagram.com/p/BwULmZKD5Az/",
@@ -84,9 +84,9 @@
     "icon": "https://static.clydedsouza.net/images/icons/lightandsparknpo-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/presso-sass-datacom.jpg",
     "imageDescription": "Light & Spark NPO - Ruia Jan 2018 Event",
-    "relativeURL": "/portfolio/speaking/PresoSassDatacom.md",
+    "relativeURL": "/portfolio/speaking/sass-presentation-datacom.md",
     "preview": "Light & Spark NPO - Ruia Jan 2018 Event 13th-14th January 2018",
-    "iso8601Date": "2019-03-29T00:00:00+00:00",
-    "basename": "PresoSassDatacom"
+    "iso8601Date": "2017-11-29T00:00:00+00:00",
+    "basename": "sass-presentation-datacom"
   }
 }

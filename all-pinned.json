@@ -1,5 +1,5 @@
 {
-  "CicdDocs.pin": {
+  "cicd-docs.pin": {
     "title": "CI/CD Docs",
     "date": "2018-09-22",
     "description": "Documenting your Azure DevOps pipeline was never easier - export, upload and go.",
@@ -20,13 +20,13 @@
     "icon": "https://static.clydedsouza.net/images/icons/cicd-docs-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/cicd-docs.png",
     "imageDescription": "Documenting your Azure DevOps pipeline was never easier - export, upload and go.",
-    "status": "active",
-    "relativeURL": "/portfolio/projects/2018/CicdDocs.pin.md",
+    "isActive": true,
+    "relativeURL": "/portfolio/projects/2018/cicd-docs.pin.md",
     "preview": "Documenting your Azure DevOps pipeline was never easier - export, …",
     "iso8601Date": "2018-09-22T00:00:00+00:00",
-    "basename": "CicdDocs.pin"
+    "basename": "cicd-docs.pin"
   },
-  "MetaTagAnalyzer.pin": {
+  "meta-tag-analyzer.pin": {
     "title": "Meta Tag Analyzer",
     "date": "2019-05-01",
     "description": "An Azure DevOps task that generates a report after analysing the meta tags of each page on your website.",
@@ -43,13 +43,13 @@
     "icon": "https://static.clydedsouza.net/images/icons/metataganalyzer-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/metataganalyzer.png",
     "imageDescription": "An Azure DevOps task that generates a report after analysing the meta tags of each page on your website.",
-    "status": "active",
-    "relativeURL": "/portfolio/projects/2019/MetaTagAnalyzer.pin.md",
+    "isActive": true,
+    "relativeURL": "/portfolio/projects/2019/meta-tag-analyzer.pin.md",
     "preview": "An Azure DevOps task that generates a report after analysing the …",
     "iso8601Date": "2019-05-01T00:00:00+00:00",
-    "basename": "MetaTagAnalyzer.pin"
+    "basename": "meta-tag-analyzer.pin"
   },
-  "DevelopingNuGetSkillshare.pin": {
+  "developing-nuget-skillshare.pin": {
     "title": "Developing and distributing NuGet packages",
     "date": "2019-03-07",
     "description": "Learn how to develop your very own NuGet package and then publish it to nuget.org. Use the link in this card to get 2 free months of Skillshare subscription.",
@@ -62,12 +62,12 @@
     "icon": "https://static.clydedsouza.net/images/icons/skillshare-logo.jpg",
     "image": "https://static.clydedsouza.net/images/projects/ddnp.png",
     "imageDescription": "Developing and distributing NuGet packages – Skillshare class",
-    "relativeURL": "/portfolio/teaching/DevelopingNuGetSkillshare.pin.md",
+    "relativeURL": "/portfolio/teaching/developing-nuget-skillshare.pin.md",
     "preview": "Developing and distributing NuGet packages – Skillshare class",
     "iso8601Date": "2019-03-07T00:00:00+00:00",
-    "basename": "DevelopingNuGetSkillshare.pin"
+    "basename": "developing-nuget-skillshare.pin"
   },
-  "LightAndSparkNPO.pin": {
+  "light-and-spark-npo.pin": {
     "title": "Light & Spark NPO - Ruia Jan 2018 Event",
     "date": "2018-01-13",
     "description": "A 2-day workshop where we taught industry-relevant technologies to students and helped an NGO with their online requirements. This event was conducted at Ruia College, Mumbai.",
@@ -80,9 +80,9 @@
     "icon": "https://static.clydedsouza.net/images/icons/lightandsparknpo-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/lightandsparknpo-siteteaser.png",
     "imageDescription": "Light & Spark NPO - Ruia Jan 2018 Event",
-    "relativeURL": "/portfolio/teaching/LightAndSparkNPO.pin.md",
+    "relativeURL": "/portfolio/teaching/light-and-spark-npo.pin.md",
     "preview": "Light & Spark NPO - Ruia Jan 2018 Event 13th-14th January 2018",
     "iso8601Date": "2018-01-13T00:00:00+00:00",
-    "basename": "LightAndSparkNPO.pin"
+    "basename": "light-and-spark-npo.pin"
   }
 }

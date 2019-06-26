@@ -18,7 +18,7 @@
     "icon": "https://static.clydedsouza.net/images/icons/bashell-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/bashell.jpg",
     "imageDescription": "Bashell is a browser-based terminal window running on JavaScript",
-    "status": "active",
+    "isActive": true,
     "relativeURL": "/portfolio/projects/2015/Bashell.md",
     "preview": "-\r\n\r\nBashell is a browser-based terminal window running on JavaScript",
     "iso8601Date": "2015-12-01T00:00:00+00:00",
@@ -42,13 +42,13 @@
     "icon": "https://static.clydedsouza.net/images/icons/hdaakl-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/hdaakl-team.jpg",
     "imageDescription": "The dream team at Impact NPO re-unites to make another website for Huntington's Disease Association Auckland",
-    "status": "inactive",
+    "isActive": false,
     "relativeURL": "/portfolio/projects/2015/Huntington.md",
     "preview": "The dream team at Impact NPO re-unites to make another website for\r\n …",
     "iso8601Date": "2015-11-06T00:00:00+00:00",
     "basename": "Huntington"
   },
-  "KiwiSports": {
+  "kiwi-sports": {
     "title": "Kiwi Sports",
     "date": "2015-09-01",
     "description": "I developed my first Windows Store App called 'Kiwi Sports', an App that fetches the latest news, images, videos and more about the All Blacks, Black Caps and Silver Ferns. I developed this App using XAML and C# and integrated various API's. This App was developed as a part of the Microsoft Student  Accelerator programme.",
@@ -64,13 +64,13 @@
     "icon": "https://static.clydedsouza.net/images/icons/kiwisports-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/kiwi-sports.jpg",
     "imageDescription": "Clyde developed his first Windows Store PC app called Kiwi Sports which is an all-in-one app for the All Blacks, Black Caps and Silver Ferns.",
-    "status": "inactive",
-    "relativeURL": "/portfolio/projects/2015/KiwiSports.md",
+    "isActive": false,
+    "relativeURL": "/portfolio/projects/2015/kiwi-sports.md",
     "preview": "Clyde developed his first Windows Store PC app called Kiwi Sports …",
     "iso8601Date": "2015-09-01T00:00:00+00:00",
-    "basename": "KiwiSports"
+    "basename": "kiwi-sports"
   },
-  "LuckVenue": {
+  "luck-venue": {
     "title": "Luck Venue",
     "date": "2015-08-21",
     "description": "Along with a team of 8, we developed a WordPress website for Luck Venue - a non-profit organisation during the hackathon weekend hosted by impactNPO.",
@@ -88,11 +88,11 @@
     "icon": "https://static.clydedsouza.net/images/icons/luckvenue-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/luckvenue-website.jpg",
     "imageDescription": "Luck Venue is a WordPress website developed by an awesome dream team at an Impact NPO event in August",
-    "status": "inactive",
-    "relativeURL": "/portfolio/projects/2015/LuckVenue.md",
+    "isActive": false,
+    "relativeURL": "/portfolio/projects/2015/luck-venue.md",
     "preview": "Luck Venue is a WordPress website developed by an awesome dream\r\n  …",
     "iso8601Date": "2015-08-21T00:00:00+00:00",
-    "basename": "LuckVenue"
+    "basename": "luck-venue"
   },
   "Nandoso": {
     "title": "Nandoso: A fictional restaurant",
@@ -114,7 +114,7 @@
     "icon": "https://static.clydedsouza.net/images/icons/nandoso-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/nandoso.jpg",
     "imageDescription": "Nadoso is an intuitive website for a fictional restaurant developed by Clyde D'Souza which includes Web Api, facebook authentication, disqus forum and not to forget, a delicious menu",
-    "status": "inactive",
+    "isActive": false,
     "relativeURL": "/portfolio/projects/2015/Nandoso.md",
     "preview": "Nadoso is an intuitive website for a fictional restaurant developed\r …",
     "iso8601Date": "2015-11-01T00:00:00+00:00",
@@ -138,7 +138,7 @@
     "icon": "https://static.clydedsouza.net/images/icons/wordpress-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/sflp-website.jpg",
     "imageDescription": "We developed a website for Success for Little People using WordPress",
-    "status": "inactive",
+    "isActive": false,
     "relativeURL": "/portfolio/projects/2015/Sflp.md",
     "preview": "We developed a website for Success for Little People using WordPress …",
     "iso8601Date": "2015-07-17T00:00:00+00:00",

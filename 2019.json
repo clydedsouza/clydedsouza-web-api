@@ -1,5 +1,5 @@
 {
-  "ChameleonNuGet": {
+  "chameleon-nuget": {
     "title": "Chameleon by Clymate Themes",
     "date": "2019-04-22",
     "description": "Adds a themeable website called Chameleon to your project.",
@@ -18,13 +18,13 @@
     "icon": "https://static.clydedsouza.net/images/icons/clymatenuget-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/clymate-chameleon-theme.png",
     "imageDescription": "NuGet package that adds a themeable website called Chameleon to your project.",
-    "status": "active",
-    "relativeURL": "/portfolio/projects/2019/ChameleonNuGet.md",
+    "isActive": true,
+    "relativeURL": "/portfolio/projects/2019/chameleon-nuget.md",
     "preview": "NuGet package that adds a themeable website called Chameleon to your …",
     "iso8601Date": "2019-04-22T00:00:00+00:00",
-    "basename": "ChameleonNuGet"
+    "basename": "chameleon-nuget"
   },
-  "ClymateScaffoldingNuGet": {
+  "clymate-scaffolding-nuget": {
     "title": "Clymate Scaffolding for Sass",
     "date": "2019-04-05",
     "description": "Adds basic Sass scaffolding to your project. Use this scaffolding along with a sass compiler of your choice.",
@@ -41,13 +41,13 @@
     "icon": "https://static.clydedsouza.net/images/icons/clymatenuget-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/clymate-scaf-sass.png",
     "imageDescription": "NuGet package that adds basic Sass scaffolding to your project. Use this scaffolding along with a sass compiler of your choice.",
-    "status": "active",
-    "relativeURL": "/portfolio/projects/2019/ClymateScaffoldingNuGet.md",
+    "isActive": true,
+    "relativeURL": "/portfolio/projects/2019/clymate-scaffolding-nuget.md",
     "preview": "NuGet package that adds basic Sass scaffolding to your project. Use …",
     "iso8601Date": "2019-04-05T00:00:00+00:00",
-    "basename": "ClymateScaffoldingNuGet"
+    "basename": "clymate-scaffolding-nuget"
   },
-  "ClymateThemesVSCode": {
+  "clymate-themes-vsode": {
     "title": "Clymate Themes for VS Code",
     "date": "2019-05-11",
     "description": "A collection of themes for VS Code under the Clymate themes hood.",
@@ -64,13 +64,13 @@
     "icon": "https://static.clydedsouza.net/images/icons/clymatenuget-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/clymatethemesvscode-siteteaser.png",
     "imageDescription": "A collection of themes for VS Code under the Clymate themes hood.",
-    "status": "active",
-    "relativeURL": "/portfolio/projects/2019/ClymateThemesVSCode.md",
+    "isActive": true,
+    "relativeURL": "/portfolio/projects/2019/clymate-themes-vsode.md",
     "preview": "A collection of themes for VS Code under the Clymate themes hood.",
     "iso8601Date": "2019-05-11T00:00:00+00:00",
-    "basename": "ClymateThemesVSCode"
+    "basename": "clymate-themes-vsode"
   },
-  "EmojiBadges": {
+  "emoji-badges": {
     "title": "Emoji Badges for VS Code",
     "date": "2019-05-19",
     "description": "Snippets to insert emoji badges to your markdown file. These are shields.io badges boosted with emojis.",
@@ -88,13 +88,13 @@
     "icon": "https://static.clydedsouza.net/images/icons/emojibadges-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/emojibadgesvscode-siteteaser.png",
     "imageDescription": "Snippets to insert emoji badges to your markdown file. These are shields.io badges boosted with emojis.",
-    "status": "active",
-    "relativeURL": "/portfolio/projects/2019/EmojiBadges.md",
+    "isActive": true,
+    "relativeURL": "/portfolio/projects/2019/emoji-badges.md",
     "preview": "Snippets to insert emoji badges to your markdown file. These are …",
     "iso8601Date": "2019-05-19T00:00:00+00:00",
-    "basename": "EmojiBadges"
+    "basename": "emoji-badges"
   },
-  "FolderInspector": {
+  "folder-inspector": {
     "title": "Folder Inspector",
     "date": "2019-04-21",
     "description": "Folder Inspector is a command line utility that helps bulk update the headers and footers of Word and Excel files. This utility is provided via a NuGet package.",
@@ -112,13 +112,13 @@
     "icon": "https://static.clydedsouza.net/images/icons/folderinspector-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/folder-inspector.jpg",
     "imageDescription": "Folder Inspector to edit Word and Excel files developed by Clyde D'Souza",
-    "status": "active",
-    "relativeURL": "/portfolio/projects/2019/FolderInspector.md",
+    "isActive": true,
+    "relativeURL": "/portfolio/projects/2019/folder-inspector.md",
     "preview": "Folder Inspector to edit Word and Excel files developed by Clyde …",
     "iso8601Date": "2019-04-21T00:00:00+00:00",
-    "basename": "FolderInspector"
+    "basename": "folder-inspector"
   },
-  "GaspVSCode": {
+  "gasp-vscode": {
     "title": "Google Analytics Snippets for VS Code",
     "date": "2019-05-13",
     "description": "Google Analytics Snippets for VS Code helps you write global site tag (gtag.js) code with ease.",
@@ -135,13 +135,13 @@
     "icon": "https://static.clydedsouza.net/images/icons/gaspvscode-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/gaspvscode-siteteaser.png",
     "imageDescription": "Google Analytics Snippets for VS Code helps you write global site tag (gtag.js) code with ease.",
-    "status": "active",
-    "relativeURL": "/portfolio/projects/2019/GaspVSCode.md",
+    "isActive": true,
+    "relativeURL": "/portfolio/projects/2019/gasp-vscode.md",
     "preview": "Google Analytics Snippets for VS Code helps you write global site …",
     "iso8601Date": "2019-05-13T00:00:00+00:00",
-    "basename": "GaspVSCode"
+    "basename": "gasp-vscode"
   },
-  "MetaTagAnalyzer.pin": {
+  "meta-tag-analyzer.pin": {
     "title": "Meta Tag Analyzer",
     "date": "2019-05-01",
     "description": "An Azure DevOps task that generates a report after analysing the meta tags of each page on your website.",
@@ -158,13 +158,13 @@
     "icon": "https://static.clydedsouza.net/images/icons/metataganalyzer-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/metataganalyzer.png",
     "imageDescription": "An Azure DevOps task that generates a report after analysing the meta tags of each page on your website.",
-    "status": "active",
-    "relativeURL": "/portfolio/projects/2019/MetaTagAnalyzer.pin.md",
+    "isActive": true,
+    "relativeURL": "/portfolio/projects/2019/meta-tag-analyzer.pin.md",
     "preview": "An Azure DevOps task that generates a report after analysing the …",
     "iso8601Date": "2019-05-01T00:00:00+00:00",
-    "basename": "MetaTagAnalyzer.pin"
+    "basename": "meta-tag-analyzer.pin"
   },
-  "RoboHashAvatars": {
+  "robohash-avatars": {
     "title": "Robohash Avatars",
     "date": "2019-06-01",
     "description": "Generate robot-based avatar images based on any text",
@@ -183,13 +183,13 @@
     "icon": "https://static.clydedsouza.net/images/icons/robohashavatars-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/robohashavatars-siteteaser.png",
     "imageDescription": "Generate robot-based avatar images based on any text",
-    "status": "active",
-    "relativeURL": "/portfolio/projects/2019/RoboHashAvatars.md",
+    "isActive": true,
+    "relativeURL": "/portfolio/projects/2019/robohash-avatars.md",
     "preview": "Generate robot-based avatar images based on any text.",
     "iso8601Date": "2019-06-01T00:00:00+00:00",
-    "basename": "RoboHashAvatars"
+    "basename": "robohash-avatars"
   },
-  "UIAvatars": {
+  "ui-avatars": {
     "title": "UI Avatars",
     "date": "2019-05-26",
     "description": "Generate avatar images based on user initials.",
@@ -208,10 +208,10 @@
     "icon": "https://static.clydedsouza.net/images/icons/uiavatars-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/uiavatars-siteteaser.png",
     "imageDescription": "Generate avatar images based on user initials.",
-    "status": "active",
-    "relativeURL": "/portfolio/projects/2019/UIAvatars.md",
-    "preview": "Generate avatar images based on user initials.",
+    "isActive": true,
+    "relativeURL": "/portfolio/projects/2019/ui-avatars.md",
+    "preview": "Generate avatar images based on user initials.\r\n\r\n## Examples \r\n> …",
     "iso8601Date": "2019-05-26T00:00:00+00:00",
-    "basename": "UIAvatars"
+    "basename": "ui-avatars"
   }
 }

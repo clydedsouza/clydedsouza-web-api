@@ -17,13 +17,13 @@
     "icon": "https://static.clydedsouza.net/images/icons/inspira-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/inspira-html.jpg",
     "imageDescription": "Inspira 2012 website was developed by Clyde D'Souza and Sagar Lone",
-    "status": "inactive",
+    "isActive": false,
     "relativeURL": "/portfolio/projects/2012/Inspira.md",
     "preview": "Inspira 2012 website was developed by Clyde D'Souza and Sagar Lone",
     "iso8601Date": "2012-08-01T00:00:00+00:00",
     "basename": "Inspira"
   },
-  "TulipsCover": {
+  "tulips-cover": {
     "title": "Tulips cover page designs",
     "date": "2012-12-01",
     "description": "I was responsible for designing the cover page for Tulips- a church bulletin. Each cover page was designed in accordance to a theme for that particular issue and conveyed the underlying meaning of the theme.",
@@ -38,10 +38,10 @@
     "icon": "https://static.clydedsouza.net/images/icons/tulips-icon.jpe",
     "image": "https://static.clydedsouza.net/images/projects/tulips-collage.jpg",
     "imageDescription": "Church magazine cover designs by Clyde D'Souza",
-    "status": "active",
-    "relativeURL": "/portfolio/projects/2012/TulipsCover.md",
+    "isActive": true,
+    "relativeURL": "/portfolio/projects/2012/tulips-cover.md",
     "preview": "Church magazine cover designs by Clyde D'Souza December 2012 - …",
     "iso8601Date": "2012-12-01T00:00:00+00:00",
-    "basename": "TulipsCover"
+    "basename": "tulips-cover"
   }
 }

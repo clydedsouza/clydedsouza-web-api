@@ -1,5 +1,5 @@
 {
-  "A1pdWeb": {
+  "a1pd-web": {
     "title": "A1 Professional Designs",
     "date": "2016-02-01",
     "description": "This is the official website for A1 Professional Designs owned by Roshini Daruwala. The aim was to redesign and give a whole new look to the website.",
@@ -17,11 +17,11 @@
     "icon": "https://static.clydedsouza.net/images/icons/a1pd-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/a1pd.jpg",
     "imageDescription": "Clyde developed a website for A1 Professional Designs owned by Roshini Daruwala",
-    "status": "inactive",
-    "relativeURL": "/portfolio/projects/2016/A1pdWeb.md",
+    "isActive": false,
+    "relativeURL": "/portfolio/projects/2016/a1pd-web.md",
     "preview": "Clyde developed a website for A1 Professional Designs owned by …",
     "iso8601Date": "2016-02-01T00:00:00+00:00",
-    "basename": "A1pdWeb"
+    "basename": "a1pd-web"
   },
   "Clymate": {
     "title": "Clymate",
@@ -43,7 +43,7 @@
     "icon": "https://static.clydedsouza.net/images/icons/clymate-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/clymate.jpg",
     "imageDescription": "Clymate is a weather plus UV forecast app made using a colourful and brilliant UI",
-    "status": "inactive",
+    "isActive": false,
     "relativeURL": "/portfolio/projects/2016/Clymate.md",
     "preview": "Clymate is a weather plus UV forecast app made using a colourful and …",
     "iso8601Date": "2016-01-01T00:00:00+00:00",
@@ -68,7 +68,7 @@
     "icon": "https://static.clydedsouza.net/images/icons/gitly-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/gitly.jpg",
     "imageDescription": "Gitly is a GitHub user lookup app created by Clyde D'Souza",
-    "status": "inactive",
+    "isActive": false,
     "relativeURL": "/portfolio/projects/2016/Gitly.md",
     "preview": "Gitly is a GitHub user lookup app created by Clyde D'Souza",
     "iso8601Date": "2016-02-01T00:00:00+00:00",
@@ -94,13 +94,13 @@
     "icon": "https://static.clydedsouza.net/images/icons/marcdown-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/marcdown-snap.jpg",
     "imageDescription": "Marcdown is a simple but powerful web app completely based on helping a user to understand Markdown better",
-    "status": "active",
+    "isActive": true,
     "relativeURL": "/portfolio/projects/2016/Marcdown.md",
     "preview": "Marcdown is a simple but powerful web app completely based on …",
     "iso8601Date": "2016-01-01T00:00:00+00:00",
     "basename": "Marcdown"
   },
-  "NobsRatings": {
+  "nobs-ratings": {
     "title": "NOBS Ratings",
     "date": "2016-02-26",
     "description": "Lead developer at yet another Impact NPO charity weekend. This time our 6 member team developed a WordPress website from scratch for NOBS Ratings NZ.",
@@ -119,13 +119,13 @@
     "icon": "https://static.clydedsouza.net/images/icons/nobsratings-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/nobsratings.jpg",
     "imageDescription": "Another awesome website created by Clyde and team at Impact NPO for NOBS Ratings",
-    "status": "inactive",
-    "relativeURL": "/portfolio/projects/2016/NobsRatings.md",
+    "isActive": false,
+    "relativeURL": "/portfolio/projects/2016/nobs-ratings.md",
     "preview": "Another awesome website created by Clyde and team at Impact NPO for …",
     "iso8601Date": "2016-02-26T00:00:00+00:00",
-    "basename": "NobsRatings"
+    "basename": "nobs-ratings"
   },
-  "ProjectRestore": {
+  "project-restore": {
     "title": "Project Restore NZ",
     "date": "2016-09-30",
     "description": "With a team of 3 developers, 1 tester and 1 designer, we developed a website for Project Restore NZ using the very intuitive WordPress platform.",
@@ -143,13 +143,13 @@
     "icon": "https://static.clydedsouza.net/images/icons/projectrestore-icon.jpeg",
     "image": "https://static.clydedsouza.net/images/projects/project-restore.jpg",
     "imageDescription": "Simple and elegant website for Project Restore NZ developed at an Impact NPO event",
-    "status": "inactive",
-    "relativeURL": "/portfolio/projects/2016/ProjectRestore.md",
+    "isActive": false,
+    "relativeURL": "/portfolio/projects/2016/project-restore.md",
     "preview": "Simple and elegant website for Project Restore NZ developed at an …",
     "iso8601Date": "2016-09-30T00:00:00+00:00",
-    "basename": "ProjectRestore"
+    "basename": "project-restore"
   },
-  "PwpInc": {
+  "pwp-inc": {
     "title": "People with Parkinson's Inc",
     "date": "2016-05-27",
     "description": "Developer at Impact NPO charity weekend. This time our 8 member team developed a WordPress website for People with Parkinson's Inc, NZ.",
@@ -167,13 +167,13 @@
     "icon": "https://static.clydedsouza.net/images/icons/pwpinc-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/pwpinc.jpg",
     "imageDescription": "Helping People with Parkinson's Inc with their website at Impact NPO",
-    "status": "inactive",
-    "relativeURL": "/portfolio/projects/2016/PwpInc.md",
+    "isActive": false,
+    "relativeURL": "/portfolio/projects/2016/pwp-inc.md",
     "preview": "Helping People with Parkinson's Inc with their website at Impact NPO …",
     "iso8601Date": "2016-05-27T00:00:00+00:00",
-    "basename": "PwpInc"
+    "basename": "pwp-inc"
   },
-  "RainbowYouth": {
+  "rainbow-youth": {
     "title": "Rainbow Youth",
     "date": "2016-08-12",
     "description": "Developed a learning management system over the weekend with a team of 7 members for Rainbow Youth.",
@@ -191,10 +191,10 @@
     "icon": "https://static.clydedsouza.net/images/icons/ry-icon.jpeg",
     "image": "https://static.clydedsouza.net/images/projects/rainbow-youth.jpg",
     "imageDescription": "Developed a learning management system using WordPress and Sensei at Impact NPO",
-    "status": "inactive",
-    "relativeURL": "/portfolio/projects/2016/RainbowYouth.md",
+    "isActive": false,
+    "relativeURL": "/portfolio/projects/2016/rainbow-youth.md",
     "preview": "Developed a learning management system using WordPress and Sensei at …",
     "iso8601Date": "2016-08-12T00:00:00+00:00",
-    "basename": "RainbowYouth"
+    "basename": "rainbow-youth"
   }
 }

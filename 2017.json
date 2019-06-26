@@ -1,5 +1,5 @@
 {
-  "ProfileSticker": {
+  "profile-sticker": {
     "title": "Profile Sticker",
     "date": "2017-07-01",
     "description": "Profile Sticker is a web app that allows a user to add a sticker from different themes to their profile picture. The user can choose to upload a picture from and download to a computer or Facebook.",
@@ -18,13 +18,13 @@
     "icon": "https://static.clydedsouza.net/images/icons/profilesticker-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/profilesticker-website.png",
     "imageDescription": "Add a sticker to your profile picture using Profile Sticker in just 4 easy steps.",
-    "status": "active",
-    "relativeURL": "/portfolio/projects/2017/ProfileSticker.md",
+    "isActive": true,
+    "relativeURL": "/portfolio/projects/2017/profile-sticker.md",
     "preview": "Add a sticker to your profile picture using Profile Sticker in just …",
     "iso8601Date": "2017-07-01T00:00:00+00:00",
-    "basename": "ProfileSticker"
+    "basename": "profile-sticker"
   },
-  "RecipyBot": {
+  "recipy-bot": {
     "title": "The Recipy Bot",
     "date": "2017-10-15",
     "description": "The Recipy Bot is my first attempt at making a bot for Facebook Messenger and Skype coupled with artificial intelligence using DialogFlow. Visit the website to add the bot to your contact list and start chatting.",
@@ -45,13 +45,13 @@
     "icon": "https://static.clydedsouza.net/images/icons/therecipybot-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/therecipybot.jpg",
     "imageDescription": "The Recipy Bot helps you cook delicious meals by picking the best recipie for you.",
-    "status": "inactive",
-    "relativeURL": "/portfolio/projects/2017/RecipyBot.md",
+    "isActive": false,
+    "relativeURL": "/portfolio/projects/2017/recipy-bot.md",
     "preview": "The Recipy Bot helps you cook delicious meals by picking the best …",
     "iso8601Date": "2017-10-15T00:00:00+00:00",
-    "basename": "RecipyBot"
+    "basename": "recipy-bot"
   },
-  "SassSnippetPackVS": {
+  "sass-snippet-pack-vs": {
     "title": "Sass Snippet Pack",
     "date": "2017-12-17",
     "description": "A snippet pack to help you write scss code. This adds a code snippet pack in the code snippet manager of Visual Studio.",
@@ -71,13 +71,13 @@
     "icon": "https://static.clydedsouza.net/images/icons/sasssnippack-vsix-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/sass-vsix-ext-siteteaser.png",
     "imageDescription": "A snippet pack to help you write scss code. This adds a code snippet pack in the code snippet manager of Visual Studio.",
-    "status": "active",
-    "relativeURL": "/portfolio/projects/2017/SassSnippetPackVS.md",
+    "isActive": true,
+    "relativeURL": "/portfolio/projects/2017/sass-snippet-pack-vs.md",
     "preview": "A snippet pack to help you write scss code. This adds a code snippet …",
     "iso8601Date": "2017-12-17T00:00:00+00:00",
-    "basename": "SassSnippetPackVS"
+    "basename": "sass-snippet-pack-vs"
   },
-  "TheChameleon": {
+  "the-chameleon": {
     "title": "The Chameleon",
     "date": "2017-11-01",
     "description": "The Chameleon is an experiment with building a themeable website and using SCSS - a preprocessor for CSS - to the fullest.",
@@ -98,10 +98,10 @@
     "icon": "https://static.clydedsouza.net/images/icons/thechameleon-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/thechameleon.jpg",
     "imageDescription": "Just like a chameleon, this website can change colour. Use the theme picker to see it in action.",
-    "status": "active",
-    "relativeURL": "/portfolio/projects/2017/TheChameleon.md",
+    "isActive": true,
+    "relativeURL": "/portfolio/projects/2017/the-chameleon.md",
     "preview": "Just like a chameleon, this website can change colour.",
     "iso8601Date": "2017-11-01T00:00:00+00:00",
-    "basename": "TheChameleon"
+    "basename": "the-chameleon"
   }
 }

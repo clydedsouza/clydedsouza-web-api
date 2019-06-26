@@ -1,5 +1,5 @@
 {
-  "DevelopingNuGetSkillshare.pin": {
+  "developing-nuget-skillshare.pin": {
     "title": "Developing and distributing NuGet packages",
     "date": "2019-03-07",
     "description": "Learn how to develop your very own NuGet package and then publish it to nuget.org. Use the link in this card to get 2 free months of Skillshare subscription.",
@@ -12,12 +12,12 @@
     "icon": "https://static.clydedsouza.net/images/icons/skillshare-logo.jpg",
     "image": "https://static.clydedsouza.net/images/projects/ddnp.png",
     "imageDescription": "Developing and distributing NuGet packages – Skillshare class",
-    "relativeURL": "/portfolio/teaching/DevelopingNuGetSkillshare.pin.md",
+    "relativeURL": "/portfolio/teaching/developing-nuget-skillshare.pin.md",
     "preview": "Developing and distributing NuGet packages – Skillshare class",
     "iso8601Date": "2019-03-07T00:00:00+00:00",
-    "basename": "DevelopingNuGetSkillshare.pin"
+    "basename": "developing-nuget-skillshare.pin"
   },
-  "LightAndSparkNPO.pin": {
+  "light-and-spark-npo.pin": {
     "title": "Light & Spark NPO - Ruia Jan 2018 Event",
     "date": "2018-01-13",
     "description": "A 2-day workshop where we taught industry-relevant technologies to students and helped an NGO with their online requirements. This event was conducted at Ruia College, Mumbai.",
@@ -30,12 +30,12 @@
     "icon": "https://static.clydedsouza.net/images/icons/lightandsparknpo-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/lightandsparknpo-siteteaser.png",
     "imageDescription": "Light & Spark NPO - Ruia Jan 2018 Event",
-    "relativeURL": "/portfolio/teaching/LightAndSparkNPO.pin.md",
+    "relativeURL": "/portfolio/teaching/light-and-spark-npo.pin.md",
     "preview": "Light & Spark NPO - Ruia Jan 2018 Event 13th-14th January 2018",
     "iso8601Date": "2018-01-13T00:00:00+00:00",
-    "basename": "LightAndSparkNPO.pin"
+    "basename": "light-and-spark-npo.pin"
   },
-  "MarkdownSkillshare": {
+  "markdown-skillshare": {
     "title": "Demystifying GitHub flavored Markdown",
     "date": "2018-12-20",
     "description": "Learn GitHub flavored Markdown (GFM) in this online class on Skillshare. Use the link in this card to get 2 free months of Skillshare subscription.",
@@ -48,9 +48,9 @@
     "icon": "https://static.clydedsouza.net/images/icons/skillshare-logo.jpg",
     "image": "https://static.clydedsouza.net/images/projects/skillshare-markdown.png",
     "imageDescription": "Demystifying Markdown - Learn GitHub flavored Markdown (GFM) - Skillshare class",
-    "relativeURL": "/portfolio/teaching/MarkdownSkillshare.md",
+    "relativeURL": "/portfolio/teaching/markdown-skillshare.md",
     "preview": "Demystifying Markdown - Learn GitHub flavored Markdown (GFM) - …",
     "iso8601Date": "2018-12-20T00:00:00+00:00",
-    "basename": "MarkdownSkillshare"
+    "basename": "markdown-skillshare"
   }
 }

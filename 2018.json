@@ -1,5 +1,5 @@
 {
-  "CicdDocs.pin": {
+  "cicd-docs.pin": {
     "title": "CI/CD Docs",
     "date": "2018-09-22",
     "description": "Documenting your Azure DevOps pipeline was never easier - export, upload and go.",
@@ -20,13 +20,13 @@
     "icon": "https://static.clydedsouza.net/images/icons/cicd-docs-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/cicd-docs.png",
     "imageDescription": "Documenting your Azure DevOps pipeline was never easier - export, upload and go.",
-    "status": "active",
-    "relativeURL": "/portfolio/projects/2018/CicdDocs.pin.md",
+    "isActive": true,
+    "relativeURL": "/portfolio/projects/2018/cicd-docs.pin.md",
     "preview": "Documenting your Azure DevOps pipeline was never easier - export, …",
     "iso8601Date": "2018-09-22T00:00:00+00:00",
-    "basename": "CicdDocs.pin"
+    "basename": "cicd-docs.pin"
   },
-  "FancyComments": {
+  "fancy-comments": {
     "title": "Fancy Comments",
     "date": "2018-02-06",
     "description": "A snippet pack for use-case specific comments, supported for HTML, CSS, JavaScript, C#, SQL and XML. Available for Visual Studio 2015, 2017 & 2019 (All editions).",
@@ -46,13 +46,13 @@
     "icon": "https://static.clydedsouza.net/images/icons/fancycomments-vsix-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/fancycomments-vsix-siteteaser.png",
     "imageDescription": "A snippet pack for use-case specific comments, supported for HTML, CSS, JavaScript, C#, SQL and XML.",
-    "status": "active",
-    "relativeURL": "/portfolio/projects/2018/FancyComments.md",
+    "isActive": true,
+    "relativeURL": "/portfolio/projects/2018/fancy-comments.md",
     "preview": "A snippet pack for use-case specific comments, supported for HTML, …",
     "iso8601Date": "2018-02-06T00:00:00+00:00",
-    "basename": "FancyComments"
+    "basename": "fancy-comments"
   },
-  "GaspVS": {
+  "gasp-vs": {
     "title": "Google Analytics Snippet Pack",
     "date": "2018-10-07",
     "description": "Google Analytics Snippet Pack for Visual Studio helps you write global site tag (gtag.js) code that allows you to send event data to Google Analytics.",
@@ -70,13 +70,13 @@
     "icon": "https://static.clydedsouza.net/images/icons/gasp-vsix-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/gasp-vsix.png",
     "imageDescription": "A snippet pack for working with Google Analytics global site tag (gtag.js).",
-    "status": "active",
-    "relativeURL": "/portfolio/projects/2018/GaspVS.md",
+    "isActive": true,
+    "relativeURL": "/portfolio/projects/2018/gasp-vs.md",
     "preview": "A snippet pack for working with Google Analytics global site tag …",
     "iso8601Date": "2018-10-07T00:00:00+00:00",
-    "basename": "GaspVS"
+    "basename": "gasp-vs"
   },
-  "HoroscopeNuGet": {
+  "horoscope-nuget": {
     "title": "Horoscope NuGet",
     "date": "2018-11-24",
     "description": "A .NET library for zodiac signs. Get details on each zodiac sign, pass a date and know which zodiac sign it falls in or get a list of all zodiac signs. Now includes Chinese zodiac signs and elements!",
@@ -94,10 +94,10 @@
     "icon": "https://static.clydedsouza.net/images/icons/horoscope-nuget-icon.png",
     "image": "https://static.clydedsouza.net/images/projects/horoscope-nuget.jpg",
     "imageDescription": "A NuGet package for zodiac signs.",
-    "status": "active",
-    "relativeURL": "/portfolio/projects/2018/HoroscopeNuGet.md",
+    "isActive": true,
+    "relativeURL": "/portfolio/projects/2018/horoscope-nuget.md",
     "preview": "A NuGet package for zodiac signs.",
     "iso8601Date": "2018-11-24T00:00:00+00:00",
-    "basename": "HoroscopeNuGet"
+    "basename": "horoscope-nuget"
   }
 }
