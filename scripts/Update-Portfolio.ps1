@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-  Generate JSON files from the project data contained in the projects folder.
+  Update the contents of portfolio items before generating an API.
 
 .EXAMPLE
   .\Update-Portfolio.ps1 -BaseDirectoryName portfolio\projects  
