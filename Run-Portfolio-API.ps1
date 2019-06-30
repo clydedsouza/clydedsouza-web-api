@@ -1,3 +1,8 @@
+# Check if any portfolio item has duplicate names. Exit if one found.
+#-----------------------------------------------------------------------------------
+.\scripts\Check-Duplicate.ps1 -BaseDirectoryName portfolio
+
+
 # Copy the portfolio folder into a temporary working directory
 # We'll run some updates on the portfolio items before generating an API out of it
 #-----------------------------------------------------------------------------------
