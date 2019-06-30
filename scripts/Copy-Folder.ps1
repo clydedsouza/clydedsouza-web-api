@@ -1,3 +1,10 @@
+<#
+.SYNOPSIS
+  Copy a source folder into the destination.
+
+.EXAMPLE
+  .\Copy-Folder.ps1 -SourceFolder "portfolio" -DestinationFolder "temp"
+#>
 
 Param
 (
