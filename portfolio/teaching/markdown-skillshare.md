@@ -14,6 +14,7 @@ image: https://static.clydedsouza.net/images/projects/skillshare-markdown.png
 imageDescription: Demystifying Markdown - Learn GitHub flavored Markdown (GFM) - Skillshare
   class
 relativeURL: /portfolio/teaching/markdown-skillshare.md 
+isActive: true
 
 ---
 

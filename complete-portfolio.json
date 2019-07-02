@@ -846,6 +846,7 @@
     "image": "https://static.clydedsouza.net/images/projects/presso-lightandsparknpo-datacom.jpg",
     "imageDescription": "Light & Spark NPO - Ruia Jan 2018 Event",
     "relativeURL": "/portfolio/speaking/light-and-spark-presentation-datacom.md",
+    "isActive": true,
     "preview": "Light & Spark NPO - Ruia Jan 2018 Event 13th-14th January 2018",
     "iso8601Date": "2018-03-29T00:00:00+00:00",
     "basename": "light-and-spark-presentation-datacom"
@@ -864,6 +865,7 @@
     "image": "https://static.clydedsouza.net/images/projects/aut-match-ready-2018.jpg",
     "imageDescription": "I was invited to speak at the AUT Match Ready event along with other alumni.",
     "relativeURL": "/portfolio/speaking/match-ready-aut-2018.md",
+    "isActive": true,
     "preview": "I was invited to speak at the AUT Match Ready event along with other …",
     "iso8601Date": "2018-07-26T00:00:00+00:00",
     "basename": "match-ready-aut-2018"
@@ -882,6 +884,7 @@
     "image": "https://static.clydedsouza.net/images/projects/aut-match-ready-2019.jpg",
     "imageDescription": "I was invited to speak at the AUT Match Ready event along with other alumni.",
     "relativeURL": "/portfolio/speaking/match-ready-aut-2019.md",
+    "isActive": true,
     "preview": "I was invited to speak at the AUT Match Ready event along with other …",
     "iso8601Date": "2019-03-29T00:00:00+00:00",
     "basename": "match-ready-aut-2019"
@@ -900,6 +903,7 @@
     "image": "https://static.clydedsouza.net/images/projects/presso-nuget-datacom.jpg",
     "imageDescription": "Light & Spark NPO - Ruia Jan 2018 Event",
     "relativeURL": "/portfolio/speaking/nuget-presentation-datacom.md",
+    "isActive": true,
     "preview": "Light & Spark NPO - Ruia Jan 2018 Event 13th-14th January 2018",
     "iso8601Date": "2019-03-21T00:00:00+00:00",
     "basename": "nuget-presentation-datacom"
@@ -918,6 +922,7 @@
     "image": "https://static.clydedsouza.net/images/projects/presso-sass-datacom.jpg",
     "imageDescription": "Light & Spark NPO - Ruia Jan 2018 Event",
     "relativeURL": "/portfolio/speaking/sass-presentation-datacom.md",
+    "isActive": true,
     "preview": "Light & Spark NPO - Ruia Jan 2018 Event 13th-14th January 2018",
     "iso8601Date": "2017-11-29T00:00:00+00:00",
     "basename": "sass-presentation-datacom"
@@ -936,6 +941,7 @@
     "image": "https://static.clydedsouza.net/images/projects/ddnp.png",
     "imageDescription": "Developing and distributing NuGet packages – Skillshare class",
     "relativeURL": "/portfolio/teaching/developing-nuget-skillshare.pin.md",
+    "isActive": true,
     "preview": "Developing and distributing NuGet packages – Skillshare class",
     "iso8601Date": "2019-03-07T00:00:00+00:00",
     "basename": "developing-nuget-skillshare.pin"
@@ -954,6 +960,7 @@
     "image": "https://static.clydedsouza.net/images/projects/lightandsparknpo-siteteaser.png",
     "imageDescription": "Light & Spark NPO - Ruia Jan 2018 Event",
     "relativeURL": "/portfolio/teaching/light-and-spark-npo.pin.md",
+    "isActive": true,
     "preview": "Light & Spark NPO - Ruia Jan 2018 Event 13th-14th January 2018",
     "iso8601Date": "2018-01-13T00:00:00+00:00",
     "basename": "light-and-spark-npo.pin"
@@ -972,6 +979,7 @@
     "image": "https://static.clydedsouza.net/images/projects/skillshare-markdown.png",
     "imageDescription": "Demystifying Markdown - Learn GitHub flavored Markdown (GFM) - Skillshare class",
     "relativeURL": "/portfolio/teaching/markdown-skillshare.md",
+    "isActive": true,
     "preview": "Demystifying Markdown - Learn GitHub flavored Markdown (GFM) - …",
     "iso8601Date": "2018-12-20T00:00:00+00:00",
     "basename": "markdown-skillshare"

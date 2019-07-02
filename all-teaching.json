@@ -13,6 +13,7 @@
     "image": "https://static.clydedsouza.net/images/projects/ddnp.png",
     "imageDescription": "Developing and distributing NuGet packages – Skillshare class",
     "relativeURL": "/portfolio/teaching/developing-nuget-skillshare.pin.md",
+    "isActive": true,
     "preview": "Developing and distributing NuGet packages – Skillshare class",
     "iso8601Date": "2019-03-07T00:00:00+00:00",
     "basename": "developing-nuget-skillshare.pin"
@@ -31,6 +32,7 @@
     "image": "https://static.clydedsouza.net/images/projects/lightandsparknpo-siteteaser.png",
     "imageDescription": "Light & Spark NPO - Ruia Jan 2018 Event",
     "relativeURL": "/portfolio/teaching/light-and-spark-npo.pin.md",
+    "isActive": true,
     "preview": "Light & Spark NPO - Ruia Jan 2018 Event 13th-14th January 2018",
     "iso8601Date": "2018-01-13T00:00:00+00:00",
     "basename": "light-and-spark-npo.pin"
@@ -49,6 +51,7 @@
     "image": "https://static.clydedsouza.net/images/projects/skillshare-markdown.png",
     "imageDescription": "Demystifying Markdown - Learn GitHub flavored Markdown (GFM) - Skillshare class",
     "relativeURL": "/portfolio/teaching/markdown-skillshare.md",
+    "isActive": true,
     "preview": "Demystifying Markdown - Learn GitHub flavored Markdown (GFM) - …",
     "iso8601Date": "2018-12-20T00:00:00+00:00",
     "basename": "markdown-skillshare"
