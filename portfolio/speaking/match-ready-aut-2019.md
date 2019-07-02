@@ -12,6 +12,7 @@ icon: https://static.clydedsouza.net/images/icons/lightandsparknpo-icon.png
 image: https://static.clydedsouza.net/images/projects/aut-match-ready-2019.jpg
 imageDescription: I was invited to speak at the AUT Match Ready event along with other alumni. 
 relativeURL: 
+isActive: true
 
 ---
 
