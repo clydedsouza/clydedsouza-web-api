@@ -12,20 +12,23 @@ Write-Host "Checked for duplicates"
 .\scripts\Copy-Folder.ps1 -SourceFolder "portfolio" -DestinationFolder "temp"
 Write-Host "Copied folder to destination"
 
+Get-ChildItem .\temp\portfolio\books | Sort-Object -Property LastWriteTime
+Write-Host " ***BEFORE*** "
+
 .\scripts\Update-Portfolio.ps1 -BaseDirectoryName temp\portfolio 
 Write-Host "Update portfolio items"
 
-Get-ChildItem .\ | Sort-Object -Property LastWriteTime
-Write-Host " ****** "
-
-Get-ChildItem .\temp | Sort-Object -Property LastWriteTime
-Write-Host " ****** "
+Get-ChildItem .\temp\portfolio\books | Sort-Object -Property LastWriteTime
+Write-Host " ***AFTER*** "
 
 # Generate API files for different basic scenarios
 #--------------------------------------------------------
 
 .\scripts\Generate-API.ps1 -BaseDirectoryName temp\portfolio -OutputFileName complete-portfolio 
 Write-Host "Generated complete portfolio JSON"
+
+Get-ChildItem .\output | Sort-Object -Property LastWriteTime
+Write-Host " ****** "
 
 .\scripts\Generate-API.ps1 -BaseDirectoryName temp\portfolio\projects -OutputFileName all-projects 
 Write-Host "Generated only projects JSON"
