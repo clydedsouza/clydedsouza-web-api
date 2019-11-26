@@ -23,6 +23,8 @@
 
 .\scripts\Generate-API.ps1 -BaseDirectoryName temp\portfolio\teaching -OutputFileName all-teaching 
 
+.\scripts\Generate-API.ps1 -BaseDirectoryName temp\portfolio\books -OutputFileName all-books
+
 .\scripts\Generate-API.ps1 -BaseDirectoryName temp\portfolio -OutputFileName all-pinned -FilterTagForFiles .pin
 
 
