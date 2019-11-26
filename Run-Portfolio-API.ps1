@@ -15,6 +15,8 @@ Write-Host "Copied folder to destination"
 .\scripts\Update-Portfolio.ps1 -BaseDirectoryName temp\portfolio 
 Write-Host "Update portfolio items"
 
+Get-ChildItem .\ | Sort-Object -Property LastWriteTime
+Write-Host " "
 
 # Generate API files for different basic scenarios
 #--------------------------------------------------------
