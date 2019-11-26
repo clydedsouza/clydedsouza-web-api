@@ -16,7 +16,10 @@ Write-Host "Copied folder to destination"
 Write-Host "Update portfolio items"
 
 Get-ChildItem .\ | Sort-Object -Property LastWriteTime
-Write-Host " "
+Write-Host " ****** "
+
+Get-ChildItem .\temp | Sort-Object -Property LastWriteTime
+Write-Host " ****** "
 
 # Generate API files for different basic scenarios
 #--------------------------------------------------------
