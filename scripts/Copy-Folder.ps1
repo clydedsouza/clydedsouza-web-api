@@ -15,6 +15,6 @@ Param
     $DestinationFolder = "temp"
 ) 
 
-# Create new empty SourceFolder and then copy SourceFolder into DestinationFolder.
+# Create new empty DestinationFolder and then copy SourceFolder into DestinationFolder.
 New-Item -ItemType directory -Path $DestinationFolder | Out-Null
 Copy-Item -Path $SourceFolder -Filter "*.md" -Recurse -Destination $DestinationFolder -Container

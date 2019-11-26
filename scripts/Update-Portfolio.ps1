@@ -1,6 +1,7 @@
 <#
 .SYNOPSIS
   Update the contents of portfolio items before generating an API.
+  We use this to update the frontmatter like add relative URL.
 
 .EXAMPLE
   .\Update-Portfolio.ps1 -BaseDirectoryName portfolio\projects  
