@@ -17,4 +17,6 @@ isActive: true
 
 ---
 
-Developing and distributing NuGet packages – Skillshare class
+I've recently dwelt into developing and publishing a NuGet package. I've always consumed NuGet packages since I started developing ASP.NET applications a long time ago but I've never had a chance to look at the publishing aspect of this process. I started learning about it and very soon I developer my first NuGet called Horoscope.
+
+This class on Skillshare captures the same learning journey. It covers 

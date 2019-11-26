@@ -1,7 +1,7 @@
 ---
 title: Write awesome CSS using Sass
 date: "2017-11-29"
-description: Placeholder
+description: A lunch and learn presentation at Datacom on Sass.
 hasWebsite: true
 website: https://www.instagram.com/p/BwULmZKD5Az/
 onGithub: false
@@ -10,10 +10,12 @@ madeUsing: []
 category: Presentation
 icon: https://static.clydedsouza.net/images/icons/lightandsparknpo-icon.png
 image: https://static.clydedsouza.net/images/projects/presso-sass-datacom.jpg
-imageDescription: Light & Spark NPO - Ruia Jan 2018 Event
+imageDescription: Write awesome CSS using Sass
 relativeURL: 
 isActive: true
 
 ---
 
-Light & Spark NPO - Ruia Jan 2018 Event 13th-14th January 2018
+In November 2017 I did my first lunch and learn presentation at Datacom on writing Sass to style your websites. Sass (Syntactically Awesome Style Sheets) is a CSS preprocessors which basically means it allows you to generate CSS out of your Sass code. Sass is quite literally, as their website says) "CSS with superpowers" which means while Sass is completely compatible with all CSS versions it also has a whole bunch of native features that make writing and organising CSS a breeze. 
+
+In this presentation I covered how to setup a Sass compiler, why would you use Sass over writing vanilla CSS, various Sass features (or superpowers, if that's how you'd like to call it) and how they would look like if you were to use vanilla CSS, and a quick walkthough of a demo I made called "The Chameleon" which is a themable website and how using Sass has made developing this website so much easier. We then concluded with a Q&A session.
