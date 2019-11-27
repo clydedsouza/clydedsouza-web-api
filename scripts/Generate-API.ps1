@@ -51,10 +51,10 @@ Try {
     $mdFiles = getFilesFromCSV -filesCSV $mdFilesCSV  
     
     # Generate JSON files and run JSON Lint on the generated file
-    ./node_modules/.bin/m2j -o ./output/testteaching.json temp\portfolio\teaching
-    ./node_modules/.bin/jsonlint ./output/testteaching.json -q
-    # ./node_modules/.bin/m2j -o ./output/$OutputFileName.json $mdFiles
-    # ./node_modules/.bin/jsonlint ./output/$OutputFileName.json -q
+    #./node_modules/.bin/m2j -o ./output/testteaching.json temp\portfolio\teaching
+    #./node_modules/.bin/jsonlint ./output/testteaching.json -q
+    ./node_modules/.bin/m2j -o ./output/$OutputFileName.json $mdFiles
+    ./node_modules/.bin/jsonlint ./output/$OutputFileName.json -q
 }
 Catch {
     $ErrorMessage = $_.Exception.Message
