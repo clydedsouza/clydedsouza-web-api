@@ -50,22 +50,22 @@ Write-Host " ****** "
 # Generate API files for each project year
 #--------------------------------------------------------
 
-$currentYear = Get-Date -Format yyyy
-$projectStartYear = 2012
-$projectExclusionYears = @(2014)
-$projectYears = ($projectStartYear..$CurrentYear)
+# $currentYear = Get-Date -Format yyyy
+# $projectStartYear = 2012
+# $projectExclusionYears = @(2014)
+# $projectYears = ($projectStartYear..$CurrentYear)
 
-ForEach ($projectYear in $projectYears) { 
-  $isThisExcluded = $projectExclusionYears -Contains $projectYear
+# ForEach ($projectYear in $projectYears) { 
+#   $isThisExcluded = $projectExclusionYears -Contains $projectYear
   
-  If($isThisExcluded){
-    continue
-  }
+#   If($isThisExcluded){
+#     continue
+#   }
 
-  $baseDirectory = "temp\portfolio\projects\"+$projectYear
-  .\scripts\Generate-API.ps1 -BaseDirectoryName $baseDirectory -OutputFileName $projectYear 
-}
-Write-Host "Generated JSON for complex scenarios"
+#   $baseDirectory = "temp\portfolio\projects\"+$projectYear
+#   .\scripts\Generate-API.ps1 -BaseDirectoryName $baseDirectory -OutputFileName $projectYear 
+# }
+# Write-Host "Generated JSON for complex scenarios"
 
 
 # Move the 'modified' portfolio folder from temp to output where it can get published
