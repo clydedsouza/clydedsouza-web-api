@@ -16,13 +16,6 @@ function getRelativeDirectoryName {
     return ".\" + $FullDirectoryPath.Substring($FullDirectoryPath.LastIndexOf($BaseDirectoryName)) + "\"
 }
 
-function getFilesFromCSV {
-    param 
-    (
-        [string]$filesCSV
-    )  
-    return $filesCSV.split(",") 
-}  
 
 function appendFilename {
     param 

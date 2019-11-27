@@ -11,20 +11,6 @@ Describe 'getRelativeDirectoryName()' {
     }
 }
 
-Describe 'getFilesFromCSV()' { 
-    it 'handles a valid CSV' {  
-        $output = getFilesFromCSV ".\projects\pinned\RoboHashAvatars.md,.\projects\EmojiBadges.md" 
-        $output[0] | Should Be ".\projects\pinned\RoboHashAvatars.md"
-        $output[1] | Should Be ".\projects\EmojiBadges.md"
-    } 
-    it 'handles a valid CSV with a comma at the end' {  
-        $output = getFilesFromCSV ".\projects\pinned\RoboHashAvatars.md,.\projects\EmojiBadges.md," 
-        $output[0] | Should Be ".\projects\pinned\RoboHashAvatars.md"
-        $output[1] | Should Be ".\projects\EmojiBadges.md"
-        $output[2] | Should Be ""
-    } 
-}
-
 Describe 'appendFilename()' { 
     it 'handles a valid directory and filename input' {  
         $output = appendFilename ".\projects\pinned\" "RoboHashAvatars.md"  
