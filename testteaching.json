@@ -1,0 +1,14 @@
+{
+  "developing-nuget-skillshare.pin": {
+    "preview": "developing-nuget-skillshare.pin.md",
+    "basename": "developing-nuget-skillshare.pin"
+  },
+  "light-and-spark-npo.pin": {
+    "preview": "light-and-spark-npo.pin.md",
+    "basename": "light-and-spark-npo.pin"
+  },
+  "markdown-skillshare": {
+    "preview": "markdown-skillshare.md",
+    "basename": "markdown-skillshare"
+  }
+}
