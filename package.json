@@ -4,6 +4,6 @@
   "author": "Clyde D'Souza",
   "devDependencies": {
     "jsonlint": "^1.6.3",
-    "markdown-to-json": "^0.5.1"
+    "processmd": "^4.5.0"
   }
 }

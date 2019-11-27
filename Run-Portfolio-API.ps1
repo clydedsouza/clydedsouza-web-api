@@ -1,8 +1,10 @@
-# Check if any portfolio item has duplicate names. Exit if one found.
+Write-Host "=== Task started ==="
+
+# Check if any portfolio item has duplicate names.
 #-----------------------------------------------------------------------------------
 
 .\scripts\Check-Duplicate.ps1 -BaseDirectoryName portfolio
-Write-Host "Checked for duplicates"
+Write-Host "Checked for duplicates..."
 
 
 # Copy the portfolio folder into a temporary working directory
@@ -10,62 +12,57 @@ Write-Host "Checked for duplicates"
 #-----------------------------------------------------------------------------------
 
 .\scripts\Copy-Folder.ps1 -SourceFolder "portfolio" -DestinationFolder "temp"
-Write-Host "Copied folder to destination"
-
-Get-ChildItem .\temp\portfolio\books | Sort-Object -Property LastWriteTime
-Write-Host " ***BEFORE*** "
+Write-Host "Copied folder to destination..."
 
 .\scripts\Update-Portfolio.ps1 -BaseDirectoryName temp\portfolio 
-Write-Host "Update portfolio items"
+Write-Host "Updated portfolio items..."
 
-Get-ChildItem .\temp\portfolio\books | Sort-Object -Property LastWriteTime
-Write-Host " ***AFTER*** "
 
 # Generate API files for different basic scenarios
 #--------------------------------------------------------
 
-.\scripts\Generate-API.ps1 -BaseDirectoryName temp\portfolio -OutputFileName complete-portfolio 
-Write-Host "Generated complete portfolio JSON"
+.\node_modules\.bin\processmd "temp/portfolio/**/*.{md}" --stdout --outputDir temp/portfoliooutput/allportfolio > allportfolio.json
+Write-Host "Generated complete portfolio JSON..."
 
-Get-ChildItem .\output | Sort-Object -Property LastWriteTime
-Write-Host " ****** "
+.\node_modules\.bin\processmd "temp/portfolio/projects/**/*.{md}" --stdout --outputDir temp/portfoliooutput/allprojects > allprojects.json
+Write-Host "Generated only projects JSON..."
 
-# .\scripts\Generate-API.ps1 -BaseDirectoryName temp\portfolio\projects -OutputFileName all-projects 
-# Write-Host "Generated only projects JSON"
+.\node_modules\.bin\processmd "temp/portfolio/speaking/**/*.{md}" --stdout --outputDir temp/portfoliooutput/allspeaking > allspeaking.json
+Write-Host "Generated only speaking JSON..."
 
-# .\scripts\Generate-API.ps1 -BaseDirectoryName temp\portfolio\speaking -OutputFileName all-speaking 
-# Write-Host "Generated only speaking JSON"
+.\node_modules\.bin\processmd "temp/portfolio/teaching/**/*.{md}" --stdout --outputDir temp/portfoliooutput/allteaching > allteaching.json
+Write-Host "Generated only teaching JSON..."
 
-# .\scripts\Generate-API.ps1 -BaseDirectoryName temp\portfolio\teaching -OutputFileName all-teaching 
-# Write-Host "Generated only teaching JSON"
+.\node_modules\.bin\processmd "temp/portfolio/books/**/*.{md}" --stdout --outputDir temp/portfoliooutput/allbooks > allbooks.json
+Write-Host "Generated only books JSON..."
 
-# .\scripts\Generate-API.ps1 -BaseDirectoryName temp\portfolio\books -OutputFileName all-books
-# Write-Host "Generated only books JSON"
-
-# .\scripts\Generate-API.ps1 -BaseDirectoryName temp\portfolio -OutputFileName all-pinned -FilterTagForFiles .pin
-# Write-Host "Generated only pinned items JSON"
+.\scripts\Copy-Pinned.ps1 -SourceDirectoryName temp\portfolio -FilterTagForFiles .pin
+.\node_modules\.bin\processmd "temp/pinneditems/**/*.{md}" --stdout --outputDir temp/portfoliooutput/allpinned > allpinned.json
+Write-Host "Generated only pinned items JSON..."
 
 
 # Generate API files for slightly complex scenarios
 # Generate API files for each project year
 #--------------------------------------------------------
 
-# $currentYear = Get-Date -Format yyyy
-# $projectStartYear = 2012
-# $projectExclusionYears = @(2014)
-# $projectYears = ($projectStartYear..$CurrentYear)
+$currentYear = Get-Date -Format yyyy
+$projectStartYear = 2012
+$projectExclusionYears = @(2014)
+$projectYears = ($projectStartYear..$CurrentYear)
 
-# ForEach ($projectYear in $projectYears) { 
-#   $isThisExcluded = $projectExclusionYears -Contains $projectYear
+ForEach ($projectYear in $projectYears) { 
+  $isThisExcluded = $projectExclusionYears -Contains $projectYear
   
-#   If($isThisExcluded){
-#     continue
-#   }
+  If($isThisExcluded){
+    continue
+  }
 
-#   $baseDirectory = "temp\portfolio\projects\"+$projectYear
-#   .\scripts\Generate-API.ps1 -BaseDirectoryName $baseDirectory -OutputFileName $projectYear 
-# }
-# Write-Host "Generated JSON for complex scenarios"
+  $inputDirectory = "temp/portfolio/projects/"+$projectYear+"/**/*.{md}"
+  $outputDirectory = "temp/"+$projectYear
+  $outputFilename = "all"+$projectYear+".json"
+  .\node_modules\.bin\processmd $inputDirectory --stdout --outputDir $outputDirectory > $outputFilename
+}
+Write-Host "Generated JSON for complex scenarios..."
 
 
 # Move the 'modified' portfolio folder from temp to output where it can get published
@@ -73,7 +70,9 @@ Write-Host " ****** "
 #--------------------------------------------------------
 
 Move-Item -Path "temp\portfolio" -Destination "output" 
-Write-Host "Moved items to output folder"
+Write-Host "Moved items to output folder..."
 
 Remove-Item -LiteralPath "temp" -Force -Recurse
-Write-Host "Remove temp folder"
+Write-Host "Removed temp folder..."
+
+Write-Host "=== Task complete ==="
