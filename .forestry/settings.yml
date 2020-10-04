@@ -5,6 +5,16 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: portfolio/speaking
+  label: Speaking
+  create: all
+  match: "**/*"
+- type: directory
+  path: portfolio/projects
+  label: Projects
+  create: all
+  match: "**/*"
+- type: directory
   path: portfolio/books
   label: Books
   create: all
