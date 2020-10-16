@@ -1,9 +1,29 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path: 
+admin_path: ''
 webhook_url: 
-sections: 
+sections:
+- type: directory
+  path: portfolio/teaching
+  label: Teaching
+  create: all
+  match: "**/*"
+- type: directory
+  path: portfolio/speaking
+  label: Speaking
+  create: all
+  match: "**/*"
+- type: directory
+  path: portfolio/projects
+  label: Projects
+  create: all
+  match: "**/*"
+- type: directory
+  path: portfolio/books
+  label: Books
+  create: all
+  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
