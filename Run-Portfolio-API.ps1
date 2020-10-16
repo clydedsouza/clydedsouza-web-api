@@ -36,6 +36,9 @@ Write-Host "Generated only teaching JSON..."
 .\node_modules\.bin\processmd "temp/portfolio/books/**/*.{md}" --stdout --outputDir temp/portfoliooutput/allbooks > allbooks.json
 Write-Host "Generated only books JSON..."
 
+.\node_modules\.bin\processmd "temp/portfolio/highlights/**/*.{md}" --stdout --outputDir temp/portfoliooutput/allhighlights > allhighlights.json
+Write-Host "Generated only highlights JSON..."
+
 .\scripts\Copy-Pinned.ps1 -SourceDirectoryName temp\portfolio -FilterTagForFiles .pin
 .\node_modules\.bin\processmd "temp/pinneditems/**/*.{md}" --stdout --outputDir temp/portfoliooutput/allpinned > allpinned.json
 Write-Host "Generated only pinned items JSON..."
