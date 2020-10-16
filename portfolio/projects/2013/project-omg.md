@@ -12,8 +12,8 @@ madeUsing:
 - JavaScript
 - VML
 category: Game
-icon: https://static.clydedsouza.net/images/icons/omg-icon.png
-image: https://static.clydedsouza.net/images/projects/omg-team.jpg
+icon: https://files.clydedsouza.net/images/icons/omg-icon.png
+image: https://files.clydedsouza.net/images/projects/omg-team.jpg
 imageDescription: Project OMG is an interesting HTML-based game developed in 2013
 isActive: false
 relativeURL: 

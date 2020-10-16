@@ -11,8 +11,8 @@ github: https://github.com/ngClyde/
 madeUsing:
 - Angular JS
 category: Workshop
-icon: https://static.clydedsouza.net/images/icons/angular-icon.png
-image: https://static.clydedsouza.net/images/projects/ngclyde.jpg
+icon: https://files.clydedsouza.net/images/icons/angular-icon.png
+image: https://files.clydedsouza.net/images/projects/ngclyde.jpg
 imageDescription: Clyde has created an easy to understand resource/ knowledge base
   for Angular JS
 isActive: false

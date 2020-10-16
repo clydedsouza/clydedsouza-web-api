@@ -8,8 +8,8 @@ onGithub: false
 github: ''
 madeUsing: []
 category: Panelist speaker
-icon: https://static.clydedsouza.net/images/icons/lightandsparknpo-icon.png
-image: https://static.clydedsouza.net/images/projects/aut-match-ready-2018.jpg
+icon: https://files.clydedsouza.net/images/icons/lightandsparknpo-icon.png
+image: https://files.clydedsouza.net/images/projects/aut-match-ready-2018.jpg
 imageDescription: I was invited to speak at the AUT Match Ready event to share my experience with current students.
 relativeURL: 
 isActive: true

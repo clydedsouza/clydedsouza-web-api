@@ -15,8 +15,8 @@ madeUsing:
 - Angular JS
 - Angular JS Material
 category: Web App
-icon: https://static.clydedsouza.net/images/icons/gitly-icon.png
-image: https://static.clydedsouza.net/images/projects/gitly.jpg
+icon: https://files.clydedsouza.net/images/icons/gitly-icon.png
+image: https://files.clydedsouza.net/images/projects/gitly.jpg
 imageDescription: Gitly is a GitHub user lookup app created by Clyde D'Souza
 isActive: false
 relativeURL: 

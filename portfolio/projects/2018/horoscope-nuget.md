@@ -14,8 +14,8 @@ madeUsing:
 - Azure DevOps
 - Azure Artifacts
 category: NuGet
-icon: https://static.clydedsouza.net/images/icons/horoscope-nuget-icon.png
-image: https://static.clydedsouza.net/images/projects/horoscope-nuget.jpg
+icon: https://files.clydedsouza.net/images/icons/horoscope-nuget-icon.png
+image: https://files.clydedsouza.net/images/projects/horoscope-nuget.jpg
 imageDescription: A NuGet package for zodiac signs.
 isActive: true
 relativeURL: 

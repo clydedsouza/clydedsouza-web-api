@@ -8,8 +8,8 @@ onGithub: false
 github: ''
 madeUsing: []
 category: Bedtime stories
-icon: https://static.clydedsouza.net/images/icons/mama-tell-me-a-story-icon.png
-image: https://static.clydedsouza.net/images/projects/mama-tell-me-a-story.png
+icon: https://files.clydedsouza.net/images/icons/mama-tell-me-a-story-icon.png
+image: https://files.clydedsouza.net/images/projects/mama-tell-me-a-story.png
 imageDescription: Mama, tell me a story is a collection of twelve short bedtime stories
 relativeURL: 
 isActive: true

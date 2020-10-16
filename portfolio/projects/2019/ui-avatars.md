@@ -13,8 +13,8 @@ madeUsing:
 - Mocha
 - Istanbul+nyc
 category: npm
-icon: https://static.clydedsouza.net/images/icons/uiavatars-icon.png
-image: https://static.clydedsouza.net/images/projects/uiavatars-siteteaser.png
+icon: https://files.clydedsouza.net/images/icons/uiavatars-icon.png
+image: https://files.clydedsouza.net/images/projects/uiavatars-siteteaser.png
 imageDescription: Generate avatar images based on user initials.
 isActive: true
 relativeURL: 

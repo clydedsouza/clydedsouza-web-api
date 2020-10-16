@@ -13,8 +13,8 @@ madeUsing:
 - Azure DevOps
 - Azure Artifacts
 category: NuGet
-icon: https://static.clydedsouza.net/images/icons/clymatenuget-icon.png
-image: https://static.clydedsouza.net/images/projects/clymate-chameleon-theme.png
+icon: https://files.clydedsouza.net/images/icons/clymatenuget-icon.png
+image: https://files.clydedsouza.net/images/projects/clymate-chameleon-theme.png
 imageDescription: NuGet package that adds a themeable website called Chameleon to
   your project.
 isActive: true

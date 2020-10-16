@@ -17,8 +17,8 @@ madeUsing:
 - HTML
 - Google Analytics
 category: Bot
-icon: https://static.clydedsouza.net/images/icons/therecipybot-icon.png
-image: https://static.clydedsouza.net/images/projects/therecipybot.jpg
+icon: https://files.clydedsouza.net/images/icons/therecipybot-icon.png
+image: https://files.clydedsouza.net/images/projects/therecipybot.jpg
 imageDescription: The Recipy Bot helps you cook delicious meals by picking the best
   recipie for you.
 isActive: false

@@ -8,8 +8,8 @@ onGithub: false
 github: ''
 madeUsing: []
 category: Presentation
-icon: https://static.clydedsouza.net/images/icons/lightandsparknpo-icon.png
-image: https://static.clydedsouza.net/images/projects/presso-lightandsparknpo-datacom.jpg
+icon: https://files.clydedsouza.net/images/icons/lightandsparknpo-icon.png
+image: https://files.clydedsouza.net/images/projects/presso-lightandsparknpo-datacom.jpg
 imageDescription: A lunch and learn presentation about Light & Spark NPO at Datacom.
 relativeURL: 
 isActive: true

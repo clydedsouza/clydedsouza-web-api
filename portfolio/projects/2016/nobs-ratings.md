@@ -14,8 +14,8 @@ madeUsing:
 - Php
 - Angular JS
 category: WordPress
-icon: https://static.clydedsouza.net/images/icons/nobsratings-icon.png
-image: https://static.clydedsouza.net/images/projects/nobsratings.jpg
+icon: https://files.clydedsouza.net/images/icons/nobsratings-icon.png
+image: https://files.clydedsouza.net/images/projects/nobsratings.jpg
 imageDescription: Another awesome website created by Clyde and team at Impact NPO
   for NOBS Ratings
 isActive: false

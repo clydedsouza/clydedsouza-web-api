@@ -11,8 +11,8 @@ madeUsing:
 - Node.js
 - Mocha
 category: VS Code Extension
-icon: https://static.clydedsouza.net/images/icons/clymatenuget-icon.png
-image: https://static.clydedsouza.net/images/projects/clymatethemesvscode-siteteaser.png
+icon: https://files.clydedsouza.net/images/icons/clymatenuget-icon.png
+image: https://files.clydedsouza.net/images/projects/clymatethemesvscode-siteteaser.png
 imageDescription: A collection of themes for VS Code under the Clymate themes hood.
 isActive: true
 relativeURL: 

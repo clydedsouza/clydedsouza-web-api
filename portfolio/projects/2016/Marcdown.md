@@ -16,8 +16,8 @@ madeUsing:
 - Angular JS
 - Angular Marked
 category: Web App
-icon: https://static.clydedsouza.net/images/icons/marcdown-icon.png
-image: https://static.clydedsouza.net/images/projects/marcdown-snap.jpg
+icon: https://files.clydedsouza.net/images/icons/marcdown-icon.png
+image: https://files.clydedsouza.net/images/projects/marcdown-snap.jpg
 imageDescription: Marcdown is a simple but powerful web app completely based on helping
   a user to understand Markdown better
 isActive: true

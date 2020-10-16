@@ -13,8 +13,8 @@ madeUsing:
 - JavaScript
 - Google Analytics (gtag)
 category: Visual Studio Extension
-icon: https://static.clydedsouza.net/images/icons/gasp-vsix-icon.png
-image: https://static.clydedsouza.net/images/projects/gasp-vsix.png
+icon: https://files.clydedsouza.net/images/icons/gasp-vsix-icon.png
+image: https://files.clydedsouza.net/images/projects/gasp-vsix.png
 imageDescription: A snippet pack for working with Google Analytics global site tag
   (gtag.js).
 isActive: true

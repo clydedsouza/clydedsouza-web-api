@@ -16,8 +16,8 @@ madeUsing:
 - JavaScript
 - jQuery
 category: Web App
-icon: https://static.clydedsouza.net/images/icons/bashell-icon.png
-image: https://static.clydedsouza.net/images/projects/bashell.jpg
+icon: https://files.clydedsouza.net/images/icons/bashell-icon.png
+image: https://files.clydedsouza.net/images/projects/bashell.jpg
 imageDescription: Bashell is a browser-based terminal window running on JavaScript
 isActive: true 
 relativeURL: 
