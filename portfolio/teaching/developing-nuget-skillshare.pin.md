@@ -9,8 +9,8 @@ onGithub: false
 github: ''
 madeUsing: []
 category: Skillshare online class
-icon: https://static.clydedsouza.net/images/icons/skillshare-logo.jpg
-image: https://static.clydedsouza.net/images/projects/ddnp.png
+icon: https://files.clydedsouza.net/images/icons/skillshare-logo.jpg
+image: https://files.clydedsouza.net/images/projects/ddnp.png
 imageDescription: Developing and distributing NuGet packages – Skillshare class
 relativeURL: /portfolio/teaching/developing-nuget-skillshare.pin.md 
 isActive: true

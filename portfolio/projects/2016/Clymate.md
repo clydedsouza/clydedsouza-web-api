@@ -15,8 +15,8 @@ madeUsing:
 - JavaScript
 - jQuery
 category: Web App
-icon: https://static.clydedsouza.net/images/icons/clymate-icon.png
-image: https://static.clydedsouza.net/images/projects/clymate.jpg
+icon: https://files.clydedsouza.net/images/icons/clymate-icon.png
+image: https://files.clydedsouza.net/images/projects/clymate.jpg
 imageDescription: Clymate is a weather plus UV forecast app made using a colourful
   and brilliant UI
 isActive: false

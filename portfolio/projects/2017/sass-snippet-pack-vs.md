@@ -15,8 +15,8 @@ madeUsing:
 - Bootstrap
 - Google Analytics (gtag)
 category: Visual Studio Extension
-icon: https://static.clydedsouza.net/images/icons/sasssnippack-vsix-icon.png
-image: https://static.clydedsouza.net/images/projects/sass-vsix-ext-siteteaser.png
+icon: https://files.clydedsouza.net/images/icons/sasssnippack-vsix-icon.png
+image: https://files.clydedsouza.net/images/projects/sass-vsix-ext-siteteaser.png
 imageDescription: A snippet pack to help you write scss code. This adds a code snippet
   pack in the code snippet manager of Visual Studio.
 isActive: true

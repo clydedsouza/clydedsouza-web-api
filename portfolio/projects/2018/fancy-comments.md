@@ -15,8 +15,8 @@ madeUsing:
 - Bootstrap
 - Google Analytics (gtag)
 category: Visual Studio Extension
-icon: https://static.clydedsouza.net/images/icons/fancycomments-vsix-icon.png
-image: https://static.clydedsouza.net/images/projects/fancycomments-vsix-siteteaser.png
+icon: https://files.clydedsouza.net/images/icons/fancycomments-vsix-icon.png
+image: https://files.clydedsouza.net/images/projects/fancycomments-vsix-siteteaser.png
 imageDescription: A snippet pack for use-case specific comments, supported for HTML,
   CSS, JavaScript, C#, SQL and XML.
 isActive: true

@@ -13,8 +13,8 @@ madeUsing:
 - JavaScript
 - Php
 category: WordPress
-icon: https://static.clydedsouza.net/images/icons/luckvenue-icon.png
-image: https://static.clydedsouza.net/images/projects/luckvenue-website.jpg
+icon: https://files.clydedsouza.net/images/icons/luckvenue-icon.png
+image: https://files.clydedsouza.net/images/projects/luckvenue-website.jpg
 imageDescription: Luck Venue is a WordPress website developed by an awesome dream
   team at an Impact NPO event in August
 isActive: false

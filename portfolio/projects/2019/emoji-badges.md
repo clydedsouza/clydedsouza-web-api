@@ -13,8 +13,8 @@ madeUsing:
 - Mocha
 - Istanbul+nyc
 category: VS Code Extension
-icon: https://static.clydedsouza.net/images/icons/emojibadges-icon.png
-image: https://static.clydedsouza.net/images/projects/emojibadgesvscode-siteteaser.png
+icon: https://files.clydedsouza.net/images/icons/emojibadges-icon.png
+image: https://files.clydedsouza.net/images/projects/emojibadgesvscode-siteteaser.png
 imageDescription: Snippets to insert emoji badges to your markdown file. These are
   shields.io badges boosted with emojis.
 isActive: true

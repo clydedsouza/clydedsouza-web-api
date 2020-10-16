@@ -18,8 +18,8 @@ madeUsing:
 - MySql
 - Asp.Net EF
 category: Website
-icon: https://static.clydedsouza.net/images/icons/nandoso-icon.png
-image: https://static.clydedsouza.net/images/projects/nandoso.jpg
+icon: https://files.clydedsouza.net/images/icons/nandoso-icon.png
+image: https://files.clydedsouza.net/images/projects/nandoso.jpg
 imageDescription: Nadoso is an intuitive website for a fictional restaurant developed
   by Clyde D'Souza which includes Web Api, facebook authentication, disqus forum and
   not to forget, a delicious menu

@@ -13,8 +13,8 @@ madeUsing:
 - JavaScript
 - Angular JS
 category: Website
-icon: https://static.clydedsouza.net/images/icons/a1pd-icon.png
-image: https://static.clydedsouza.net/images/projects/a1pd.jpg
+icon: https://files.clydedsouza.net/images/icons/a1pd-icon.png
+image: https://files.clydedsouza.net/images/projects/a1pd.jpg
 imageDescription: Clyde developed a website for A1 Professional Designs owned by Roshini
   Daruwala
 isActive: false
