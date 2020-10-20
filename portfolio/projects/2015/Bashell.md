@@ -24,6 +24,6 @@ relativeURL:
 
 ----
 
-Bashell is a browser-based terminal window running on JavaScript
+Bashell is a browser-based terminal window running on JavaScript. The idea was to mock an actual command prompt and provide some sample commands like rolling a dice, calculating square of a number, printing today's date and time. Try running the `help` command to see what else you can do. 
 
-
+It was a challenging project to accomplish especially getting the aesthetics of the application right. Returning the right functionality was probably the easy part!
