@@ -1,10 +1,9 @@
 ---
 title: Kiwi Sports
 date: "2015-09-01"
-description: I developed my first Windows Store App called 'Kiwi Sports', an App that
-  fetches the latest news, images, videos and more about the All Blacks, Black Caps
-  and Silver Ferns. I developed this App using XAML and C# and integrated various
-  API's. This App was developed as a part of the Microsoft Student  Accelerator programme.
+description: I developed my first Windows Store App called Kiwi Sports. This app fetches the latest news, images, and videos about the All Blacks, Black Caps
+  and Silver Ferns. I developed this app using XAML and C# and integrated various
+  API's. This app was developed as a part of the Microsoft Student Accelerator programme.
 hasWebsite: false
 website: ''
 onGithub: true
@@ -22,5 +21,5 @@ relativeURL:
 
 ---
 
-Clyde developed his first Windows Store PC app called Kiwi Sports which is an all-in-one app for the All Blacks, Black Caps and Silver Ferns.
+As part of the [Microsoft Student Accelerator programme](https://twitter.com/nz_msa), each student had to create and submit a Windows Store App to qualify for the next round. I developed my first Windows Store PC app called Kiwi Sports which is an all-in-one app for the All Blacks, Black Caps and Silver Ferns. This app fetches data from API's to show images, news and videos for the All Blacks, Black Caps and Silver Ferns. 
 
