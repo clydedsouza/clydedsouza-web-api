@@ -16,4 +16,4 @@ isActive: true
 
 ---
 
-After spending a few months learning how to build NuGet packages, teaching a class online and of course, using NuGet packages in so many project over the last few years, I decided to share this experience at Datacom's Developer Community of Practice (DevCOP). During this lunch and learn presentation I spoke about how you would create and publish a NuGet package along with a live demo! This session ended with a Q&A session with a lot of interaction with the audience in the room as well as with the people joining via Skype. 
+After spending a few months learning how to build NuGet packages, teaching a class online and of course, using NuGet packages in so many project over the last few years, I decided to share this experience at Datacom's Developer Community of Practice (DevCOP). During this lunch and learn presentation, I spoke about how you would create and publish a NuGet package along with a live demo! This session ended with a Q&A session with a lot of interaction with the audience in the room as well as with people joining via Skype. 
