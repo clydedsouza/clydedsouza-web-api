@@ -2,7 +2,7 @@
   "name": "clydedsouza-projects",
   "version": "0.0.1",
   "author": "Clyde D'Souza",
-  "devDependencies": {
+  "dependencies": {
     "jsonlint": "^1.6.3",
     "processmd": "^4.5.2"
   }
