@@ -22,6 +22,5 @@ relativeURL:
 
 ---
  
-Snippets to insert emoji badges to your markdown file. These are shields.io badges boosted with emojis.
- 
+Snippets to insert emoji badges to your markdown file. These are shields.io badges boosted with emojis. I've documented the process of creating a VS Code Extension on [Medium](http://bit.ly/cdz03)
 
