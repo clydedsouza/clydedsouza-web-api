@@ -1,5 +1,8 @@
 Write-Host "=== Task started ==="
 
+$processmdVersion = .\node_modules\.bin\processmd --version 
+Write-Host "Info: processmd version" $processmdVersion
+
 # Check if any portfolio item has duplicate names.
 #-----------------------------------------------------------------------------------
 
