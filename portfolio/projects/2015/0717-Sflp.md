@@ -1,7 +1,7 @@
 ---
 title: Success For Little People
 date: "2015-07-17"
-description: Developed a website for 'Success for Little People' a non-profit organization,
+description: Developed a website for Success for Little People - a non-profit organization,
   as a part of the hackathon event hosted by Charity-IT in Auckland from the 17th
   of July to 19th July 2015. We were a 7 member team inclusive of the product owner
   representing Success for Little People.
@@ -23,6 +23,6 @@ relativeURL:
 
 ---
 
-We developed a website for Success for Little People using WordPress 17th - 19th July, 2015
+This was my first ever hackathon here in Auckland, New Zealand. From one of the top floors of the PWC Tower, we developed a website for Success for Little People using WordPress. This event was hosted by Impact-IT on the weekend of 17th - 19th July, 2015. 
 
-
+This was also my first time using WordPress. I and some other members in the team relied on another developer who knew WordPress pretty well and gladly guided us all so that we could understand and build a website for the non-profit. 

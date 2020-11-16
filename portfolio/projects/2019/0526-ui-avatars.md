@@ -21,7 +21,7 @@ relativeURL:
 
 ---
 
-Generate avatar images based on user initials.
+I built an npm wrapper to use the existing [UI Avatars](https://ui-avatars.com) service to generate avatar images based on user initials.
 
 ## Examples 
 > Clicking on the images below opens the image in a browser window.  
@@ -32,5 +32,4 @@ Generate avatar images based on user initials.
 
 ## Credits  
 [UI Avatars](https://ui-avatars.com/) developed by [Lasse Rafn](https://twitter.com/lasserafn) / [GitHub](https://github.com/LasseRafn/ui-avatars).  
-This npm package is developed by [Clyde D'Souza](https://clydedsouza.net).
 

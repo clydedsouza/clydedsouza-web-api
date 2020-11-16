@@ -28,7 +28,9 @@ relativeURL:
 
 ---
 
-Nadoso is an intuitive website for a fictional restaurant developed
-  by Clyde D'Souza which includes Web Api, facebook authentication, disqus forum and
-  not to forget, a delicious menu
+The final examination of the [Microsoft Student Accelerator programme](https://twitter.com/nz_msa) was to put into practice what we learned so far. We were given a set of requirements and four days to implement a solution and demonstrate on the fifth day in front of the examiners.
+
+Nandoso is an intuitive website for a fictional restaurant developed which includes Web API, MySQL database, Facebook authentication, Disqus forum and not to forget, a delicious menu.
+
+I still remember the examiners reaction when I demonstrated this website - they were pleasantly surprised with the output and really appreciated that it was well polished. 
 

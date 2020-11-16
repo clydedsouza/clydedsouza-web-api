@@ -1,5 +1,8 @@
 Write-Host "=== Task started ==="
 
+$processmdVersion = .\node_modules\.bin\processmd --version 
+Write-Host "Info: processmd version" $processmdVersion
+
 # Check if any portfolio item has duplicate names.
 #-----------------------------------------------------------------------------------
 
@@ -21,26 +24,26 @@ Write-Host "Updated portfolio items..."
 # Generate API files for different basic scenarios
 #--------------------------------------------------------
 
-.\node_modules\.bin\processmd "temp/portfolio/**/*.{md}" --stdout --outputDir temp/portfoliooutput/allportfolio > allportfolio.json
+.\node_modules\.bin\processmd "temp/portfolio/**/*.md" --stdout --outputDir temp/portfoliooutput/allportfolio > allportfolio.json
 Write-Host "Generated complete portfolio JSON..."
 
-.\node_modules\.bin\processmd "temp/portfolio/projects/**/*.{md}" --stdout --outputDir temp/portfoliooutput/allprojects > allprojects.json
+.\node_modules\.bin\processmd "temp/portfolio/projects/**/*.md" --stdout --outputDir temp/portfoliooutput/allprojects > allprojects.json
 Write-Host "Generated only projects JSON..."
 
-.\node_modules\.bin\processmd "temp/portfolio/speaking/**/*.{md}" --stdout --outputDir temp/portfoliooutput/allspeaking > allspeaking.json
+.\node_modules\.bin\processmd "temp/portfolio/speaking/**/*.md" --stdout --outputDir temp/portfoliooutput/allspeaking > allspeaking.json
 Write-Host "Generated only speaking JSON..."
 
-.\node_modules\.bin\processmd "temp/portfolio/teaching/**/*.{md}" --stdout --outputDir temp/portfoliooutput/allteaching > allteaching.json
+.\node_modules\.bin\processmd "temp/portfolio/teaching/**/*.md" --stdout --outputDir temp/portfoliooutput/allteaching > allteaching.json
 Write-Host "Generated only teaching JSON..."
 
-.\node_modules\.bin\processmd "temp/portfolio/books/**/*.{md}" --stdout --outputDir temp/portfoliooutput/allbooks > allbooks.json
+.\node_modules\.bin\processmd "temp/portfolio/books/**/*.md" --stdout --outputDir temp/portfoliooutput/allbooks > allbooks.json
 Write-Host "Generated only books JSON..."
 
-.\node_modules\.bin\processmd "temp/portfolio/highlights/**/*.{md}" --stdout --outputDir temp/portfoliooutput/allhighlights > allhighlights.json
+.\node_modules\.bin\processmd "temp/portfolio/highlights/**/*.md" --stdout --outputDir temp/portfoliooutput/allhighlights > allhighlights.json
 Write-Host "Generated only highlights JSON..."
 
 .\scripts\Copy-Pinned.ps1 -SourceDirectoryName temp\portfolio -FilterTagForFiles .pin
-.\node_modules\.bin\processmd "temp/pinneditems/**/*.{md}" --stdout --outputDir temp/portfoliooutput/allpinned > allpinned.json
+.\node_modules\.bin\processmd "temp/pinneditems/**/*.md" --stdout --outputDir temp/portfoliooutput/allpinned > allpinned.json
 Write-Host "Generated only pinned items JSON..."
 
 
@@ -60,7 +63,7 @@ ForEach ($projectYear in $projectYears) {
     continue
   }
 
-  $inputDirectory = "temp/portfolio/projects/"+$projectYear+"/**/*.{md}"
+  $inputDirectory = "temp/portfolio/projects/"+$projectYear+"/**/*.md"
   $outputDirectory = "temp/"+$projectYear
   $outputFilename = "all"+$projectYear+".json"
   .\node_modules\.bin\processmd $inputDirectory --stdout --outputDir $outputDirectory > $outputFilename
