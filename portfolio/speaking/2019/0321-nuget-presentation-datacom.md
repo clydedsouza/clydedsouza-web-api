@@ -8,7 +8,7 @@ onGithub: false
 github: ''
 madeUsing: []
 category: Presentation
-icon: https://files.clydedsouza.net/images/icons/lightandsparknpo-icon.png
+icon: https://files.clydedsouza.net/images/icons/clydedsouza-icon.png
 image: https://files.clydedsouza.net/images/projects/presso-nuget-datacom.jpg
 imageDescription: A lunch and learn presentation at Datacom on NuGet.
 relativeURL: 

@@ -8,7 +8,7 @@ onGithub: false
 github: ''
 madeUsing: []
 category: Presentation
-icon: https://files.clydedsouza.net/images/icons/lightandsparknpo-icon.png
+icon: https://files.clydedsouza.net/images/icons/clydedsouza-icon.png
 image: https://files.clydedsouza.net/images/projects/presso-sass-datacom.jpg
 imageDescription: Write awesome CSS using Sass
 relativeURL: 

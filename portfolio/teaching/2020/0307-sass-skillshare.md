@@ -1,7 +1,7 @@
 ---
 title: A Super Simple Introduction to Sass
-date: "2019-03-07"
-description: Learn the basic of Sass - a processor of CSS.
+date: "2020-03-07"
+description: Learn the basics of Sass - a processor of CSS - using a simple 4-step process. We'll also using Scout App to convert Sass to CSS. 
 hasWebsite: true
 website: https://skl.sh/33Top0A
 onGithub: false
@@ -9,7 +9,7 @@ github: ''
 madeUsing: []
 category: Skillshare online class
 icon: https://files.clydedsouza.net/images/icons/skillshare-logo.jpg
-image: https://files.clydedsouza.net/images/projects/ddnp.png
+image: https://files.clydedsouza.net/images/projects/skillshare-sass.png
 imageDescription: A Super Simple Introduction to Sass – Skillshare class
 relativeURL: 
 isActive: true

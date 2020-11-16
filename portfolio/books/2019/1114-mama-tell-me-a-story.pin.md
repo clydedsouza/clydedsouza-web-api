@@ -3,7 +3,7 @@ title: Mama, Tell Me a Story
 date: "2019-11-14"
 description: Mama, Tell Me a Story is a collection of twelve short bedtime stories that parents will love reading to their kids over and over again. The stories are engaging and revolves around characters that your kids will absolutely love. Each story holds the power to unlock your child’s superpower—their imagination!
 hasWebsite: true
-website: http://bit.ly/MamaTellMeAStory
+website: http://mamatellmeastory.clydedsouza.net/
 onGithub: false
 github: ''
 madeUsing: []
