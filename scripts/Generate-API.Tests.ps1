@@ -1,4 +1,4 @@
-. .\scripts\Generate-API-Helper.ps1
+Import-Module ".\scripts\Generate-API-Helper.psm1"
 
 Describe 'getRelativeDirectoryName()' { 
     it 'handles a 1 level directory' {  

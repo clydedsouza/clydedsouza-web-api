@@ -20,7 +20,7 @@ Param
 
 # Import helper
 
-. .\scripts\Generate-API-Helper.ps1
+Import-Module ".\scripts\Generate-API-Helper.psm1"
 
 # Main starts here
 
