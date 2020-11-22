@@ -16,7 +16,6 @@ function getRelativeDirectoryName {
     return ".\" + $FullDirectoryPath.Substring($FullDirectoryPath.LastIndexOf($BaseDirectoryName)) + "\"
 }
 
-
 function appendFilename {
     param 
     (
