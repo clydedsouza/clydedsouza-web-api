@@ -1,6 +1,6 @@
 ---
 title: UI Avatars
-date: "2019-05-26"
+date: "26 May 2019"
 description: Generate avatar images based on user initials.
 hasWebsite: true
 website: http://bit.ly/ui-avatars

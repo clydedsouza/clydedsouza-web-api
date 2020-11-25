@@ -1,6 +1,6 @@
 ---
 title: NOBS Ratings
-date: "2016-02-26"
+date: "26 Feb 2016"
 description: Lead developer at yet another Impact NPO charity weekend. This time our
   6 member team developed a WordPress website from scratch for NOBS Ratings NZ.
 hasWebsite: true

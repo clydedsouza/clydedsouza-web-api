@@ -1,6 +1,6 @@
 ---
 title: Project OMG
-date: "2013-03-01"
+date: "01 Mar 2013"
 description: "This was an interesting project as we put together an HTML-based game for our multimedia project. My primary responsibilities included conceptualizing the game, creating graphics and co-developing the game."
 hasWebsite: false
 website: ''

@@ -1,6 +1,6 @@
 ---
 title: Fancy Comments
-date: "2018-02-06"
+date: "06 Feb 2018"
 description: A snippet pack for use-case specific comments, supported for HTML, CSS,
   JavaScript, C#, SQL and XML. Available for Visual Studio 2015, 2017 & 2019 (All editions).
 hasWebsite: true

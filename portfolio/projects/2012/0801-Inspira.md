@@ -1,6 +1,6 @@
 ---
 title: Inspira
-date: "2012-08-01"
+date: "01 Aug 2012"
 description: Designed and developed a website for the BMS Departments annual festival
   Inspira. My responsibilities included ensuring that the website is up and running
   as per the given schedule, developing the website and meeting the expectations of

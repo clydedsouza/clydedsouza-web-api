@@ -1,6 +1,6 @@
 ---
 title: Rainbow Youth
-date: "2016-08-12"
+date: "12 Aug 2016"
 description: Developed a learning management system over the weekend with a team of
   7 members for Rainbow Youth.
 hasWebsite: true

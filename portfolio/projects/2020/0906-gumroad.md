@@ -1,6 +1,6 @@
 ---
 title: Clyde on Gumroad
-date: "2020-09-06"
+date: "06 Sep 2020"
 description: I've published few artifacts on Gumroad which is a marketplace to sell products. Do check it out and maybe even hit that follow button there. 
 hasWebsite: true
 website: https://gumroad.com/clydedsouza

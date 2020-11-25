@@ -1,6 +1,6 @@
 ---
 title: Marcdown
-date: "2016-01-01"
+date: "01 Jan 2016"
 description: Marcdown is an online Markdown editor built with emphasis on simplicity.
   It also allows you to save your text content as a text file, Markdown file or a
   pdf file.

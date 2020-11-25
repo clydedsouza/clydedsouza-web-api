@@ -1,6 +1,6 @@
 ---
 title: Developing and distributing NuGet packages
-date: "2019-03-07"
+date: "07 Mar 2019"
 description: Learn how to develop your very own NuGet package and then publish it
   to nuget.org. 
 hasWebsite: true

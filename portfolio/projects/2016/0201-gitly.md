@@ -1,6 +1,6 @@
 ---
 title: Gitly
-date: "2016-02-01"
+date: "01 Feb 2016"
 description: Gitly is a GitHub user lookup app that displays a GitHub user's basic
   public information in a beautiful interface. This app makes use of the GitHub API
   and is also an experiment with Angular Material.
