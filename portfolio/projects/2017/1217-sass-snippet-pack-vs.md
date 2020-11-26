@@ -1,6 +1,6 @@
 ---
 title: Sass Snippet Pack
-date: "2017-12-17"
+date: "17 Dec 2017"
 description: A snippet pack to help you write scss code. This adds a code snippet
   pack in the code snippet manager of Visual Studio.
 hasWebsite: true

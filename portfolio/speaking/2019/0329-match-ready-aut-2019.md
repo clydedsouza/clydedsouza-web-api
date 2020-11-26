@@ -1,6 +1,6 @@
 ---
 title: AUT Match Ready 2019
-date: "2019-03-29"
+date: "29 Mar 2019"
 description: I was invited to speak at the AUT Match Ready event yet another time to share my experience with current students.
 hasWebsite: true
 website: https://www.instagram.com/p/BwULmZKD5Az/

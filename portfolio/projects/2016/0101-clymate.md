@@ -1,6 +1,6 @@
 ---
 title: Clymate
-date: "2016-01-01"
+date: "01 Jan 2016"
 description: Clymate is a weather app that displays the current weather as well as
   the UV index for any given location in a beautiful interface.
 hasWebsite: true

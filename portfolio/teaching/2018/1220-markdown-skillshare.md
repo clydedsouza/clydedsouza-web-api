@@ -1,6 +1,6 @@
 ---
 title: Demystifying GitHub flavored Markdown
-date: "2018-12-20"
+date: "20 Dec 2018"
 description: Learn GitHub flavored Markdown (GFM) in this online class on Skillshare.
   Markdown is one of the simplest and cleanest forms of writing rich text content.
 hasWebsite: true

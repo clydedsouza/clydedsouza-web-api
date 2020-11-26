@@ -1,6 +1,6 @@
 ---
 title: Clyde on YouTube
-date: "2020-09-15"
+date: "15 Sep 2020"
 description: I've started uploading some interesting content on my YouTube channel. Please do check it out and leave your feedback. 
 hasWebsite: true
 website: https://www.youtube.com/channel/UCM-rrJnAhIc8EY2Aj34Wnfg

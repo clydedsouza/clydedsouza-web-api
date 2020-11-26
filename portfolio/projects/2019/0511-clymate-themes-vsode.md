@@ -1,6 +1,6 @@
 ---
 title: Clymate Themes for VS Code
-date: "2019-05-11"
+date: "11 May 2019"
 description: A collection of themes for VS Code under the Clymate themes hood.
 hasWebsite: true
 website: https://marketplace.visualstudio.com/items?itemName=clydedsouza.clymate-themes-vscode

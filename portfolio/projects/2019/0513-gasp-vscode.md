@@ -1,6 +1,6 @@
 ---
 title: Google Analytics Snippets for VS Code
-date: "2019-05-13"
+date: "13 May 2019"
 description: Google Analytics Snippets for VS Code helps you write global site tag
   (gtag.js) code with ease.
 hasWebsite: true

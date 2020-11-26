@@ -1,6 +1,6 @@
 ---
 title: Kiwi Sports
-date: "2015-09-01"
+date: "01 Sep 2015"
 description: I developed my first Windows Store App called Kiwi Sports. This app fetches the latest news, images, and videos about the All Blacks, Black Caps
   and Silver Ferns. I developed this app using XAML and C# and integrated various
   API's. This app was developed as a part of the Microsoft Student Accelerator programme.

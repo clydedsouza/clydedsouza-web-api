@@ -1,6 +1,6 @@
 ---
 title: Angular JS Workshop
-date: "2016-02-01"
+date: "01 Feb 2016"
 description: Workshop material on Angular JS 1.x. Easy to understand the basics of
   Angular JS and will give you a good kickstart in to developing your first Angular
   JS web app.
