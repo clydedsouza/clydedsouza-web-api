@@ -1,6 +1,6 @@
 ---
 title: Meta Tag Analyzer
-date: "2019-05-01"
+date: "01 May 2019"
 description: An Azure DevOps task that generates a report after analysing the meta
   tags of each page on your website.
 hasWebsite: true

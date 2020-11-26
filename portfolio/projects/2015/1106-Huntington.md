@@ -1,6 +1,6 @@
 ---
 title: Huntington's Disease Association Auckland
-date: "2015-11-06"
+date: "06 Nov 2015"
 description: Developed a WordPress website over the weekend for Huntington's Disease
   Association Auckland with a team of 9 members. I was the lead developer
   but my responsibilities also included making how-to video tutorials for the non-profit

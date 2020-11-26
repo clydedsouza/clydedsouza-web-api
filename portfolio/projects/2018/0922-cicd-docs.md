@@ -1,6 +1,6 @@
 ---
 title: CI/CD Docs
-date: "2018-09-22"
+date: "22 Sep 2018"
 description: Documenting your Azure DevOps pipeline was never easier - export, upload
   and go.
 hasWebsite: true

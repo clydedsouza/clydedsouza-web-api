@@ -1,6 +1,6 @@
 ---
 title: The Chameleon
-date: "2017-11-01"
+date: "01 Nov 2017"
 description: The Chameleon is an experiment with building a themeable website and
   using SCSS - a preprocessor for CSS - to the fullest.
 hasWebsite: true

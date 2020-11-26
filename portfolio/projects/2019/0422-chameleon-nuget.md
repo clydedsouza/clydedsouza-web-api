@@ -1,6 +1,6 @@
 ---
 title: Chameleon by Clymate Themes
-date: "2019-04-22"
+date: "22 Apr 2019"
 description: Adds a themeable website called Chameleon to your project.
 hasWebsite: true
 website: https://www.nuget.org/packages/Clymate.Themes.Chameleon/

@@ -1,6 +1,6 @@
 ---
 title: A Super Simple Introduction to Sass
-date: "2020-03-07"
+date: "07 Mar 2020"
 description: Learn the basics of Sass - a processor of CSS - using a simple 4-step process. We'll also using Scout App to convert Sass to CSS. 
 hasWebsite: true
 website: https://skl.sh/33Top0A

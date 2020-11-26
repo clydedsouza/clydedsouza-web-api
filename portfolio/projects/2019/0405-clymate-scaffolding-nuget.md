@@ -1,6 +1,6 @@
 ---
 title: Clymate Scaffolding for Sass
-date: "2019-04-05"
+date: "05 Apr 2019"
 description: Adds basic Sass scaffolding to your project. Use this scaffolding along
   with a sass compiler of your choice.
 hasWebsite: true

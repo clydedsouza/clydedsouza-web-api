@@ -1,6 +1,6 @@
 ---
 title: Profile Sticker
-date: "2017-07-01"
+date: "01 Jul 2017"
 description: Profile Sticker is a web app that allows a user to add a sticker from
   different themes to their profile picture. The user can choose to upload a picture
   from and download to a computer or Facebook.

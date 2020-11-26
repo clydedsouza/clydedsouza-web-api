@@ -1,6 +1,6 @@
 ---
 title: Tulips cover page designs
-date: "2012-12-01"
+date: "01 Dec 2012"
 description: I was responsible for designing the cover page for Tulips - a church bulletin.
   Each cover page was designed in accordance to a theme for that particular issue
   and conveyed the underlying meaning of the theme.

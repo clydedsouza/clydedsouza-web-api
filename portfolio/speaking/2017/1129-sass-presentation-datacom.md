@@ -1,6 +1,6 @@
 ---
 title: Write awesome CSS using Sass
-date: "2017-11-29"
+date: "29 Nov 2017"
 description: A lunch and learn presentation at Datacom on Sass.
 hasWebsite: true
 website: https://www.instagram.com/p/BwULmZKD5Az/

@@ -1,6 +1,6 @@
 ---
 title: Emoji Badges for VS Code
-date: "2019-05-19"
+date: "19 May 2019"
 description: Snippets to insert emoji badges to your markdown file. These are shields.io
   badges boosted with emojis.
 hasWebsite: true

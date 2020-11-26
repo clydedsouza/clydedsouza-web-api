@@ -1,6 +1,6 @@
 ---
 title: Developing and distributing NuGet packages
-date: "2019-03-21"
+date: "21 Mar 2019"
 description: A lunch and learn presentation at Datacom on NuGet.
 hasWebsite: true
 website: https://www.instagram.com/p/BwULmZKD5Az/

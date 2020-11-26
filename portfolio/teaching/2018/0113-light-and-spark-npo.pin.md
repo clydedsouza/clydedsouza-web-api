@@ -1,6 +1,6 @@
 ---
 title: Light & Spark NPO - Ruia Jan 2018 Event
-date: "2018-01-13"
+date: "13 Jan 2018"
 description: A 2-day workshop where we taught industry-relevant technologies to students
   and helped an NGO with their online requirements. This event was conducted at Ruia
   College, Mumbai.

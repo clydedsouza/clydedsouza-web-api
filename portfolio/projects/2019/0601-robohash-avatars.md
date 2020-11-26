@@ -1,6 +1,6 @@
 ---
 title: Robohash Avatars
-date: "2019-06-01"
+date: "01 Jun 2019"
 description: Generate robot-based avatar images based on any text
 hasWebsite: true
 website: http://bit.ly/robohash-avatars

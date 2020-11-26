@@ -1,6 +1,6 @@
 ---
 title: The Recipy Bot
-date: "2017-10-15"
+date: "15 Oct 2017"
 description: The Recipy Bot is my first attempt at making a bot for Facebook Messenger
   and Skype coupled with artificial intelligence using DialogFlow. Visit the website
   to add the bot to your contact list and start chatting.

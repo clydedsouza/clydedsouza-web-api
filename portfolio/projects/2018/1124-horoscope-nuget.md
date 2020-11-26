@@ -1,6 +1,6 @@
 ---
 title: Horoscope NuGet
-date: "2018-11-24"
+date: "24 Nov 2018"
 description: A .NET library for zodiac signs. Get details on each zodiac sign, pass
   a date and know which zodiac sign it falls in or get a list of all zodiac signs.
   Now includes Chinese zodiac signs and elements!
