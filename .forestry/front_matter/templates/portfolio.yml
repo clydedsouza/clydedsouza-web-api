@@ -4,49 +4,55 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Title
 - name: date
   type: text
   config:
     required: false
-  label: date
+  label: Date (DD Month YYYY)
 - type: textarea
   name: description
-  label: description
+  label: Description
 - type: boolean
   name: hasWebsite
-  label: hasWebsite
+  label: Has website?
 - type: text
   name: website
-  label: website
+  label: Website
+  showOnly:
+    field: hasWebsite
+    value: true
 - type: boolean
   name: onGithub
-  label: onGithub
+  label: On GitHub?
 - type: text
   name: github
-  label: github
+  label: GitHub URL
+  showOnly:
+    field: onGithub
+    value: true
 - type: list
   name: madeUsing
-  label: madeUsing
+  label: Made using
 - type: text
   name: category
-  label: category
+  label: Category
 - name: icon
   type: text
   config:
     required: false
-  label: icon
+  label: Icon URL
 - name: image
   type: text
   config:
     required: false
-  label: image
+  label: Image URL
 - type: text
   name: imageDescription
-  label: imageDescription
+  label: Image description (for alt text)
 - type: text
   name: relativeURL
-  label: relativeURL
+  label: Relative URL
 - type: boolean
   name: isActive
-  label: isActive
+  label: Is active?
