@@ -1,0 +1,58 @@
+---
+label: Portfolio
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Title
+- name: date
+  type: text
+  config:
+    required: false
+  label: Date (DD Month YYYY)
+- type: textarea
+  name: description
+  label: Description
+- type: boolean
+  name: hasWebsite
+  label: Has website?
+- type: text
+  name: website
+  label: Website
+  showOnly:
+    field: hasWebsite
+    value: true
+- type: boolean
+  name: onGithub
+  label: On GitHub?
+- type: text
+  name: github
+  label: GitHub URL
+  showOnly:
+    field: onGithub
+    value: true
+- type: list
+  name: madeUsing
+  label: Made using
+- type: text
+  name: category
+  label: Category
+- name: icon
+  type: text
+  config:
+    required: false
+  label: Icon URL
+- name: image
+  type: text
+  config:
+    required: false
+  label: Image URL
+- type: text
+  name: imageDescription
+  label: Image description (for alt text)
+- type: text
+  name: relativeURL
+  label: Relative URL
+- type: boolean
+  name: isActive
+  label: Is active?
