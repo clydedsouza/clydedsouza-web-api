@@ -30,9 +30,6 @@ fields:
   name: category
   label: category
 - type: file
-  name: icon
-  label: icon
-- type: file
   name: image
   label: image
 - type: text
