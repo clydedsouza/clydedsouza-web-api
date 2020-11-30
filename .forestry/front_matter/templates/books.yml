@@ -29,8 +29,15 @@ fields:
 - type: text
   name: category
   label: category
-- type: file
-  name: image
+- name: icon
+  type: text
+  config:
+    required: false
+  label: icon
+- name: image
+  type: text
+  config:
+    required: false
   label: image
 - type: text
   name: imageDescription
