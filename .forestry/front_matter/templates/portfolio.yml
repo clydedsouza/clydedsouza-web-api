@@ -5,8 +5,10 @@ fields:
 - type: text
   name: title
   label: title
-- type: datetime
-  name: date
+- name: date
+  type: text
+  config:
+    required: false
   label: date
 - type: textarea
   name: description
@@ -29,11 +31,15 @@ fields:
 - type: text
   name: category
   label: category
-- type: file
-  name: icon
+- name: icon
+  type: text
+  config:
+    required: false
   label: icon
-- type: file
-  name: image
+- name: image
+  type: text
+  config:
+    required: false
   label: image
 - type: text
   name: imageDescription
