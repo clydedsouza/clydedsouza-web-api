@@ -1,0 +1,46 @@
+---
+label: Books
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: textarea
+  name: description
+  label: description
+- type: boolean
+  name: hasWebsite
+  label: hasWebsite
+- type: text
+  name: website
+  label: website
+- type: boolean
+  name: onGithub
+  label: onGithub
+- type: text
+  name: github
+  label: github
+- type: list
+  name: madeUsing
+  label: madeUsing
+- type: text
+  name: category
+  label: category
+- type: file
+  name: icon
+  label: icon
+- type: file
+  name: image
+  label: image
+- type: text
+  name: imageDescription
+  label: imageDescription
+- type: text
+  name: relativeURL
+  label: relativeURL
+- type: boolean
+  name: isActive
+  label: isActive
