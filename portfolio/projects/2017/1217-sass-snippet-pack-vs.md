@@ -1,6 +1,6 @@
 ---
 title: Sass Snippet Pack
-date: "17 Dec 2017"
+date: 17 Dec 2017
 description: A snippet pack to help you write scss code. This adds a code snippet
   pack in the code snippet manager of Visual Studio.
 hasWebsite: true
@@ -20,10 +20,7 @@ image: https://files.clydedsouza.net/images/projects/sass-vsix-ext-siteteaser.pn
 imageDescription: A snippet pack to help you write scss code. This adds a code snippet
   pack in the code snippet manager of Visual Studio.
 isActive: true
-relativeURL: 
+relativeURL: ''
 
 ---
-
 A snippet pack to help you write scss code. This adds a code snippet pack in the code snippet manager of Visual Studio.
-
-
