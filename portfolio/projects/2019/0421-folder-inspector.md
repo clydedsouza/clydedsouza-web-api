@@ -1,6 +1,6 @@
 ---
 title: Folder Inspector
-date: "21 Apr 2019"
+date: 21 Apr 2019
 description: Folder Inspector is a command line utility that helps bulk update the
   headers and footers of Word and Excel files. This utility is provided via a NuGet
   package.
@@ -19,8 +19,7 @@ image: https://files.clydedsouza.net/images/projects/folder-inspector.jpg
 imageDescription: Folder Inspector to edit Word and Excel files developed by Clyde
   D'Souza
 isActive: true
-relativeURL: 
+relativeURL: ''
 
 ---
 Folder Inspector to edit Word and Excel files developed by Clyde D'Souza
-
