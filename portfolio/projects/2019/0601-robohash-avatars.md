@@ -1,6 +1,6 @@
 ---
 title: Robohash Avatars
-date: "01 Jun 2019"
+date: 01 Jun 2019
 description: Generate robot-based avatar images based on any text
 hasWebsite: true
 website: http://bit.ly/robohash-avatars
@@ -17,10 +17,9 @@ icon: https://files.clydedsouza.net/images/icons/robohashavatars-icon.png
 image: https://files.clydedsouza.net/images/projects/robohashavatars-siteteaser.png
 imageDescription: Generate robot-based avatar images based on any text
 isActive: true
-relativeURL: 
+relativeURL: ''
 
 ---
-
 I built an npm wrapper to use the existing [Robohash avatars](https://robohash.org/) service to generate robot-based avatar images based on any text.  
 
 ## Usage  
@@ -54,5 +53,4 @@ var avatarURL = robohashAvatars.generateAvatar({
 Release notes can be found [here](https://github.com/ClydeDz/robohash-avatars-npm/releases).   
    
 ## Credits  
-[RoboHash.org](http://robohash.org) is developed by [Colin Davis](https://github.com/e1ven) / [RoboHash GitHub](https://github.com/e1ven/Robohash).    
-
+[RoboHash.org](http://robohash.org) is developed by [Colin Davis](https://github.com/e1ven) / [RoboHash GitHub](https://github.com/e1ven/Robohash).
