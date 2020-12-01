@@ -44,7 +44,7 @@ Try {
        
         $replacedText = 'relativeURL: ' + $fullRelativeFileName 
 
-        ((Get-Content -path $fullFileName -Raw) -replace 'relativeURL:',$replacedText) | Set-Content -Path $fullFileName
+        ((Get-Content -path $fullFileName -Raw) -replace "relativeURL: ''",$replacedText) | Set-Content -Path $fullFileName
     }
     
 }
