@@ -1,8 +1,9 @@
 ---
 title: Fancy Comments
-date: "06 Feb 2018"
+date: 06 Feb 2018
 description: A snippet pack for use-case specific comments, supported for HTML, CSS,
-  JavaScript, C#, SQL and XML. Available for Visual Studio 2015, 2017 & 2019 (All editions).
+  JavaScript, C#, SQL and XML. Available for Visual Studio 2015, 2017 & 2019 (All
+  editions).
 hasWebsite: true
 website: https://marketplace.visualstudio.com/items?itemName=clydedsouza.FancyComments
 onGithub: true
@@ -20,10 +21,7 @@ image: https://files.clydedsouza.net/images/projects/fancycomments-vsix-siteteas
 imageDescription: A snippet pack for use-case specific comments, supported for HTML,
   CSS, JavaScript, C#, SQL and XML.
 isActive: true
-relativeURL: /portfolio/projects/2018/0206-fancy-comments.md 
+relativeURL: /portfolio/projects/2018/0206-fancy-comments.md
 
 ---
-
 A snippet pack for use-case specific comments, supported for HTML, CSS, JavaScript, C#, SQL and XML.
-
-

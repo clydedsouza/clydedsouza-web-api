@@ -1,6 +1,6 @@
 ---
 title: Clymate
-date: "01 Jan 2016"
+date: 01 Jan 2016
 description: Clymate is a weather app that displays the current weather as well as
   the UV index for any given location in a beautiful interface.
 hasWebsite: true
@@ -20,11 +20,7 @@ image: https://files.clydedsouza.net/images/projects/clymate.jpg
 imageDescription: Clymate is a weather plus UV forecast app made using a colourful
   and brilliant UI
 isActive: false
-relativeURL: /portfolio/projects/2016/0101-clymate.md 
+relativeURL: /portfolio/projects/2016/0101-clymate.md
 
 ---
-
 Clymate is a weather plus UV forecast app made using a colourful and brilliant UI
-
-
-

@@ -1,6 +1,6 @@
 ---
 title: Meta Tag Analyzer
-date: "01 May 2019"
+date: 01 May 2019
 description: An Azure DevOps task that generates a report after analysing the meta
   tags of each page on your website.
 hasWebsite: true
@@ -17,10 +17,7 @@ image: https://files.clydedsouza.net/images/projects/metataganalyzer.png
 imageDescription: An Azure DevOps task that generates a report after analysing the
   meta tags of each page on your website.
 isActive: true
-relativeURL: /portfolio/projects/2019/0501-meta-tag-analyzer.md 
+relativeURL: /portfolio/projects/2019/0501-meta-tag-analyzer.md
 
 ---
- 
 An Azure DevOps task that generates a report after analysing the meta tags of each page on your website.
-
-
