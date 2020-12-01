@@ -1,6 +1,6 @@
 ---
 title: CI/CD Docs
-date: "22 Sep 2018"
+date: 22 Sep 2018
 description: Documenting your Azure DevOps pipeline was never easier - export, upload
   and go.
 hasWebsite: true
@@ -21,9 +21,7 @@ image: https://files.clydedsouza.net/images/projects/cicd-docs.png
 imageDescription: Documenting your Azure DevOps pipeline was never easier - export,
   upload and go.
 isActive: true
-relativeURL: 
+relativeURL: ''
 
 ---
-
 Documenting your Azure DevOps pipeline was never easier - export, upload and go.
-
