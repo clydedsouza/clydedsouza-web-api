@@ -1,6 +1,6 @@
 ---
 title: Profile Sticker
-date: "01 Jul 2017"
+date: 01 Jul 2017
 description: Profile Sticker is a web app that allows a user to add a sticker from
   different themes to their profile picture. The user can choose to upload a picture
   from and download to a computer or Facebook.
@@ -20,10 +20,7 @@ image: https://files.clydedsouza.net/images/projects/profilesticker-website.png
 imageDescription: Add a sticker to your profile picture using Profile Sticker in just
   4 easy steps.
 isActive: true
-relativeURL: 
+relativeURL: ''
 
 ---
-
 Add a sticker to your profile picture using Profile Sticker in just 4 easy steps.
-
-

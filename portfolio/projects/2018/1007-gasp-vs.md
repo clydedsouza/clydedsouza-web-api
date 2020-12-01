@@ -1,6 +1,6 @@
 ---
 title: Google Analytics Snippet Pack
-date: "07 Oct 2018" 
+date: 07 Oct 2018
 description: Google Analytics Snippet Pack for Visual Studio helps you write global
   site tag (gtag.js) code that allows you to send event data to Google Analytics.
 hasWebsite: true
@@ -18,10 +18,7 @@ image: https://files.clydedsouza.net/images/projects/gasp-vsix.png
 imageDescription: A snippet pack for working with Google Analytics global site tag
   (gtag.js).
 isActive: true
-relativeURL: 
+relativeURL: ''
 
 ---
-
 A snippet pack for working with Google Analytics global site tag (gtag.js).
-
-

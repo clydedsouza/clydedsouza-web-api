@@ -1,6 +1,6 @@
 ---
 title: Rainbow Youth
-date: "12 Aug 2016"
+date: 12 Aug 2016
 description: Developed a learning management system over the weekend with a team of
   7 members for Rainbow Youth.
 hasWebsite: true
@@ -18,9 +18,7 @@ image: https://files.clydedsouza.net/images/projects/rainbow-youth.jpg
 imageDescription: Developed a learning management system using WordPress and Sensei
   at Impact NPO
 isActive: false
-relativeURL: 
+relativeURL: ''
 
 ---
-
 Developed a learning management system using WordPress and Sensei at Impact NPO 12th - 14th August, 2016
-

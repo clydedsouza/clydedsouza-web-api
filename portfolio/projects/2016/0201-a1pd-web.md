@@ -1,6 +1,6 @@
 ---
 title: A1 Professional Designs
-date: "01 Feb 2016"
+date: 01 Feb 2016
 description: This is the official website for A1 Professional Designs owned by Roshini
   Daruwala. The aim was to redesign and give a whole new look to the website.
 hasWebsite: true
@@ -18,9 +18,7 @@ image: https://files.clydedsouza.net/images/projects/a1pd.jpg
 imageDescription: Clyde developed a website for A1 Professional Designs owned by Roshini
   Daruwala
 isActive: false
-relativeURL: 
+relativeURL: ''
 
 ---
-
 Clyde developed a website for A1 Professional Designs owned by Roshini Daruwala
-

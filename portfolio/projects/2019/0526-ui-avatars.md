@@ -1,6 +1,6 @@
 ---
 title: UI Avatars
-date: "26 May 2019"
+date: 26 May 2019
 description: Generate avatar images based on user initials.
 hasWebsite: true
 website: http://bit.ly/ui-avatars
@@ -17,10 +17,9 @@ icon: https://files.clydedsouza.net/images/icons/uiavatars-icon.png
 image: https://files.clydedsouza.net/images/projects/uiavatars-siteteaser.png
 imageDescription: Generate avatar images based on user initials.
 isActive: true
-relativeURL: 
+relativeURL: ''
 
 ---
-
 I built an npm wrapper to use the existing [UI Avatars](https://ui-avatars.com) service to generate avatar images based on user initials.
 
 ## Examples 
@@ -31,5 +30,4 @@ I built an npm wrapper to use the existing [UI Avatars](https://ui-avatars.com) 
 [![Sample image 3](https://ui-avatars.com/api/?name=Tony%20Stark&length=1&size=120&font-size=0.8&background=23ff6c&color=000000)](https://ui-avatars.com/api/?name=Tony%20Stark&length=1&size=120&font-size=0.8&background=23ff6c&color=000000)    
 
 ## Credits  
-[UI Avatars](https://ui-avatars.com/) developed by [Lasse Rafn](https://twitter.com/lasserafn) / [GitHub](https://github.com/LasseRafn/ui-avatars).  
-
+[UI Avatars](https://ui-avatars.com/) developed by [Lasse Rafn](https://twitter.com/lasserafn) / [GitHub](https://github.com/LasseRafn/ui-avatars).

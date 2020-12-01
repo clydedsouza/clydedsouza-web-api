@@ -1,6 +1,6 @@
 ---
 title: Emoji Badges for VS Code
-date: "19 May 2019"
+date: 19 May 2019
 description: Snippets to insert emoji badges to your markdown file. These are shields.io
   badges boosted with emojis.
 hasWebsite: true
@@ -18,9 +18,7 @@ image: https://files.clydedsouza.net/images/projects/emojibadgesvscode-sitetease
 imageDescription: Snippets to insert emoji badges to your markdown file. These are
   shields.io badges boosted with emojis.
 isActive: true
-relativeURL: 
+relativeURL: ''
 
 ---
- 
 Snippets to insert emoji badges to your markdown file. These are shields.io badges boosted with emojis. I've documented the process of creating a VS Code Extension on [Medium](http://bit.ly/cdz03)
-
