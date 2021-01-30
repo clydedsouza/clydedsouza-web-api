@@ -1,5 +1,5 @@
 ---
-title: 0612-getavataaars
+title: Get Avataaars
 date: 06 Dec 2020
 description: Generate an avatar by mixing-and-matching various elements.
 hasWebsite: true
