@@ -1,5 +1,5 @@
 ---
-title: 0101-Build-a-Mobile-App-Without-Code
+title: Build a Mobile App Without Code
 date: 30 Jan 2021
 description: 'Learn how to build and publish a mobile app without using code. '
 hasWebsite: true
