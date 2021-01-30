@@ -1,5 +1,5 @@
 ---
-title: 2912-markdown-to-api
+title: Markdown to API
 date: 29 Dec 2020
 description: An Azure DevOps task that generates JSON files from Markdown files which
   can then be consumed by your front-end app. Basically, a static API generator.
