@@ -1,5 +1,5 @@
 ---
-title: 1712-give-me-an-avatar
+title: Give Me an Avatar
 date: 17 Dec 2020
 description: Gets a random avatar URL from a collection of different avatar generation
   services
