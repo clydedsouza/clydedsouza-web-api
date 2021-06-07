@@ -13,6 +13,7 @@ fields:
   name: website
   label: Website URL
 pages:
+- portfolio/highlights/hl-mama-tell-me-a-story.md
 - portfolio/highlights/hl-newsletter-subscribe.md
 - portfolio/highlights/hl-skillshare-class.md
 - portfolio/highlights/hl-udemy.md
