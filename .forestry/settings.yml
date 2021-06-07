@@ -24,6 +24,11 @@ sections:
   label: Books
   create: all
   match: "**/*"
+- type: directory
+  path: portfolio/highlights
+  label: Highlights
+  create: all
+  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
