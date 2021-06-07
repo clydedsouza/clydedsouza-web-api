@@ -1,5 +1,5 @@
 ---
-title: 0301-learn-html-tables
+title: Learn HTML Tables
 date: 01 Mar 2021
 description: Learn to write code that produces an HTML Table, create rowspans and
   colspans, and many other aspects of an HTML Table. Class available on Skillshare
