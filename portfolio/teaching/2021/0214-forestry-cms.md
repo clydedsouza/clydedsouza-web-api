@@ -1,5 +1,5 @@
 ---
-title: 0214-forestry-cms
+title: 'Learn Forestry: A Git-Based CMS'
 date: 14 Feb 2021
 description: Learn all about a git-based CMS software called Forestry. Create documents,
   templates and empower yourself to better manage a static site based CMS. Class available
