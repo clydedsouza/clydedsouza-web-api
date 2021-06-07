@@ -94,7 +94,11 @@ pages:
 - portfolio/projects/2019/0519-emoji-badges.md
 - portfolio/projects/2019/0526-ui-avatars.md
 - portfolio/projects/2019/0601-robohash-avatars.md
+- portfolio/projects/2020/0612-getavataaars.md
 - portfolio/projects/2020/0906-gumroad.md
+- portfolio/projects/2020/1712-give-me-an-avatar.md
+- portfolio/projects/2020/2212-givemeanavatar.md
+- portfolio/projects/2020/2912-markdown-to-api.md
 - portfolio/speaking/2017/1129-sass-presentation-datacom.md
 - portfolio/speaking/2018/0329-light-and-spark-presentation-datacom.md
 - portfolio/speaking/2018/0726-match-ready-aut-2018.md
@@ -107,3 +111,6 @@ pages:
 - portfolio/teaching/2019/0307-developing-nuget-skillshare.pin.md
 - portfolio/teaching/2020/0101-medium.md
 - portfolio/teaching/2020/0307-sass-skillshare.md
+- portfolio/teaching/2021/0101-build-a-mobile-app-without-code.md
+- portfolio/teaching/2021/0214-forestry-cms.md
+- portfolio/teaching/2021/0301-learn-html-tables.md
