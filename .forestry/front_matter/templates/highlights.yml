@@ -13,4 +13,5 @@ fields:
   name: website
   label: Website URL
 pages:
+- portfolio/highlights/hl-skillshare-class.md
 - portfolio/highlights/hl-udemy.md
