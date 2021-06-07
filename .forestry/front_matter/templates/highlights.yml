@@ -4,10 +4,11 @@ hide_body: true
 fields:
 - type: text
   name: text
-  label: text
+  label: Highlight text
+  description: The contents of this appears in the left sidebar of the website.
 - type: boolean
   name: hasWebsite
-  label: hasWebsite
+  label: Has website?
 - type: text
   name: website
-  label: website
+  label: Website URL
