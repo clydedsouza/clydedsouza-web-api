@@ -1,0 +1,13 @@
+---
+label: Highlights
+hide_body: true
+fields:
+- type: text
+  name: text
+  label: text
+- type: boolean
+  name: hasWebsite
+  label: hasWebsite
+- type: text
+  name: website
+  label: website
