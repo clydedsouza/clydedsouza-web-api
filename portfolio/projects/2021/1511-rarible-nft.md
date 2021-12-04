@@ -1,5 +1,5 @@
 ---
-title: 1511-rarible-nft
+title: NFT's on Rarible
 date: 15 Nov 2021
 description: 'Have a look at my NFT''s on Rarible. These designs were made using Figma! '
 hasWebsite: true
