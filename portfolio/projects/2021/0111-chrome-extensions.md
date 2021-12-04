@@ -1,5 +1,5 @@
 ---
-title: 0111-chrome-extensions
+title: Chrome Extensions
 date: 01 Nov 2021
 description: Have a look at the various Chrome extensions  developed by Clyde.
 hasWebsite: true
