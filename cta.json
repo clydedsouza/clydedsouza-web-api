@@ -1,0 +1,54 @@
+{
+  "app": {
+    "config": "./src/settings/cta.json",
+    "cwd": "./",
+    "deterministicOrder": true,
+    "display": true,
+    "dist": "public/cta.json",
+    "filePattern": "**/*.md",
+    "ignore": "",
+    "port": 3001,
+    "server": false,
+    "src": "src/cta/",
+    "name": "cta",
+    "metadata": false,
+    "version": "1.6.1"
+  },
+  "data": [
+    {
+      "id": "ai-tell-me-a-story",
+      "contents": "",
+      "title": "Get ready to share the magic of storytelling with my book AI, Tell Me a Story.",
+      "website": "https://aitellmeastory.clydedsouza.net",
+      "excerpt": ""
+    },
+    {
+      "id": "mama-tell-me-a-story",
+      "contents": "",
+      "title": "Unlock your child's superpower by reading them a story from my book Mama, Tell Me a Story",
+      "website": "https://mamatellmeastory.clydedsouza.net",
+      "excerpt": ""
+    },
+    {
+      "id": "skillshare",
+      "contents": "",
+      "title": "Learn about a healthy alternative to binge watching on Netflix.",
+      "website": "https://www.skillshare.com/r/user/clydedsouza",
+      "excerpt": ""
+    },
+    {
+      "id": "udemy",
+      "contents": "",
+      "title": "Would you invest in your future? Would you learn something new today?",
+      "website": "https://www.udemy.com/user/clydedsouza/",
+      "excerpt": ""
+    },
+    {
+      "id": "youtube",
+      "contents": "",
+      "title": "Have you seen this YouTube channel?",
+      "website": "https://www.youtube.com/@clydedz",
+      "excerpt": ""
+    }
+  ]
+}

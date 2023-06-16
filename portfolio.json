@@ -1,0 +1,321 @@
+{
+  "app": {
+    "config": "./src/settings/portfolio.json",
+    "cwd": "./",
+    "deterministicOrder": true,
+    "display": true,
+    "dist": "public/portfolio.json",
+    "filePattern": "**/*.md",
+    "ignore": "",
+    "port": 3001,
+    "server": false,
+    "src": "src/portfolio/",
+    "name": "portfolio",
+    "metadata": false,
+    "version": "1.6.1"
+  },
+  "data": [
+    {
+      "id": "20121201-tulips-cover",
+      "contents": "",
+      "title": "Tulips Cover Page Designs",
+      "date": "01 Dec 2012",
+      "description": "I was responsible for designing the cover page for Tulips—a church bulletin—that reached over a thousand families. Each cover was designed keeping a particular theme in mind and the best variation would be selected by an internal team before publishing.",
+      "website": "",
+      "github": "",
+      "madeUsing": [
+        "Photoshop"
+      ],
+      "category": "Graphic design",
+      "image": "https://files.clydedsouza.net/portfolio/tulips.jpg",
+      "imageDescription": "Church magazine cover designs by Clyde D'Souza",
+      "excerpt": ""
+    },
+    {
+      "id": "20170701-profile-sticker",
+      "contents": "",
+      "title": "Profile Sticker",
+      "date": "01 Jul 2017",
+      "description": "Profile Sticker is a web app that allows a user to add a sticker from different themes to their profile picture. The user can choose to upload a picture from their computer or from Facebook.",
+      "website": "https://profilesticker.github.io",
+      "github": "https://github.com/profilesticker/profilesticker.github.io/",
+      "madeUsing": [
+        "HTML",
+        "CSS",
+        "SCSS",
+        "JavaScript",
+        "Mustache.js"
+      ],
+      "category": "Website",
+      "image": "https://files.clydedsouza.net/portfolio/profilesticker.png",
+      "imageDescription": "Add a sticker to your profile picture using Profile Sticker in just 4 easy steps.",
+      "excerpt": ""
+    },
+    {
+      "id": "20171217-sass-snippet-pack-vs",
+      "contents": "",
+      "title": "Sass Snippet Pack",
+      "date": "17 Dec 2017",
+      "description": "A Visual Studio snippet pack to help you write scss code. This adds a code snippet pack to the code snippet manager and will be accessible using keyboard shortcuts.",
+      "website": "https://marketplace.visualstudio.com/items?itemName=clydedsouza.SassSnippetVsixExtension",
+      "github": "https://github.com/ClydeDz/sass-snippet-pack",
+      "madeUsing": [
+        "XML",
+        "SCSS",
+        "Visual C#",
+        "HTML",
+        "Bootstrap",
+        "Google Analytics (gtag)"
+      ],
+      "category": "Visual Studio extension",
+      "image": "https://files.clydedsouza.net/portfolio/sass-vsix.png",
+      "imageDescription": "A snippet pack to help you write scss code. This adds a code snippet pack in the code snippet manager of Visual Studio.",
+      "excerpt": ""
+    },
+    {
+      "id": "20180113-light-and-spark-npo.pin",
+      "contents": "",
+      "title": "Light & Spark NPO",
+      "date": "13 Jan 2018",
+      "description": "A 2-day workshop where we taught industry-relevant technologies to students and helped an NGO with their online requirements. This event was conducted at Ruia College, Mumbai on the 13th and 14th of January 2018.",
+      "website": "https://lightandsparknpo.github.io/2019-11-20-ruia-mumbai-2018/",
+      "github": "",
+      "madeUsing": [],
+      "category": "Workshop",
+      "image": "https://files.clydedsouza.net/portfolio/lightandsparknpo.png",
+      "imageDescription": "Light & Spark NPO - Ruia Jan 2018 Event",
+      "excerpt": ""
+    },
+    {
+      "id": "20180922-cicd-docs",
+      "contents": "",
+      "title": "CI/CD Docs",
+      "date": "22 Sep 2018",
+      "description": "Documenting your Azure DevOps pipeline was never easier—upload the build and release JSON files to get a PDF documentation of the pipeline.",
+      "website": "https://bit.ly/cicd-docs",
+      "github": "https://github.com/ClydeDz/cicd-docs",
+      "madeUsing": [
+        "HTML",
+        "SCSS",
+        "JavaScript",
+        "Mustache.js",
+        "Bootstrap",
+        "Google Analytics (gtag)",
+        "Netlify"
+      ],
+      "category": "Website",
+      "image": "https://files.clydedsouza.net/portfolio/cicd-docs.png",
+      "imageDescription": "Documenting your Azure DevOps pipeline was never easier - export, upload and go.",
+      "excerpt": ""
+    },
+    {
+      "id": "20181124-horoscope-nuget",
+      "contents": "",
+      "title": "Horoscope NuGet",
+      "date": "24 Nov 2018",
+      "description": "A .NET library for zodiac signs. Get details on each zodiac sign, pass a date and know which zodiac sign it falls in or get a list of all zodiac signs. Now includes Chinese zodiac signs and elements!",
+      "website": "https://www.nuget.org/packages/Horoscope/",
+      "github": "https://github.com/ClydeDz/horoscope-nuget",
+      "madeUsing": [
+        "C#",
+        "xUnit",
+        "Azure DevOps",
+        "Azure Artifacts"
+      ],
+      "category": "NuGet",
+      "image": "https://files.clydedsouza.net/portfolio/horoscope-nuget.png",
+      "imageDescription": "Horoscope—A NuGet package for zodiac signs.",
+      "excerpt": ""
+    },
+    {
+      "id": "20190307-developing-nuget-skillshare.pin",
+      "contents": "",
+      "title": "Developing and Distributing NuGet Packages",
+      "date": "07 Mar 2019",
+      "description": "Learn at your own pace how to develop your very own NuGet package and then publish it to nuget.org.",
+      "website": "https://skl.sh/2W5AA5w",
+      "github": "",
+      "madeUsing": [],
+      "category": "Online class",
+      "image": "https://files.clydedsouza.net/portfolio/ddnp.png",
+      "imageDescription": "Developing and distributing NuGet packages – Skillshare class",
+      "excerpt": ""
+    },
+    {
+      "id": "20190329-match-ready-aut-2019",
+      "contents": "",
+      "title": "AUT Match Ready 2019",
+      "date": "29 Mar 2019",
+      "description": "I was invited to speak at the AUT University's Match Ready event yet another time to share my experience with current students.",
+      "website": "https://www.instagram.com/p/BwULmZKD5Az/",
+      "github": "",
+      "madeUsing": [],
+      "category": "Panelist speaker",
+      "image": "https://files.clydedsouza.net/portfolio/aut-match-ready-2019.jpg",
+      "imageDescription": "I was invited to speak at the AUT Match Ready event yet another time to share my experience with current students.",
+      "excerpt": ""
+    },
+    {
+      "id": "20190501-meta-tag-analyzer",
+      "contents": "",
+      "title": "Meta Tag Analyzer",
+      "date": "01 May 2019",
+      "description": "An Azure DevOps task that generates a report after analysing the meta tags of each page on your website.",
+      "website": "https://marketplace.visualstudio.com/items?itemName=clydedsouza.meta-tag-analyzer",
+      "github": "https://github.com/ClydeDz/meta-tag-analyzer",
+      "madeUsing": [
+        "TypeScript",
+        "Node.js",
+        "Mocha"
+      ],
+      "category": "Azure DevOps extension",
+      "image": "https://files.clydedsouza.net/portfolio/metataganalyzer.png",
+      "imageDescription": "An Azure DevOps task that generates a report after analysing the meta tags of each page on your website.",
+      "excerpt": ""
+    },
+    {
+      "id": "20190519-emoji-badges",
+      "contents": "",
+      "title": "Emoji Badges for VS Code",
+      "date": "19 May 2019",
+      "description": "Snippets to insert emoji badges to your markdown file. These are shields.io badges boosted with emojis.",
+      "website": "http://bit.ly/emoji-badges",
+      "github": "https://github.com/ClydeDz/emoji-badges-vscode",
+      "madeUsing": [
+        "JSON",
+        "Node.js",
+        "Mocha",
+        "Istanbul+nyc"
+      ],
+      "category": "VS Code extension",
+      "image": "https://files.clydedsouza.net/portfolio/emojibadgesvscode.png",
+      "imageDescription": "Snippets to insert emoji badges to your markdown file. These are shields.io badges boosted with emojis.",
+      "excerpt": ""
+    },
+    {
+      "id": "20191114-mama-tell-me-a-story.pin",
+      "contents": "",
+      "title": "Mama, Tell Me a Story",
+      "date": "14 Nov 2019",
+      "description": "Mama, Tell Me a Story is a collection of twelve short bedtime stories that parents will love reading to their kids over and over again. The stories are engaging and revolves around characters that your kids will absolutely love. Each story holds the power to unlock your child's superpower—their imagination!",
+      "website": "https://mamatellmeastory.clydedsouza.net/",
+      "github": "",
+      "madeUsing": [
+        "Microsoft Word",
+        "Figma",
+        "Kindle Create",
+        "Canva"
+      ],
+      "category": "Book",
+      "image": "https://files.clydedsouza.net/portfolio/mama-tell-me-a-story.png",
+      "imageDescription": "Mama, Tell Me a Story is a collection of twelve short bedtime stories",
+      "excerpt": ""
+    },
+    {
+      "id": "20200515-island-golocans-miro",
+      "contents": "",
+      "title": "Retrospective in the Island of Golocans",
+      "date": "01 May 2020",
+      "description": "Grab a copy of the award-winning retrospective Miro template I put together from Miroverse and gave a pleasant time exploring this island!.",
+      "website": "https://miro.com/miroverse/retrospective-in-the-island-of-golocans/",
+      "github": "",
+      "madeUsing": [
+        "Miro",
+        "Figma"
+      ],
+      "category": "Miro",
+      "image": "https://files.clydedsouza.net/portfolio/miro-golocans.png",
+      "imageDescription": "Retrospective in the Island of Golocans—An award-winning retrospective template",
+      "excerpt": ""
+    },
+    {
+      "id": "20201112-dotnetconf.pin",
+      "contents": "",
+      "title": ".NET Conf 2020",
+      "date": "12 Nov 2020",
+      "description": "I had an amazing opportunity to speak at the .NET Conference 2020. I spoke on how to add health checks to a .NET Core application and also include its dependencies.",
+      "website": "https://youtu.be/cFslS0b_2dg",
+      "github": "",
+      "madeUsing": [],
+      "category": "Conference speaker",
+      "image": "https://files.clydedsouza.net/portfolio/dotnetconf.png",
+      "imageDescription": "Clyde D'Souza speaking at the .NET Conference 2020.",
+      "excerpt": ""
+    },
+    {
+      "id": "20201712-give-me-an-avatar",
+      "contents": "",
+      "title": "Give Me an Avatar",
+      "date": "17 Dec 2020",
+      "description": "An npm package to get a random avatar URL from a collection of different avatar generation services.",
+      "website": "https://www.npmjs.com/package/give-me-an-avatar",
+      "github": "https://github.com/ClydeDz/give-me-an-avatar-npm",
+      "madeUsing": [
+        "Node.js",
+        "Istanbul+nyc",
+        "Mocha",
+        "TypeScript"
+      ],
+      "category": "npm",
+      "image": "https://files.clydedsouza.net/portfolio/givemeanavatar-npm.png",
+      "imageDescription": "Gets a random avatar URL from a collection of different avatar generation services",
+      "excerpt": ""
+    },
+    {
+      "id": "20210111-478-breathing-chrome-ext",
+      "contents": "",
+      "title": "4-7-8 Breathing",
+      "date": "01 Nov 2021",
+      "description": "A 4-7-8 breathing exercise ready in every new tab. Relieves stress, reduces anxiety and calms the nerves.",
+      "website": "https://bit.ly/478breathing-ext",
+      "github": "https://github.com/ClydeDz/478-breathing-chrome-extension",
+      "madeUsing": [
+        "HTML",
+        "JavaScript",
+        "SCSS",
+        "Jest"
+      ],
+      "category": "Chrome extension",
+      "image": "https://files.clydedsouza.net/portfolio/478-breathing-chrome-ext.png",
+      "imageDescription": "A 4-7-8 breathing exercise ready in every new tab. Relieves stress, reduces anxiety and calms the nerves.",
+      "excerpt": ""
+    },
+    {
+      "id": "20230111-chrome-extensions-figma-template",
+      "contents": "",
+      "title": "Figma Chrome Extension Template",
+      "date": "01 Nov 2021",
+      "description": "This Figma template contains various frames built to the sizes that you'd require while publishing a Chrome extension. You can straight away design inside these frames, re-use components, and create all the required assets.",
+      "website": "https://www.figma.com/community/file/1127061326249481158",
+      "github": "",
+      "madeUsing": [
+        "Figma"
+      ],
+      "category": "Figma",
+      "image": "https://files.clydedsouza.net/portfolio/figma-chrome-ext-template.png",
+      "imageDescription": "This Figma template contains various frames built to the sizes that you'd require while publishing a Chrome extension.",
+      "excerpt": ""
+    },
+    {
+      "id": "20230511-ai-tell-me-a-story",
+      "contents": "",
+      "title": "AI, Tell Me a Story",
+      "date": "11 May 2023",
+      "description": "Looking for the perfect bedtime storybook to ignite your child's imagination and instill important values? Look no further than AI, Tell Me a Story, a collection of fifty captivating short stories, each with a valuable life lesson to teach kids.",
+      "website": "https://aitellmeastory.clydedsouza.net/",
+      "github": "",
+      "madeUsing": [
+        "Microsoft Word",
+        "Figma",
+        "Kindle Create",
+        "ChatGPT",
+        "DALL·E 2",
+        "Canva"
+      ],
+      "category": "Book",
+      "image": "https://files.clydedsouza.net/portfolio/aitellmeastory.png",
+      "imageDescription": "AI, Tell Me a Story is a collection of fifty short bedtime stories",
+      "excerpt": ""
+    }
+  ]
+}

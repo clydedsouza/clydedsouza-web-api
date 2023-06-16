@@ -1,9 +1,0 @@
-{
-  "name": "clydedsouza-projects",
-  "version": "0.0.1",
-  "author": "Clyde D'Souza",
-  "dependencies": {
-    "jsonlint": "^1.6.3",
-    "processmd": "4.5.3"
-  }
-}
