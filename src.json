@@ -7,7 +7,7 @@
     "dist": "public/src.json",
     "filePattern": "**/*.md",
     "ignore": "",
-    "port": 3001,
+    "port": 3002,
     "server": false,
     "src": "src/",
     "name": "src",
