@@ -233,20 +233,6 @@
       "excerpt": ""
     },
     {
-      "id": "platforms__060-opensea",
-      "contents": "",
-      "title": "OpenSea",
-      "date": "",
-      "description": "Have a look at my NFT's published on OpenSea. These designs were made using Figma!",
-      "website": "https://opensea.io/clydedz",
-      "github": "",
-      "madeUsing": [],
-      "category": "",
-      "image": "https://files.clydedsouza.net/platforms/opensea.png",
-      "imageDescription": "Clyde's NFT's on OpenSea",
-      "excerpt": ""
-    },
-    {
       "id": "platforms__065-tutorialspoint",
       "contents": "",
       "title": "Tutorials Point",
@@ -261,16 +247,16 @@
       "excerpt": ""
     },
     {
-      "id": "platforms__070-rarible",
+      "id": "platforms__071-glide",
       "contents": "",
-      "title": "Rarible",
+      "title": "Glide",
       "date": "",
-      "description": "Have a look at my NFT's published on Rarible. These designs were made using Figma!",
-      "website": "https://rarible.com/clydedz",
+      "description": "Purchase my no-code app templates on Glide.",
+      "website": "https://www.glideapps.com/templates/authors/clyde-dsouza",
       "github": "",
       "madeUsing": [],
       "category": "",
-      "image": "https://files.clydedsouza.net/platforms/rarible.png",
+      "image": "https://files.clydedsouza.net/platforms/glide.png",
       "imageDescription": "Clyde's NFT's on Rarible",
       "excerpt": ""
     },
