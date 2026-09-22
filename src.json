@@ -30,23 +30,23 @@
       "excerpt": ""
     },
     {
-      "id": "cta__skillshare",
+      "id": "cta__newsletter",
       "contents": "",
-      "title": "Learn about a healthy alternative to binge watching on Netflix.",
-      "website": "https://www.skillshare.com/r/user/clydedsouza",
+      "title": "Sign up for a freebie and get the occasional email from me",
+      "website": "https://newsletter.clydedsouza.net",
       "excerpt": ""
     },
     {
       "id": "cta__udemy",
       "contents": "",
-      "title": "Would you invest in your future? Would you learn something new today?",
+      "title": "Learn GitHub Flavored Markdown and explore markdown in the AI era. Buy my class on Udemy.",
       "website": "https://www.udemy.com/user/clydedsouza/",
       "excerpt": ""
     },
     {
       "id": "cta__youtube",
       "contents": "",
-      "title": "Have you seen this YouTube channel?",
+      "title": "Follow along as I explore products, tools, and practical how-tos. Subscribe to my YouTube channel",
       "website": "https://www.youtube.com/@clydedz",
       "excerpt": ""
     },
@@ -163,20 +163,6 @@
       "excerpt": ""
     },
     {
-      "id": "platforms__040-skillshare",
-      "contents": "",
-      "title": "Skillshare",
-      "date": "",
-      "description": "My online classes are available to stream on Skillshare. Use this link to get a month free on me.",
-      "website": "https://skl.sh/2QtxWrV",
-      "github": "",
-      "madeUsing": [],
-      "category": "",
-      "image": "https://files.clydedsouza.net/platforms/skillshare.png",
-      "imageDescription": "Watch Clyde's online classes on Skillshare.",
-      "excerpt": ""
-    },
-    {
       "id": "platforms__044-vsmarketplace",
       "contents": "",
       "title": "Visual Studio Marketplace",
@@ -188,20 +174,6 @@
       "category": "",
       "image": "https://files.clydedsouza.net/platforms/vsmarketplace.png",
       "imageDescription": "Clyde's Visual Studio extensions on the marketplace.",
-      "excerpt": ""
-    },
-    {
-      "id": "platforms__050-society6",
-      "contents": "",
-      "title": "Society6",
-      "date": "",
-      "description": "Shop for some cool merchandise that I've created including some book-themed merch, too.",
-      "website": "https://society6.com/clydedsouza?sort=new",
-      "github": "",
-      "madeUsing": [],
-      "category": "",
-      "image": "https://files.clydedsouza.net/platforms/society6.png",
-      "imageDescription": "Shop for merchandise created by Clyde on Society6",
       "excerpt": ""
     },
     {
@@ -359,17 +331,17 @@
       "excerpt": ""
     },
     {
-      "id": "portfolio__20190307-developing-nuget-skillshare.",
+      "id": "portfolio__20190307-developing-nuget-udemy.",
       "contents": "",
       "title": "Developing and Distributing NuGet Packages",
       "date": "07 Mar 2019",
       "description": "Learn at your own pace how to develop your very own NuGet package and then publish it to nuget.org.",
-      "website": "https://skl.sh/2W5AA5w",
+      "website": "https://www.udemy.com/course/developing-and-distributing-nuget-packages/?referralCode=F464B80268800430D691",
       "github": "",
       "madeUsing": [],
       "category": "Online class",
       "image": "https://files.clydedsouza.net/portfolio/ddnp.png",
-      "imageDescription": "Developing and distributing NuGet packages – Skillshare class",
+      "imageDescription": "Developing and distributing NuGet packages – Udemy class",
       "excerpt": ""
     },
     {
@@ -546,6 +518,23 @@
       "category": "Book",
       "image": "https://files.clydedsouza.net/portfolio/aitellmeastory.png",
       "imageDescription": "AI, Tell Me a Story is a collection of fifty short bedtime stories",
+      "excerpt": ""
+    },
+    {
+      "id": "portfolio__20260920-slack-simulator",
+      "contents": "",
+      "title": "Slack Simulator",
+      "date": "20 September 2026",
+      "description": "A local, browser-based simulator of a Slack workspace + Slack platform APIs, so you can develop and test Slack apps/bots end-to-end without installing them into a real workspace.",
+      "website": "https://clydedz.github.io/slack-simulator/",
+      "github": "https://github.com/ClydeDz/slack-simulator",
+      "madeUsing": [
+        "TypeScript",
+        "Claude"
+      ],
+      "category": "DevTool",
+      "image": "https://files.clydedsouza.net/portfolio/slacksimulator.png",
+      "imageDescription": "A local, browser-based simulator for developing and testing Slack apps and bots without installing them into a real workspace.",
       "excerpt": ""
     }
   ]
